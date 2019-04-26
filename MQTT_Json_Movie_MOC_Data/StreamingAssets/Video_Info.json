@@ -9,49 +9,7 @@
 			"thumbnail":"https://downloadapp.blob.core.windows.net/temp/2018118_163636.jpg",
 			"url":"https://azurephotoshare.blob.core.windows.net/cathaylife/_2018_0501_1807565138.mp4",
 			"desc":"藝師訪談00000"
-		}/*,
-		{
-			"title":"洪平順藝師_彩繪門神2",
-			"thumbnail":"https://downloadapp.blob.core.windows.net/temp/2018118_163636.jpg",
-			"url":"https://azurephotoshare.blob.core.windows.net/cathaylife/_2018_0501_1807565138.mp4",
-			"desc":"藝師訪談11111"
-		},
-		{
-			"title":"洪平順藝師_彩繪門神3",
-			"thumbnail":"https://downloadapp.blob.core.windows.net/temp/2018118_163636.jpg",
-			"url":"https://azurephotoshare.blob.core.windows.net/cathaylife/_2018_0501_1807565138.mp4",
-			"desc":"藝師訪談22222"
-		},
-		{
-			"title":"洪平順藝師_彩繪門神4",
-			"thumbnail":"https://downloadapp.blob.core.windows.net/temp/2018118_163636.jpg",
-			"url":"https://azurephotoshare.blob.core.windows.net/cathaylife/_2018_0501_1807565138.mp4",
-			"desc":"藝師訪談44444"
-		},
-		{
-			"title":"洪平順藝師_彩繪門神5",
-			"thumbnail":"https://downloadapp.blob.core.windows.net/temp/2018118_163636.jpg",
-			"url":"https://azurephotoshare.blob.core.windows.net/cathaylife/_2018_0501_1807565138.mp4",
-			"desc":"藝師訪談55555"
-		},
-		{
-			"title":"洪平順藝師_彩繪門神6",
-			"thumbnail":"https://downloadapp.blob.core.windows.net/temp/2018118_163636.jpg",
-			"url":"https://azurephotoshare.blob.core.windows.net/cathaylife/_2018_0501_1807565138.mp4",
-			"desc":"藝師訪談55555"
-		},
-		{
-			"title":"洪平順藝師_彩繪門神6",
-			"thumbnail":"https://downloadapp.blob.core.windows.net/temp/2018118_163636.jpg",
-			"url":"https://azurephotoshare.blob.core.windows.net/cathaylife/_2018_0501_1807565138.mp4",
-			"desc":"藝師訪談55555"
-		},
-		{
-			"title":"洪平順藝師_彩繪門神7",
-			"thumbnail":"https://downloadapp.blob.core.windows.net/temp/2018118_163636.jpg",
-			"url":"https://azurephotoshare.blob.core.windows.net/cathaylife/_2018_0501_1807565138.mp4",
-			"desc":"藝師訪談55555"
-		}*/
+		}
 	]
 	},
 	{
@@ -75,7 +33,7 @@
 			"desc":"作品介紹22222"
 		}
 	]
-	}/*,
+	},
 	{
 	"Main":"活動資訊",
 	"medias":[
@@ -103,6 +61,6 @@
 			"desc":"講座資訊00000"
 		}
 	]
-	}*/
+	}
 ]
 }
