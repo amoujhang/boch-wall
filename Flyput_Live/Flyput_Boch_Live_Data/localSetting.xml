@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalSetting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WindowRectangle>
+    <X>0</X>
+    <Y>0</Y>
+    <Width>11520</Width>
+    <Height>1200</Height>
+  </WindowRectangle>
+  <MQTT路徑>tcp://139.162.122.22:1883</MQTT路徑>
+</LocalSetting>
