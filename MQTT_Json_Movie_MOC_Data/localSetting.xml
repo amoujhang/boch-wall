@@ -2,8 +2,8 @@
 <LocalSetting xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <WindowRectangle>
     <X>0</X>
-    <Y>0</Y>
-    <Width>3437</Width>
+    <Y>80</Y>
+    <Width>3840</Width>
     <Height>1080</Height>
   </WindowRectangle>
   <MainButtonSize>
