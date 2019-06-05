@@ -1,0 +1,34 @@
+04.06.2019 21:21:39.707 [000011c0] --- App --- Immersive Display PRO v3.0.5 (01.01.2019)
+04.06.2019 21:21:39.707 [000011c0] --- OS 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+04.06.2019 21:21:39.707 [000011c0] --- Process64 C:\Program Files\Common Files\microsoft shared\ink\TabTip.exe
+04.06.2019 21:21:39.707 [000011c0] --- CmdLine [/QuitInfo:00000000000001B4;00000000000001D4;  ]
+04.06.2019 21:21:39.707 [000011c0] --- Enumerating displays ...
+04.06.2019 21:21:39.708 [000011c0] --- Device N[\\.\DISPLAY1] S[Radeon RX 580 Series] M[Generic PnP Monitor] F[desktop ]
+04.06.2019 21:21:39.709 [000011c0] --- Device N[\\.\DISPLAY2] S[Radeon RX 580 Series] M[Generic PnP Monitor] F[desktop primary ]
+04.06.2019 21:21:39.710 [000011c0] --- Device N[\\.\DISPLAY3] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:21:39.712 [000011c0] --- Device N[\\.\DISPLAY4] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:21:39.713 [000011c0] --- Device N[\\.\DISPLAY5] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:21:39.713 [000011c0] --- Device N[\\.\DISPLAY6] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:21:39.714 [000011c0] --- SM_CMONITORS         = 2
+04.06.2019 21:21:39.714 [000011c0] --- SM_SAMEDISPLAYFORMAT = 1
+04.06.2019 21:21:39.714 [000011c0] --- SM_XVIRTUALSCREEN    = 0
+04.06.2019 21:21:39.714 [000011c0] --- SM_YVIRTUALSCREEN    = 0
+04.06.2019 21:21:39.714 [000011c0] --- SM_CXVIRTUALSCREEN   = 3840
+04.06.2019 21:21:39.714 [000011c0] --- SM_CYVIRTUALSCREEN   = 1200
+04.06.2019 21:21:39.714 [000011c0] --- SM_CXCURSOR          = 32
+04.06.2019 21:21:39.714 [000011c0] ??? No displays enumerated. Retry later
+04.06.2019 21:21:39.714 [000011c0] --- hookD3D9
+04.06.2019 21:21:39.715 [000011c0] --- DirectX9 dll=03460000
+04.06.2019 21:21:39.756 [000011c0] --- DirectX9 API detected
+04.06.2019 21:21:39.756 [000011c0] --- DirectX9Ex API detected
+04.06.2019 21:21:39.756 [000011c0] --- i1: InterfaceProc1
+04.06.2019 21:21:39.757 [000011c0] --- DXGI dll=1f3f0000
+04.06.2019 21:21:39.777 [000011c0] --- DirectX DXGI API CreateDXGIFactory detected 1
+04.06.2019 21:21:39.797 [000011c0] --- DirectX DXGI API CreateDXGIFactory1 detected 1
+04.06.2019 21:21:39.817 [000011c0] --- DirectX DXGI API CreateDXGIFactory2 detected 1
+04.06.2019 21:21:39.817 [000011c0] --- DirectX DXGI API detected
+04.06.2019 21:21:39.818 [000011c0] --- DirectX D3D12 API detected hd3d12=18bc0000
+04.06.2019 21:21:39.839 [000011c0] --- DirectX D3D12 API detected 1
+04.06.2019 21:21:39.839 [000011c0] --- hookOpenGL
+04.06.2019 21:21:39.990 [000011c0] --- OpenGL API detected
+04.06.2019 21:21:40.054 [000011c0] --- PROCESS DETACH

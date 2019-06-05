@@ -1,0 +1,86 @@
+04.06.2019 21:37:02.106 [000007ec] --- App --- Immersive Display PRO v3.0.5 (01.01.2019)
+04.06.2019 21:37:02.106 [000007ec] --- OS 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+04.06.2019 21:37:02.106 [000007ec] --- Process64 C:\WINDOWS\system32\dwm.exe
+04.06.2019 21:37:02.106 [000007ec] --- CmdLine ["dwm.exe"]
+04.06.2019 21:37:02.106 [000007ec] --- Enumerating displays ...
+04.06.2019 21:37:02.121 [000007ec] --- Device N[\\.\DISPLAY1] S[Radeon RX 580 Series] M[Generic PnP Monitor] F[desktop primary ]
+04.06.2019 21:37:02.121 [000007ec] --- Device N[\\.\DISPLAY2] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:37:02.121 [000007ec] --- Device N[\\.\DISPLAY3] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:37:02.121 [000007ec] --- Device N[\\.\DISPLAY4] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:37:02.121 [000007ec] --- Device N[\\.\DISPLAY5] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:37:02.121 [000007ec] --- Device N[\\.\DISPLAY6] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:37:02.121 [000007ec] --- Device N[\\.\DISPLAY7] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:37:02.121 [000007ec] --- Device N[\\.\DISPLAY8] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:37:02.121 [000007ec] --- SM_CMONITORS         = 1
+04.06.2019 21:37:02.121 [000007ec] --- SM_SAMEDISPLAYFORMAT = 1
+04.06.2019 21:37:02.121 [000007ec] --- SM_XVIRTUALSCREEN    = 0
+04.06.2019 21:37:02.121 [000007ec] --- SM_YVIRTUALSCREEN    = 0
+04.06.2019 21:37:02.121 [000007ec] --- SM_CXVIRTUALSCREEN   = 3840
+04.06.2019 21:37:02.121 [000007ec] --- SM_CYVIRTUALSCREEN   = 1200
+04.06.2019 21:37:02.121 [000007ec] --- SM_CXCURSOR          = 32
+04.06.2019 21:37:02.121 [000007ec] --- [\\.\DISPLAY1] [Radeon RX 580 Series] [MONITOR\ADVEF2D\{4d36e96e-e325-11ce-bfc1-08002be10318}\0017] [Generic PnP Monitor]
+04.06.2019 21:37:02.121 [000007ec] --- Enumerated 1 displays
+04.06.2019 21:37:02.121 [000007ec] --- Displays initialized
+04.06.2019 21:37:02.121 [000007ec] --- Displays[0] M[00010001] HDC[13010cac] GDC[330106f2] L=0 T=0 R=3840 B=1200 RECT[0,0 3840x1200] N[\\.\DISPLAY1] M[Generic PnP Monitor] F[1] PROJ[2x1] MAPS[2]
+04.06.2019 21:37:02.121 [000007ec] ---    Grouping G[0] N[0] GD[]
+04.06.2019 21:37:02.121 [000007ec] --- ---
+04.06.2019 21:37:02.121 [000007ec] --- hookD3D9
+04.06.2019 21:37:02.121 [000007ec] --- DirectX9 dll=f0480000
+04.06.2019 21:37:02.168 [000007ec] --- DirectX9 API detected
+04.06.2019 21:37:02.168 [000007ec] --- DirectX9Ex API detected
+04.06.2019 21:37:02.168 [000007ec] --- i1: InterfaceProc1
+04.06.2019 21:37:02.168 [000007ec] --- interfaceFunc1 [\\.\DISPLAY1] totalMaps=2
+04.06.2019 21:37:02.168 [000007ec] --- DXGI dll=1eea0000
+04.06.2019 21:37:02.200 [000007ec] --- DirectX DXGI API CreateDXGIFactory detected 1
+04.06.2019 21:37:02.215 [000007ec] --- DirectX DXGI API CreateDXGIFactory1 detected 1
+04.06.2019 21:37:02.246 [000007ec] --- DirectX DXGI API CreateDXGIFactory2 detected 1
+04.06.2019 21:37:02.246 [000007ec] --- DirectX DXGI API detected
+04.06.2019 21:37:02.278 [000007ec] --- DirectX D3D11 API detected 1
+04.06.2019 21:37:02.278 [000007ec] --- DirectX D3D12 API detected hd3d12=18670000
+04.06.2019 21:37:02.293 [000007ec] --- DirectX D3D12 API detected 1
+04.06.2019 21:37:02.293 [000007ec] --- hookOpenGL
+04.06.2019 21:37:02.481 [000007ec] --- OpenGL API detected
+04.06.2019 21:37:02.590 [00002024] --- D3D11CreateDevice ADAPTER NULL
+04.06.2019 21:37:02.606 [0000202c] --- D3D11CreateDevice ADAPTER Description=Radeon RX 580 Series
+04.06.2019 21:37:02.606 [0000202c] --- Device FeatureLevels[0]=0000a100
+04.06.2019 21:37:02.606 [00002024] --- Device FeatureLevel -> 0000b000
+04.06.2019 21:37:02.606 [0000202c] --- D3D11CreateDevice ADAPTER Description=Radeon RX 580 Series
+04.06.2019 21:37:02.606 [0000202c] --- Device FeatureLevels[0]=0000c100
+04.06.2019 21:37:02.606 [0000202c] --- Device FeatureLevels[1]=0000c000
+04.06.2019 21:37:02.606 [0000202c] --- Device FeatureLevels[2]=0000b100
+04.06.2019 21:37:02.606 [0000202c] --- Device FeatureLevels[3]=0000b000
+04.06.2019 21:37:02.606 [0000202c] --- Device FeatureLevels[4]=0000a100
+04.06.2019 21:37:02.606 [0000202c] --- Device FeatureLevels[5]=0000a000
+04.06.2019 21:37:02.606 [0000202c] --- Device FeatureLevels[6]=00009300
+04.06.2019 21:37:02.606 [0000202c] --- Device FeatureLevels[7]=00009200
+04.06.2019 21:37:02.606 [0000202c] --- Device FeatureLevels[8]=00009100
+04.06.2019 21:37:02.621 [0000202c] --- Device FeatureLevel -> 0000c000
+04.06.2019 21:37:02.793 [0000202c] --- Win10SC_[01] Created
+04.06.2019 21:37:02.793 [0000202c] --- shim Winmm hLib=1e2b0000
+04.06.2019 21:37:02.793 [0000202c] --- shim Winmm 1e2b6050, 1e2b5f10, 1e2b1060, 1e2b1040
+04.06.2019 21:37:02.807 [0000202c] --- WarpContext fc953040 Output=f0662f80 DeviceName=\\.\DISPLAY1 DesktopCoordinates(0,0 3840x1200) AttachedToDesktop=1 Rotation=1 (0)
+04.06.2019 21:37:02.807 [0000202c] --- WarpContext fc953040 count 1
+04.06.2019 21:37:02.807 [0000202c] --- GMOC[f981f728] DONE
+04.06.2019 21:37:02.807 [0000202c] --- WarpContext[fc953040] Monitor=00010001
+04.06.2019 21:37:02.807 [0000202c] --- D3DXWrapper trying d3dx11_43.dll
+04.06.2019 21:37:02.808 [0000202c] --- D3DXWrapper d3dx11_43.dll loaded
+04.06.2019 21:37:02.808 [0000202c] --- WarpContext[fc953040] D3DCompiler_47.DLL loaded directly
+04.06.2019 21:37:02.808 [0000202c] --- SCISSORS 1
+04.06.2019 21:37:02.808 [0000202c] --- ANISOTROPIC 4
+04.06.2019 21:37:03.088 [0000202c] --- WarpContext fc953040 T(3840x1200) O(3840x1200) enableRotation=0 rotateDegrees=0
+04.06.2019 21:37:03.118 [0000202c] --- WarpContext[fc953040] CreateAllWarpingResources S=1 R=85 Warping=1
+04.06.2019 21:37:03.118 [0000202c] --- Cursor warping SSC=21e148e0
+04.06.2019 21:37:03.119 [0000202c] ### Cursor clear cache CC[0]
+04.06.2019 21:37:03.119 [0000202c] ### Present[fc953040] S
+04.06.2019 21:37:03.120 [0000202c] ### Present[fc953040] uSOPSAS
+04.06.2019 21:37:03.120 [0000202c] ### Present[fc953040] uSNPSAS
+04.06.2019 21:37:03.120 [0000202c] ### Present[fc953040] CR
+04.06.2019 21:37:03.120 [0000202c] ### Present[fc953040] OMSRT
+04.06.2019 21:37:03.120 [0000202c] ### Present[fc953040] uDC
+04.06.2019 21:37:03.120 [0000202c] ### Present[fc953040] OMSRT
+04.06.2019 21:37:03.123 [0000202c] ### Present[fc953040] uRBT
+04.06.2019 21:37:03.123 [0000202c] ### Present[fc953040] OMSRT
+04.06.2019 21:37:03.123 [0000202c] ### Present[fc953040] uDG
+04.06.2019 21:37:03.123 [0000202c] ### Present[fc953040] uROPSAS
+04.06.2019 21:37:03.123 [0000202c] ### Present[fc953040] E
+04.06.2019 21:37:40.840 [0000202c] --- GMOC[f981f728] DONE

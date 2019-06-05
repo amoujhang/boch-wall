@@ -1,0 +1,198 @@
+04.06.2019 21:54:28.444 [00001db4] --- Immersive Display PRO v3.0.5
+04.06.2019 21:54:28.444 [00001db4] --- OS 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+04.06.2019 21:54:28.444 [00001db4] --- SCREEN \\.\DISPLAY1
+04.06.2019 21:54:28.444 [00001db4] ------ LogicalDPI=96.000000 Scale=1.000000
+04.06.2019 21:54:28.444 [00001db4] ------ DevicePixelRatio=1.000000
+04.06.2019 21:54:28.491 [00001db4] --- Removed 0 log file(s)
+04.06.2019 21:54:28.491 [00001db4] --- ACL changed for C:\WARP000\
+04.06.2019 21:54:28.976 [00001db4] --- LicAppName=Immersive Display PRO
+04.06.2019 21:54:28.991 [00001db4] --- L1
+04.06.2019 21:54:29.432 [00001db4] --- EK2C59
+04.06.2019 21:54:30.342 [00001db4] --- DM111
+04.06.2019 21:54:31.358 [00001db4] --- LD=20190109 SD=20190101
+04.06.2019 21:54:31.358 [00001db4] --- ###[UzNZOU5YME0yNDg4OTBM]###
+04.06.2019 21:54:32.040 [00001db4] --- Displays 1/2 [20] SGD=2560932 SSC=31904
+04.06.2019 21:54:32.040 [00001db4] --- Shared 31904+5121864 5153768
+04.06.2019 21:54:32.040 [00001db4] ### PageSize=4096
+04.06.2019 21:54:32.040 [00001db4] ### MinimumApplicationAddress=00010000
+04.06.2019 21:54:32.040 [00001db4] ### MaximumApplicationAddress=7ffeffff
+04.06.2019 21:54:32.040 [00001db4] ### AllocationGranularity=65536
+04.06.2019 21:54:32.040 [00001db4] ### Res=28
+04.06.2019 21:54:32.040 [00001db4] ### BaseAddress=070f0000
+04.06.2019 21:54:32.040 [00001db4] ### AllocationBase=070f0000
+04.06.2019 21:54:32.040 [00001db4] ### AllocationProtect=00000004
+04.06.2019 21:54:32.040 [00001db4] ### RegionSize=5156864
+04.06.2019 21:54:32.040 [00001db4] ### State=00001000
+04.06.2019 21:54:32.040 [00001db4] ### Protect=00000004
+04.06.2019 21:54:32.040 [00001db4] ### Type=00040000
+04.06.2019 21:54:32.040 [00001db4] --- Config 070f0000 ZERO(0) 31904 + 5121864
+04.06.2019 21:54:32.040 [00001db4] --- Config 070f0000 ZERO(1)
+04.06.2019 21:54:32.040 [00001db4] --- Config 070f0000 ZERO(2)
+04.06.2019 21:54:32.040 [00001db4] --- R [12]->14
+04.06.2019 21:54:32.040 [00001db4] --- MP 3
+04.06.2019 21:54:32.040 [00001db4] --- Config 070f0000
+04.06.2019 21:54:32.040 [00001db4] --- Config logsFolder=C:\WARP000\logs\
+04.06.2019 21:54:32.040 [00001db4] --- Config imagesFolder=C:\WARP000\images\
+04.06.2019 21:54:32.040 [00001db4] --- Config configsFolder=C:\WARP000\config\
+04.06.2019 21:54:32.040 [00001db4] --- Enumerating displays ...
+04.06.2019 21:54:32.040 [00001db4] --- Device N[\\.\DISPLAY1] S[Radeon RX 580 Series] M[Generic PnP Monitor] F[desktop primary ]
+04.06.2019 21:54:32.040 [00001db4] --- Device N[\\.\DISPLAY2] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:54:32.040 [00001db4] --- Device N[\\.\DISPLAY3] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:54:32.040 [00001db4] --- Device N[\\.\DISPLAY4] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:54:32.040 [00001db4] --- Device N[\\.\DISPLAY5] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:54:32.040 [00001db4] --- Device N[\\.\DISPLAY6] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:54:32.040 [00001db4] --- Device N[\\.\DISPLAY7] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:54:32.040 [00001db4] --- Device N[\\.\DISPLAY8] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:54:32.040 [00001db4] --- SM_CMONITORS         = 1
+04.06.2019 21:54:32.040 [00001db4] --- SM_SAMEDISPLAYFORMAT = 1
+04.06.2019 21:54:32.040 [00001db4] --- SM_XVIRTUALSCREEN    = 0
+04.06.2019 21:54:32.040 [00001db4] --- SM_YVIRTUALSCREEN    = 0
+04.06.2019 21:54:32.040 [00001db4] --- SM_CXVIRTUALSCREEN   = 3840
+04.06.2019 21:54:32.040 [00001db4] --- SM_CYVIRTUALSCREEN   = 1200
+04.06.2019 21:54:32.040 [00001db4] --- SM_CXCURSOR          = 32
+04.06.2019 21:54:32.071 [00001db4] --- [\\.\DISPLAY1] [Radeon RX 580 Series] [MONITOR\ADVEF2D\{4d36e96e-e325-11ce-bfc1-08002be10318}\0017] [Generic PnP Monitor]
+04.06.2019 21:54:32.071 [00001db4] --- Enumerated 1 displays
+04.06.2019 21:54:32.071 [00001db4] --- Displays initialized
+04.06.2019 21:54:32.071 [00001db4] --- Displays[0] M[00010001] HDC[1e010956] GDC[4c010b1c] L=0 T=0 R=3840 B=1200 RECT[0,0 3840x1200] N[\\.\DISPLAY1] M[Generic PnP Monitor] F[1] PROJ[0x0] MAPS[0]
+04.06.2019 21:54:32.071 [00001db4] ---    Grouping G[0] N[0] GD[]
+04.06.2019 21:54:32.071 [00001db4] --- ---
+04.06.2019 21:54:32.087 [00001db4] --- Model:Config file C:\WARP000\config\config.dat does not exist
+04.06.2019 21:54:32.087 [00001db4] --- Model:Config file LCC[1]
+04.06.2019 21:54:32.087 [00001db4] --- Model:Config file CC[2]
+04.06.2019 21:54:32.087 [00001db4] --- Preferences loaded
+04.06.2019 21:54:32.087 [00001db4] ------ startMinimized 0
+04.06.2019 21:54:32.087 [00001db4] ------ showTrayNotifications 0
+04.06.2019 21:54:32.087 [00001db4] ------ autoStartDesktopWarping 1
+04.06.2019 21:54:32.087 [00001db4] ------ autoStartDesktopWarpingDelaySeconds 3
+04.06.2019 21:54:32.087 [00001db4] ------ warpCursor 1
+04.06.2019 21:54:32.087 [00001db4] ------ hideSystemCursor 0
+04.06.2019 21:54:32.087 [00001db4] ------ samplingDesktop 2
+04.06.2019 21:54:32.087 [00001db4] ------ samplingDXGL 2
+04.06.2019 21:54:32.087 [00001db4] ------ useFXAA 0
+04.06.2019 21:54:32.087 [00001db4] ------ useFXAAPresetIndex 0
+04.06.2019 21:54:32.087 [00001db4] ------ updateRateMS 20
+04.06.2019 21:54:32.087 [00001db4] ------ enableVNCControl 0
+04.06.2019 21:54:32.087 [00001db4] ------ vncPort 5900
+04.06.2019 21:54:32.087 [00001db4] ------ vncPassword 1234
+04.06.2019 21:54:32.087 [00001db4] ------ enableTelnet 0
+04.06.2019 21:54:32.087 [00001db4] ------ remoteTelnetPort 6600
+04.06.2019 21:54:32.087 [00001db4] ------ overrideDesktopRotation 0
+04.06.2019 21:54:32.087 [00001db4] ------ forcedDesktopRotation 0
+04.06.2019 21:54:32.087 [00001db4] ------ forcedScissorsRotation 0
+04.06.2019 21:54:32.087 [00001db4] ------ checkForDisplayConfigChange 0
+04.06.2019 21:54:32.087 [00001db4] ------ cropEdges 0
+04.06.2019 21:54:32.087 [00001db4] ------ cropPixels 0
+04.06.2019 21:54:32.087 [00001db4] ------ removeWindowFrame 0
+04.06.2019 21:54:32.087 [00001db4] ------ skipWarpChildWindows 0
+04.06.2019 21:54:32.087 [00001db4] ------ openGLTextureOffset 0
+04.06.2019 21:54:32.087 [00001db4] ------ disable_DX9 0
+04.06.2019 21:54:32.087 [00001db4] ------ disable_DX10 0
+04.06.2019 21:54:32.087 [00001db4] ------ disable_DX11 0
+04.06.2019 21:54:32.087 [00001db4] ------ disable_DX12 0
+04.06.2019 21:54:32.087 [00001db4] ------ disable_OpenGL 0
+04.06.2019 21:54:32.087 [00001db4] ------ disable_Vulkan 1
+04.06.2019 21:54:32.087 [00001db4] ------ forcePreserveBB_DX9 0
+04.06.2019 21:54:32.087 [00001db4] ------ forcePreserveBB_DX10 0
+04.06.2019 21:54:32.087 [00001db4] ------ forcePreserveBB_DX11 0
+04.06.2019 21:54:32.087 [00001db4] ------ forcePreserveBB_DX12 0
+04.06.2019 21:54:32.087 [00001db4] ------ forcePreserveBB_OpenGL 0
+04.06.2019 21:54:32.087 [00001db4] ------ forcePreserveBB_Vulkan 0
+04.06.2019 21:54:32.087 [00001db4] ------ enableDebanding 0
+04.06.2019 21:54:32.087 [00001db4] ------ enableWindowsSessionShutdown 0
+04.06.2019 21:54:32.087 [00001db4] ------ ignoreDWMInFullScreen 1
+04.06.2019 21:54:32.103 [00001db4] --- Excludes loaded 3
+04.06.2019 21:54:32.103 [00001db4] ------ Exclude Path=MQTT_Json_Movie_MOC.exe DX9=1 DX10=1 DX11=1 DX12=1 OGL=1 VULKAN=1 StopDWM7=0
+04.06.2019 21:54:32.103 [00001db4] ------ Exclude Path=chrome.exe DX9=1 DX10=1 DX11=1 DX12=1 OGL=1 VULKAN=1 StopDWM7=0
+04.06.2019 21:54:32.103 [00001db4] ------ Exclude Path=chrome.exe DX9=1 DX10=1 DX11=1 DX12=1 OGL=1 VULKAN=1 StopDWM7=0
+04.06.2019 21:54:32.103 [00001db4] --- Sets configSet=1
+04.06.2019 21:54:32.103 [00001db4] --- Sets configSetFile[1]=C:\WARP000\config\20190509.dat
+04.06.2019 21:54:32.103 [00001db4] --- Sets configSetFile[2]=C:\WARP000\config\config2.dat
+04.06.2019 21:54:32.103 [00001db4] --- Sets configSetFile[3]=C:\WARP000\config\config3.dat
+04.06.2019 21:54:32.103 [00001db4] --- Sets configSetFile[4]=C:\WARP000\config\config4.dat
+04.06.2019 21:54:32.103 [00001db4] --- Sets configSetFile[5]=C:\WARP000\config\config5.dat
+04.06.2019 21:54:32.103 [00001db4] --- Sets configSetFile[6]=C:\WARP000\config\config6.dat
+04.06.2019 21:54:32.103 [00001db4] --- Sets configSetFile[7]=C:\WARP000\config\config7.dat
+04.06.2019 21:54:32.103 [00001db4] --- Sets configSetFile[8]=C:\WARP000\config\config8.dat
+04.06.2019 21:54:32.118 [00001db4] --- Loaded Displays[0] \\.\DISPLAY1 Generic PnP Monitor L=0 T=0 R=3840 B=1200 loadedDisplaysWithPositionAndSize=1
+04.06.2019 21:54:32.149 [00001db4] --- Displays loaded
+04.06.2019 21:54:32.149 [00001db4] --- Displays[0] M[00010001] HDC[1e010956] GDC[4c010b1c] L=0 T=0 R=3840 B=1200 RECT[0,0 3840x1200] N[\\.\DISPLAY1] M[Generic PnP Monitor] F[1] PROJ[2x1] MAPS[2]
+04.06.2019 21:54:32.149 [00001db4] ---    Grouping G[0] N[0] GD[]
+04.06.2019 21:54:32.149 [00001db4] --- Model:Config file C:\WARP000\config\20190509.dat loaded
+04.06.2019 21:54:32.149 [00001db4] --- Model:Config file LCC[3]
+04.06.2019 21:54:32.149 [00001db4] --- Model:Config file CC[4]
+04.06.2019 21:54:32.149 [00001db4] --- Sets manager selectSet[1]->1
+04.06.2019 21:54:32.165 [00001db4] --- Schedules STOP
+04.06.2019 21:54:32.165 [00001db4] --- Schedules STOP
+04.06.2019 21:54:32.165 [00001db4] --- Autoruns 0
+04.06.2019 21:54:32.181 [00001db4] $$$ Immersive Display PRO v3.0.5 (01.01.2019)
+04.06.2019 21:54:32.181 [00001db4] $$$ 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+04.06.2019 21:54:32.417 [00001db4] $$$ P64[00001ec0] [git.exe][C:\Users\own\scoop\shims\git.exe] started
+04.06.2019 21:54:32.517 [00001db4] --- Run all autoruns
+04.06.2019 21:54:32.798 [00001db4] $$$ P64[00001ef0] [git.exe][C:\Users\own\scoop\apps\git\current\cmd\git.exe] started
+04.06.2019 21:54:33.251 [00001db4] $$$ P64[00001f08] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\bin\git.exe] started
+04.06.2019 21:54:33.735 [00001db4] $$$ P64[00001f30] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+04.06.2019 21:54:34.173 [00001db4] $$$ P64[00001f4c] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+04.06.2019 21:54:34.673 [00001db4] $$$ P64[00001f78] [git-remote-https.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git-remote-https.exe] started
+04.06.2019 21:54:35.438 [00001db4] --- onToggleDesktopWarp isDWMAvailable=1
+04.06.2019 21:54:35.438 [00001db4] --- onToggleDesktopWarp TOGGLED
+04.06.2019 21:54:35.438 [00001db4] $$$ incremented dwmRestartCount=1
+04.06.2019 21:54:36.077 [00001db4] $$$ P32[000013dc] [TeamViewer.exe][C:\Program Files (x86)\TeamViewer\TeamViewer.exe] started
+04.06.2019 21:54:36.155 [00001db4] $$$ P64[00001d98] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+04.06.2019 21:54:36.202 [00001db4] $$$ P64[000017fc] [dwm.exe][C:\WINDOWS\system32\dwm.exe] started
+04.06.2019 21:54:36.702 [00001db4] $$$ P64[000020bc] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+04.06.2019 21:54:37.354 [00001db4] $$$ P64[00002114] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+04.06.2019 21:54:37.932 [00001db4] $$$ P64[000021dc] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+04.06.2019 21:54:50.996 [00001db4] --- instanceMessageReceived Wake up!
+04.06.2019 21:55:00.824 [00001db4] $$$ P64[00002330] [MCEControl.exe][C:\Program Files (x86)\Kindel Systems\MCE Controller\MCEControl.exe] started
+04.06.2019 21:56:12.113 [00001db4] $$$ P64[00001f60] [AUEPLauncher.exe][C:\Program Files\AMD\Performance Profile Client\AUEPLauncher.exe] started
+04.06.2019 21:56:12.534 [00001db4] $$$ P64[00002018] [AUEPMaster.exe][C:\Program Files\AMD\Performance Profile Client\AUEPMaster.exe] started
+04.06.2019 21:56:12.987 [00001db4] $$$ P64[0000213c] [esrv_svc.exe][C:\Program Files\Intel\SUR\QUEENCREEK\x64\esrv_svc.exe] started
+04.06.2019 21:56:13.654 [00001db4] $$$ P32[00001fb0] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+04.06.2019 21:56:14.028 [00001db4] $$$ P32[00001a34] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+04.06.2019 21:56:14.138 [00001db4] $$$ P32[00001a38] [jhi_service.exe][C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL\jhi_service.exe] started
+04.06.2019 21:56:14.405 [00001db4] $$$ P32[00001f40] [GoogleCrashHandler.exe][C:\Program Files (x86)\Google\Update\1.3.34.11\GoogleCrashHandler.exe] started
+04.06.2019 21:56:14.410 [00001db4] $$$ P64[00001f34] [GoogleCrashHandler64.exe][C:\Program Files (x86)\Google\Update\1.3.34.11\GoogleCrashHandler64.exe] started
+04.06.2019 21:56:14.639 [00001db4] $$$ P32[00001ed0] [LMS.exe][C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\LMS\LMS.exe] started
+04.06.2019 21:56:19.275 [00001db4] $$$ P64[00001e58] [AUEPUF.exe][C:\Program Files\AMD\Performance Profile Client\AUEPUF.exe] started
+04.06.2019 21:57:12.527 [00001db4] $$$ P32[00000540] [IntelSoftwareAssetManagerService.exe][C:\Program Files\Intel\SUR\QUEENCREEK\Updater\bin\IntelSoftwareAssetManagerService.exe] started
+04.06.2019 21:57:14.199 [00001db4] $$$ P32[00001b38] [wmiprvse.exe][C:\WINDOWS\sysWOW64\wbem\wmiprvse.exe] started
+04.06.2019 21:58:12.284 [00001db4] $$$ P64[00001f40] [task.exe][C:\Program Files\Intel\SUR\QUEENCREEK\x64\task.exe] started
+04.06.2019 21:58:12.667 [00001db4] $$$ P64[000021f0] [esrv.exe][C:\Program Files\Intel\SUR\QUEENCREEK\x64\esrv.exe] started
+04.06.2019 21:58:13.410 [00001db4] $$$ P64[00001cc8] [esrv_svc.exe][C:\Program Files\Intel\SUR\QUEENCREEK\x64\esrv_svc.exe] started
+04.06.2019 21:59:12.230 [00001db4] $$$ P32[00001cd4] [IntelSoftwareAssetManagerService.exe][C:\Program Files\Intel\SUR\QUEENCREEK\Updater\bin\IntelSoftwareAssetManagerService.exe] started
+04.06.2019 21:59:12.871 [00001db4] $$$ P32[0000102c] [IntelSoftwareAssetManagerService.exe][C:\Program Files\Intel\SUR\QUEENCREEK\Updater\bin\IntelSoftwareAssetManagerService.exe] started
+04.06.2019 22:04:11.339 [00001db4] $$$ P32[00001cc8] [IntelSoftwareAssetManagerService.exe][C:\Program Files\Intel\SUR\QUEENCREEK\Updater\bin\IntelSoftwareAssetManagerService.exe] started
+04.06.2019 22:04:11.799 [00001db4] $$$ P64[00001118] [MpCmdRun.exe][C:\ProgramData\Microsoft\Windows Defender\platform\4.18.1905.4-0\MpCmdRun.exe] started
+04.06.2019 22:04:12.145 [00001db4] $$$ P64[00001f10] [MpCmdRun.exe][C:\ProgramData\Microsoft\Windows Defender\platform\4.18.1905.4-0\MpCmdRun.exe] started
+04.06.2019 22:04:12.628 [00001db4] $$$ P64[00001de0] [MpCmdRun.exe][C:\ProgramData\Microsoft\Windows Defender\platform\4.18.1905.4-0\MpCmdRun.exe] started
+04.06.2019 22:35:21.590 [00001db4] $$$ P32[00001364] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+04.06.2019 23:35:21.591 [00001db4] $$$ P32[000014c8] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+04.06.2019 23:54:12.284 [00001db4] $$$ P64[00000d08] [TiWorker.exe][C:\WINDOWS\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.17763.402_none_7e502ee34cd6a6f5\TiWorker.exe] started
+05.06.2019 00:35:21.591 [00001db4] $$$ P32[00000660] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+05.06.2019 00:35:31.934 [00001db4] $$$ P32[000013e4] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+05.06.2019 00:58:12.254 [00001db4] $$$ P64[00001630] [task.exe][C:\Program Files\Intel\SUR\QUEENCREEK\x64\task.exe] started
+05.06.2019 00:58:12.557 [00001db4] $$$ P64[00001f08] [esrv.exe][C:\Program Files\Intel\SUR\QUEENCREEK\x64\esrv.exe] started
+05.06.2019 01:35:21.590 [00001db4] $$$ P32[00002324] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+05.06.2019 02:35:21.590 [00001db4] $$$ P32[000002bc] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+05.06.2019 03:35:21.591 [00001db4] $$$ P32[000021a4] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+05.06.2019 03:58:12.253 [00001db4] $$$ P64[000008b4] [task.exe][C:\Program Files\Intel\SUR\QUEENCREEK\x64\task.exe] started
+05.06.2019 03:58:12.557 [00001db4] $$$ P64[00000c28] [esrv.exe][C:\Program Files\Intel\SUR\QUEENCREEK\x64\esrv.exe] started
+05.06.2019 04:35:21.591 [00001db4] $$$ P32[00001070] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+05.06.2019 05:35:21.590 [00001db4] $$$ P32[00001888] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+05.06.2019 05:35:42.090 [00001db4] $$$ P32[00001790] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+05.06.2019 06:35:21.591 [00001db4] $$$ P32[000023b4] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+05.06.2019 06:58:12.254 [00001db4] $$$ P64[000014cc] [task.exe][C:\Program Files\Intel\SUR\QUEENCREEK\x64\task.exe] started
+05.06.2019 06:58:12.573 [00001db4] $$$ P64[0000220c] [esrv.exe][C:\Program Files\Intel\SUR\QUEENCREEK\x64\esrv.exe] started
+05.06.2019 07:35:21.591 [00001db4] $$$ P32[0000158c] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+05.06.2019 08:35:21.591 [00001db4] $$$ P32[00002038] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+05.06.2019 08:35:21.902 [00001db4] $$$ P32[00001750] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+05.06.2019 08:35:21.996 [00001db4] $$$ P32[00001dd0] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+05.06.2019 08:35:22.201 [00001db4] $$$ P32[00001a60] [GoogleCrashHandler.exe][C:\Program Files (x86)\Google\Update\1.3.34.11\GoogleCrashHandler.exe] started
+05.06.2019 08:35:22.218 [00001db4] $$$ P32[0000221c] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+05.06.2019 08:35:22.224 [00001db4] $$$ P64[000021f8] [GoogleCrashHandler64.exe][C:\Program Files (x86)\Google\Update\1.3.34.11\GoogleCrashHandler64.exe] started
+05.06.2019 09:35:21.591 [00001db4] $$$ P32[00000374] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+05.06.2019 09:58:12.269 [00001db4] $$$ P64[000022f4] [task.exe][C:\Program Files\Intel\SUR\QUEENCREEK\x64\task.exe] started
+05.06.2019 09:58:12.573 [00001db4] $$$ P64[00001f00] [esrv.exe][C:\Program Files\Intel\SUR\QUEENCREEK\x64\esrv.exe] started
+05.06.2019 10:35:22.513 [00001db4] $$$ P32[00001718] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+05.06.2019 10:35:30.965 [00001db4] $$$ P32[00001ca4] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+05.06.2019 10:41:18.503 [00001db4] !!! onWindowsSessionEnded 0

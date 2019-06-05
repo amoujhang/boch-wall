@@ -1,0 +1,41 @@
+04.06.2019 21:50:12.335 [00001fa0] --- App --- Immersive Display PRO v3.0.5 (01.01.2019)
+04.06.2019 21:50:12.335 [00001fa0] --- OS 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+04.06.2019 21:50:12.335 [00001fa0] --- Process64 C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe
+04.06.2019 21:50:12.335 [00001fa0] --- CmdLine [git rev-list --objects --stdin --not --all --quiet]
+04.06.2019 21:50:12.335 [00001fa0] --- Enumerating displays ...
+04.06.2019 21:50:12.335 [00001fa0] --- Device N[\\.\DISPLAY1] S[Radeon RX 580 Series] M[Generic PnP Monitor] F[desktop primary ]
+04.06.2019 21:50:12.335 [00001fa0] --- Device N[\\.\DISPLAY2] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:50:12.335 [00001fa0] --- Device N[\\.\DISPLAY3] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:50:12.335 [00001fa0] --- Device N[\\.\DISPLAY4] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:50:12.335 [00001fa0] --- Device N[\\.\DISPLAY5] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:50:12.350 [00001fa0] --- Device N[\\.\DISPLAY6] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:50:12.366 [00001fa0] --- Device N[\\.\DISPLAY7] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:50:12.366 [00001fa0] --- Device N[\\.\DISPLAY8] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:50:12.366 [00001fa0] --- SM_CMONITORS         = 1
+04.06.2019 21:50:12.366 [00001fa0] --- SM_SAMEDISPLAYFORMAT = 1
+04.06.2019 21:50:12.366 [00001fa0] --- SM_XVIRTUALSCREEN    = 0
+04.06.2019 21:50:12.366 [00001fa0] --- SM_YVIRTUALSCREEN    = 0
+04.06.2019 21:50:12.366 [00001fa0] --- SM_CXVIRTUALSCREEN   = 1920
+04.06.2019 21:50:12.366 [00001fa0] --- SM_CYVIRTUALSCREEN   = 1200
+04.06.2019 21:50:12.366 [00001fa0] --- SM_CXCURSOR          = 32
+04.06.2019 21:50:13.944 [00001fa0] --- [\\.\DISPLAY1] [Radeon RX 580 Series] [MONITOR\ADVEF2D\{4d36e96e-e325-11ce-bfc1-08002be10318}\0017] [Generic PnP Monitor]
+04.06.2019 21:50:13.975 [00001fa0] --- Enumerated 1 displays
+04.06.2019 21:50:13.975 [00001fa0] --- Displays initialized
+04.06.2019 21:50:13.975 [00001fa0] --- Displays[0] M[00010001] HDC[21010c9d] GDC[5401002d] L=0 T=0 R=3840 B=1200 RECT[0,0 3840x1200] N[\\.\DISPLAY1] M[Generic PnP Monitor] F[1] PROJ[0x0] MAPS[0]
+04.06.2019 21:50:13.975 [00001fa0] ---    Grouping G[0] N[0] GD[]
+04.06.2019 21:50:13.975 [00001fa0] --- ---
+04.06.2019 21:50:13.975 [00001fa0] --- hookD3D9
+04.06.2019 21:50:13.991 [00001fa0] --- DirectX9 dll=82790000
+04.06.2019 21:50:14.053 [00001fa0] --- DirectX9 API detected
+04.06.2019 21:50:14.053 [00001fa0] --- DirectX9Ex API detected
+04.06.2019 21:50:14.053 [00001fa0] --- i1: InterfaceProc1
+04.06.2019 21:50:14.053 [00001fa0] --- DXGI dll=b1270000
+04.06.2019 21:50:14.084 [00001fa0] --- DirectX DXGI API CreateDXGIFactory detected 1
+04.06.2019 21:50:14.115 [00001fa0] --- DirectX DXGI API CreateDXGIFactory1 detected 1
+04.06.2019 21:50:14.147 [00001fa0] --- DirectX DXGI API CreateDXGIFactory2 detected 1
+04.06.2019 21:50:14.147 [00001fa0] --- DirectX DXGI API detected
+04.06.2019 21:50:14.147 [00001fa0] --- DirectX D3D12 API detected hd3d12=aa8c0000
+04.06.2019 21:50:14.162 [00001fa0] --- DirectX D3D12 API detected 1
+04.06.2019 21:50:14.162 [00001fa0] --- hookOpenGL
+04.06.2019 21:50:14.337 [00001fa0] --- OpenGL API detected
+04.06.2019 21:50:14.402 [00001fa0] --- PROCESS DETACH

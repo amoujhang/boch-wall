@@ -1,0 +1,43 @@
+04.06.2019 14:01:53.317 [000021e0] --- App --- Immersive Display PRO v3.0.5 (01.01.2019)
+04.06.2019 14:01:53.317 [000021e0] --- OS 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+04.06.2019 14:01:53.317 [000021e0] --- Process64 C:\boch-wall\MQTT_Json_Movie_MOC.exe
+04.06.2019 14:01:53.317 [000021e0] --- CmdLine ["C:\boch-wall\MQTT_Json_Movie_MOC.exe" ]
+04.06.2019 14:01:53.317 [000021e0] --- Enumerating displays ...
+04.06.2019 14:01:53.318 [000021e0] --- Device N[\\.\DISPLAY1] S[Radeon RX 580 Series] M[Generic PnP Monitor] F[desktop primary ]
+04.06.2019 14:01:53.319 [000021e0] --- Device N[\\.\DISPLAY2] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 14:01:53.319 [000021e0] --- Device N[\\.\DISPLAY3] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 14:01:53.320 [000021e0] --- Device N[\\.\DISPLAY4] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 14:01:53.320 [000021e0] --- Device N[\\.\DISPLAY5] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 14:01:53.321 [000021e0] --- Device N[\\.\DISPLAY6] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 14:01:53.321 [000021e0] --- Device N[\\.\DISPLAY7] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 14:01:53.322 [000021e0] --- Device N[\\.\DISPLAY8] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 14:01:53.322 [000021e0] --- SM_CMONITORS         = 1
+04.06.2019 14:01:53.322 [000021e0] --- SM_SAMEDISPLAYFORMAT = 1
+04.06.2019 14:01:53.322 [000021e0] --- SM_XVIRTUALSCREEN    = 0
+04.06.2019 14:01:53.322 [000021e0] --- SM_YVIRTUALSCREEN    = 0
+04.06.2019 14:01:53.322 [000021e0] --- SM_CXVIRTUALSCREEN   = 3840
+04.06.2019 14:01:53.322 [000021e0] --- SM_CYVIRTUALSCREEN   = 1200
+04.06.2019 14:01:53.322 [000021e0] --- SM_CXCURSOR          = 32
+04.06.2019 14:01:53.325 [000021e0] --- [\\.\DISPLAY1] [Radeon RX 580 Series] [MONITOR\ADVEF2D\{4d36e96e-e325-11ce-bfc1-08002be10318}\0013] [Generic PnP Monitor]
+04.06.2019 14:01:53.325 [000021e0] --- Enumerated 1 displays
+04.06.2019 14:01:53.325 [000021e0] --- Displays initialized
+04.06.2019 14:01:53.325 [000021e0] --- Displays[0] M[00010001] HDC[32010d66] GDC[ef010136] L=0 T=0 R=3840 B=1200 RECT[0,0 3840x1200] N[\\.\DISPLAY1] M[Generic PnP Monitor] F[1] PROJ[2x1] MAPS[2]
+04.06.2019 14:01:53.325 [000021e0] ---    Grouping G[0] N[0] GD[]
+04.06.2019 14:01:53.325 [000021e0] --- ---
+04.06.2019 14:01:53.325 [000021e0] --- i1:Executable MQTT_Json_Movie_MOC.exe is excluded DX9
+04.06.2019 14:01:53.326 [000021e0] --- DXGI dll=7ce30000
+04.06.2019 14:01:53.349 [000021e0] --- DirectX DXGI API CreateDXGIFactory detected 1
+04.06.2019 14:01:53.373 [000021e0] --- DirectX DXGI API CreateDXGIFactory1 detected 1
+04.06.2019 14:01:53.397 [000021e0] --- DirectX DXGI API CreateDXGIFactory2 detected 1
+04.06.2019 14:01:53.397 [000021e0] --- DirectX DXGI API detected
+04.06.2019 14:01:53.397 [000021e0] --- DirectX D3D12 API detected hd3d12=75c40000
+04.06.2019 14:01:53.421 [000021e0] --- DirectX D3D12 API detected 1
+04.06.2019 14:01:53.421 [000021e0] --- i2: InterfaceProc1
+04.06.2019 14:01:53.421 [000021e0] --- interfaceFunc1 [\\.\DISPLAY1] totalMaps=2
+04.06.2019 14:01:53.421 [000021e0] --- i3:Executable MQTT_Json_Movie_MOC.exe is excluded OGL
+04.06.2019 14:01:53.916 [000021e0] --- CDXGIF Executable MQTT_Json_Movie_MOC.exe exclusion DX10(1), DX11(1), DX12(1)
+04.06.2019 14:01:53.916 [000021e0] --- CDXGIF Executable MQTT_Json_Movie_MOC.exe is excluded DX10, DX11 or DX12
+04.06.2019 14:01:53.936 [000021e0] --- CDXGIF Executable MQTT_Json_Movie_MOC.exe exclusion DX10(1), DX11(1), DX12(1)
+04.06.2019 14:01:53.936 [000021e0] --- CDXGIF Executable MQTT_Json_Movie_MOC.exe is excluded DX10, DX11 or DX12
+04.06.2019 14:01:54.137 [000021e0] --- CDXGIF Executable MQTT_Json_Movie_MOC.exe exclusion DX10(1), DX11(1), DX12(1)
+04.06.2019 14:01:54.137 [000021e0] --- CDXGIF Executable MQTT_Json_Movie_MOC.exe is excluded DX10, DX11 or DX12

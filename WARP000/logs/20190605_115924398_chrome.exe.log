@@ -1,0 +1,38 @@
+05.06.2019 11:59:24.398 [00002bcc] --- App --- Immersive Display PRO v3.0.5 (01.01.2019)
+05.06.2019 11:59:24.399 [00002bcc] --- OS 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+05.06.2019 11:59:24.399 [00002bcc] --- Process64 C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+05.06.2019 11:59:24.399 [00002bcc] --- CmdLine ["C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --type=utility --field-trial-handle=1868,15715822800675929989,7107920545248852839,131072 --lang=zh-TW --service-sandbox-type=network --service-request-channel-token=13076007189018514379 --mojo-pla?]
+05.06.2019 11:59:24.399 [00002bcc] --- Enumerating displays ...
+05.06.2019 11:59:24.400 [00002bcc] --- Device N[\\.\DISPLAY1] S[Radeon RX 580 Series] M[Generic PnP Monitor] F[desktop primary ]
+05.06.2019 11:59:24.401 [00002bcc] --- Device N[\\.\DISPLAY2] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:59:24.401 [00002bcc] --- Device N[\\.\DISPLAY3] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:59:24.402 [00002bcc] --- Device N[\\.\DISPLAY4] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:59:24.403 [00002bcc] --- Device N[\\.\DISPLAY5] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:59:24.404 [00002bcc] --- Device N[\\.\DISPLAY6] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:59:24.405 [00002bcc] --- Device N[\\.\DISPLAY7] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:59:24.405 [00002bcc] --- Device N[\\.\DISPLAY8] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:59:24.405 [00002bcc] --- SM_CMONITORS         = 1
+05.06.2019 11:59:24.405 [00002bcc] --- SM_SAMEDISPLAYFORMAT = 1
+05.06.2019 11:59:24.405 [00002bcc] --- SM_XVIRTUALSCREEN    = 0
+05.06.2019 11:59:24.405 [00002bcc] --- SM_YVIRTUALSCREEN    = 0
+05.06.2019 11:59:24.405 [00002bcc] --- SM_CXVIRTUALSCREEN   = 3840
+05.06.2019 11:59:24.405 [00002bcc] --- SM_CYVIRTUALSCREEN   = 1200
+05.06.2019 11:59:24.405 [00002bcc] --- SM_CXCURSOR          = 32
+05.06.2019 11:59:24.409 [00002bcc] --- [\\.\DISPLAY1] [Radeon RX 580 Series] [MONITOR\ADVEF2D\{4d36e96e-e325-11ce-bfc1-08002be10318}\0017] [Generic PnP Monitor]
+05.06.2019 11:59:24.410 [00002bcc] --- Enumerated 1 displays
+05.06.2019 11:59:24.410 [00002bcc] --- Displays initialized
+05.06.2019 11:59:24.410 [00002bcc] --- Displays[0] M[00010001] HDC[f00111a9] GDC[4f0112a4] L=0 T=0 R=3840 B=1200 RECT[0,0 3840x1200] N[\\.\DISPLAY1] M[Generic PnP Monitor] F[1] PROJ[2x1] MAPS[2]
+05.06.2019 11:59:24.410 [00002bcc] ---    Grouping G[0] N[0] GD[]
+05.06.2019 11:59:24.410 [00002bcc] --- ---
+05.06.2019 11:59:24.410 [00002bcc] --- i1:Executable chrome.exe is excluded DX9
+05.06.2019 11:59:24.410 [00002bcc] --- DXGI dll=95b60000
+05.06.2019 11:59:24.456 [00002bcc] --- DirectX DXGI API CreateDXGIFactory detected 1
+05.06.2019 11:59:24.501 [00002bcc] --- DirectX DXGI API CreateDXGIFactory1 detected 1
+05.06.2019 11:59:24.547 [00002bcc] --- DirectX DXGI API CreateDXGIFactory2 detected 1
+05.06.2019 11:59:24.547 [00002bcc] --- DirectX DXGI API detected
+05.06.2019 11:59:24.548 [00002bcc] --- DirectX D3D12 API detected hd3d12=8f360000
+05.06.2019 11:59:24.592 [00002bcc] --- DirectX D3D12 API detected 1
+05.06.2019 11:59:24.592 [00002bcc] --- i2: InterfaceProc1
+05.06.2019 11:59:24.592 [00002bcc] --- interfaceFunc1 [\\.\DISPLAY1] totalMaps=2
+05.06.2019 11:59:24.592 [00002bcc] --- i3:Executable chrome.exe is excluded OGL
+05.06.2019 12:00:04.501 [00002bcc] --- PROCESS DETACH

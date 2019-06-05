@@ -1,0 +1,31 @@
+04.06.2019 21:40:13.699 [000020c0] ??? OSM handle == NULL error=2
+04.06.2019 21:40:13.699 [000020c0] ^^^ SC trying session1
+--- [2]
+04.06.2019 21:40:13.700 [000020c0] --- App --- Immersive Display PRO v3.0.5 (01.01.2019)
+04.06.2019 21:40:13.700 [000020c0] --- OS 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+04.06.2019 21:40:13.700 [000020c0] --- Process32 C:\Program Files (x86)\Google\Update\GoogleUpdate.exe
+04.06.2019 21:40:13.700 [000020c0] --- CmdLine ["C:\Program Files (x86)\Google\Update\GoogleUpdate.exe" /svc]
+04.06.2019 21:40:13.700 [000020c0] --- Enumerating displays ...
+04.06.2019 21:40:13.700 [000020c0] --- SM_CMONITORS         = 1
+04.06.2019 21:40:13.700 [000020c0] --- SM_SAMEDISPLAYFORMAT = 1
+04.06.2019 21:40:13.700 [000020c0] --- SM_XVIRTUALSCREEN    = 0
+04.06.2019 21:40:13.700 [000020c0] --- SM_YVIRTUALSCREEN    = 0
+04.06.2019 21:40:13.700 [000020c0] --- SM_CXVIRTUALSCREEN   = 1024
+04.06.2019 21:40:13.700 [000020c0] --- SM_CYVIRTUALSCREEN   = 768
+04.06.2019 21:40:13.700 [000020c0] --- SM_CXCURSOR          = 32
+04.06.2019 21:40:13.700 [000020c0] ??? No displays enumerated. Retry later
+04.06.2019 21:40:13.700 [000020c0] --- hookD3D9
+04.06.2019 21:40:13.701 [000020c0] --- DirectX9 dll=71b10000
+04.06.2019 21:40:13.738 [000020c0] --- DirectX9 API detected
+04.06.2019 21:40:13.738 [000020c0] --- DirectX9Ex API detected
+04.06.2019 21:40:13.738 [000020c0] --- i1: InterfaceProc1
+04.06.2019 21:40:13.738 [000020c0] --- DXGI dll=72ad0000
+04.06.2019 21:40:13.757 [000020c0] --- DirectX DXGI API CreateDXGIFactory detected 1
+04.06.2019 21:40:13.775 [000020c0] --- DirectX DXGI API CreateDXGIFactory1 detected 1
+04.06.2019 21:40:13.793 [000020c0] --- DirectX DXGI API CreateDXGIFactory2 detected 1
+04.06.2019 21:40:13.793 [000020c0] --- DirectX DXGI API detected
+04.06.2019 21:40:13.794 [000020c0] --- DirectX D3D12 API detected hd3d12=728b0000
+04.06.2019 21:40:13.812 [000020c0] --- DirectX D3D12 API detected 1
+04.06.2019 21:40:13.812 [000020c0] --- hookOpenGL
+04.06.2019 21:40:13.962 [000020c0] --- OpenGL API detected
+04.06.2019 21:40:14.045 [000020c0] --- PROCESS DETACH

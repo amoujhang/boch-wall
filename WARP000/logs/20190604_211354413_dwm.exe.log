@@ -1,0 +1,133 @@
+04.06.2019 21:13:54.414 [00002cd8] --- App --- Immersive Display PRO v3.0.5 (01.01.2019)
+04.06.2019 21:13:54.414 [00002cd8] --- OS 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+04.06.2019 21:13:54.414 [00002cd8] --- Process64 C:\WINDOWS\system32\dwm.exe
+04.06.2019 21:13:54.414 [00002cd8] --- CmdLine ["dwm.exe"]
+04.06.2019 21:13:54.414 [00002cd8] --- Enumerating displays ...
+04.06.2019 21:13:54.414 [00002cd8] --- Device N[\\.\DISPLAY9] S[Microsoft Basic Display Driver] M[Generic PnP Monitor] F[desktop primary ]
+04.06.2019 21:13:54.414 [00002cd8] --- SM_CMONITORS         = 1
+04.06.2019 21:13:54.414 [00002cd8] --- SM_SAMEDISPLAYFORMAT = 1
+04.06.2019 21:13:54.414 [00002cd8] --- SM_XVIRTUALSCREEN    = 0
+04.06.2019 21:13:54.414 [00002cd8] --- SM_YVIRTUALSCREEN    = 0
+04.06.2019 21:13:54.414 [00002cd8] --- SM_CXVIRTUALSCREEN   = 1920
+04.06.2019 21:13:54.414 [00002cd8] --- SM_CYVIRTUALSCREEN   = 1200
+04.06.2019 21:13:54.414 [00002cd8] --- SM_CXCURSOR          = 32
+04.06.2019 21:13:54.414 [00002cd8] ??? No displays enumerated. Retry later
+04.06.2019 21:13:54.414 [00002cd8] --- hookD3D9
+04.06.2019 21:13:54.415 [00002cd8] --- DirectX9 dll=72ce0000
+04.06.2019 21:13:54.464 [00002cd8] --- DirectX9 API detected
+04.06.2019 21:13:54.464 [00002cd8] --- DirectX9Ex API detected
+04.06.2019 21:13:54.464 [00002cd8] --- i1: InterfaceProc1
+04.06.2019 21:13:54.464 [00002cd8] --- DXGI dll=a1720000
+04.06.2019 21:13:54.489 [00002cd8] --- DirectX DXGI API CreateDXGIFactory detected 1
+04.06.2019 21:13:54.518 [00002cd8] --- DirectX DXGI API CreateDXGIFactory1 detected 1
+04.06.2019 21:13:54.547 [00002cd8] --- DirectX DXGI API CreateDXGIFactory2 detected 1
+04.06.2019 21:13:54.547 [00002cd8] --- DirectX DXGI API detected
+04.06.2019 21:13:54.574 [00002cd8] --- DirectX D3D11 API detected 1
+04.06.2019 21:13:54.575 [00002cd8] --- DirectX D3D12 API detected hd3d12=9a880000
+04.06.2019 21:13:54.600 [00002cd8] --- DirectX D3D12 API detected 1
+04.06.2019 21:13:54.601 [00002cd8] --- hookOpenGL
+04.06.2019 21:13:54.779 [00002cd8] --- OpenGL API detected
+04.06.2019 21:13:54.891 [00002a9c] --- D3D11CreateDevice ADAPTER Description=Microsoft Basic Render Driver
+04.06.2019 21:13:54.891 [00002a9c] --- Device FeatureLevels[0]=0000a100
+04.06.2019 21:13:54.893 [00002a9c] --- D3D11CreateDevice ADAPTER Description=Microsoft Basic Render Driver
+04.06.2019 21:13:54.893 [00002a9c] --- Device FeatureLevels[0]=0000c100
+04.06.2019 21:13:54.893 [00002a9c] --- Device FeatureLevels[1]=0000c000
+04.06.2019 21:13:54.893 [00002a9c] --- Device FeatureLevels[2]=0000b100
+04.06.2019 21:13:54.893 [00002a9c] --- Device FeatureLevels[3]=0000b000
+04.06.2019 21:13:54.893 [00002a9c] --- Device FeatureLevels[4]=0000a100
+04.06.2019 21:13:54.893 [00002a9c] --- Device FeatureLevels[5]=0000a000
+04.06.2019 21:13:54.893 [00002a9c] --- Device FeatureLevels[6]=00009300
+04.06.2019 21:13:54.893 [00002a9c] --- Device FeatureLevels[7]=00009200
+04.06.2019 21:13:54.893 [00002a9c] --- Device FeatureLevels[8]=00009100
+04.06.2019 21:13:54.894 [000026b4] --- D3D11CreateDevice ADAPTER NULL
+04.06.2019 21:13:54.896 [00002a9c] --- Device FeatureLevel -> 0000c100
+04.06.2019 21:13:54.897 [000026b4] --- Device FeatureLevel -> 0000b000
+04.06.2019 21:13:54.923 [00002a9c] --- D3D11CreateDevice ADAPTER Description=Microsoft Basic Render Driver
+04.06.2019 21:13:54.923 [00002a9c] --- Device FeatureLevels[0]=0000a100
+04.06.2019 21:13:54.923 [00002a9c] --- D3D11CreateDevice ADAPTER Description=Microsoft Basic Render Driver
+04.06.2019 21:13:54.923 [00002a9c] --- Device FeatureLevels[0]=0000c100
+04.06.2019 21:13:54.923 [00002a9c] --- Device FeatureLevels[1]=0000c000
+04.06.2019 21:13:54.923 [00002a9c] --- Device FeatureLevels[2]=0000b100
+04.06.2019 21:13:54.923 [00002a9c] --- Device FeatureLevels[3]=0000b000
+04.06.2019 21:13:54.923 [00002a9c] --- Device FeatureLevels[4]=0000a100
+04.06.2019 21:13:54.923 [00002a9c] --- Device FeatureLevels[5]=0000a000
+04.06.2019 21:13:54.923 [00002a9c] --- Device FeatureLevels[6]=00009300
+04.06.2019 21:13:54.923 [00002a9c] --- Device FeatureLevels[7]=00009200
+04.06.2019 21:13:54.923 [00002a9c] --- Device FeatureLevels[8]=00009100
+04.06.2019 21:13:54.924 [00002a9c] --- Device FeatureLevel -> 0000c100
+04.06.2019 21:13:54.958 [00002a9c] --- D3D11CreateDevice ADAPTER Description=Microsoft Basic Render Driver
+04.06.2019 21:13:54.958 [00002a9c] --- Device FeatureLevels[0]=0000a100
+04.06.2019 21:13:54.958 [00002a9c] --- D3D11CreateDevice ADAPTER Description=Microsoft Basic Render Driver
+04.06.2019 21:13:54.958 [00002a9c] --- Device FeatureLevels[0]=0000c100
+04.06.2019 21:13:54.958 [00002a9c] --- Device FeatureLevels[1]=0000c000
+04.06.2019 21:13:54.958 [00002a9c] --- Device FeatureLevels[2]=0000b100
+04.06.2019 21:13:54.958 [00002a9c] --- Device FeatureLevels[3]=0000b000
+04.06.2019 21:13:54.958 [00002a9c] --- Device FeatureLevels[4]=0000a100
+04.06.2019 21:13:54.958 [00002a9c] --- Device FeatureLevels[5]=0000a000
+04.06.2019 21:13:54.958 [00002a9c] --- Device FeatureLevels[6]=00009300
+04.06.2019 21:13:54.958 [00002a9c] --- Device FeatureLevels[7]=00009200
+04.06.2019 21:13:54.958 [00002a9c] --- Device FeatureLevels[8]=00009100
+04.06.2019 21:13:54.959 [00002a9c] --- Device FeatureLevel -> 0000c100
+04.06.2019 21:13:55.014 [00002a9c] --- Win10SC_[01] Created
+04.06.2019 21:13:55.015 [00002a9c] --- [\\.\DISPLAY9] [Microsoft Basic Display Driver] [MONITOR\ADVEF2D\{4d36e96e-e325-11ce-bfc1-08002be10318}\0008] [Generic PnP Monitor]
+04.06.2019 21:13:55.016 [00002a9c] --- shim Winmm hLib=a0b30000
+04.06.2019 21:13:55.016 [00002a9c] --- shim Winmm a0b36050, a0b35f10, a0b31060, a0b31040
+04.06.2019 21:13:55.016 [00002a9c] --- WarpContext 7fc7f040 Output=780f0fd0 DeviceName=\\.\DISPLAY9 DesktopCoordinates(0,0 1920x1200) AttachedToDesktop=1 Rotation=1 (0)
+04.06.2019 21:13:55.019 [00002a9c] --- WarpContext 7fc7f040 count 1
+04.06.2019 21:13:55.019 [00002a9c] --- GMOC[7d8a8fd8] DONE
+04.06.2019 21:13:55.019 [00002a9c] --- WarpContext[7fc7f040] Monitor=00010001
+04.06.2019 21:13:55.019 [00002a9c] --- D3DXWrapper trying d3dx11_43.dll
+04.06.2019 21:13:55.020 [00002a9c] --- D3DXWrapper d3dx11_43.dll loaded
+04.06.2019 21:13:55.020 [00002a9c] --- WarpContext[7fc7f040] D3DCompiler_47.DLL loaded directly
+04.06.2019 21:13:55.020 [00002a9c] --- SCISSORS 1
+04.06.2019 21:13:55.020 [00002a9c] --- ANISOTROPIC 4
+04.06.2019 21:13:55.275 [00002a9c] --- WarpContext 7fc7f040 T(1920x1200) O(1920x1200) enableRotation=0 rotateDegrees=0
+04.06.2019 21:13:55.297 [00002a9c] --- WarpContext[7fc7f040] CreateAllWarpingResources S=1 R=85 Warping=1
+04.06.2019 21:13:55.297 [00002a9c] --- Cursor warping SSC=a47948e0
+04.06.2019 21:13:55.298 [00002a9c] ### Cursor clear cache CC[0]
+04.06.2019 21:13:55.298 [00002a9c] ### Present[7fc7f040] S
+04.06.2019 21:13:55.298 [00002a9c] ### Present[7fc7f040] uSOPSAS
+04.06.2019 21:13:55.298 [00002a9c] ### Present[7fc7f040] uSNPSAS
+04.06.2019 21:13:55.298 [00002a9c] ### Present[7fc7f040] CR
+04.06.2019 21:13:55.298 [00002a9c] ### Present[7fc7f040] OMSRT
+04.06.2019 21:13:55.300 [00002a9c] ### Present[7fc7f040] uDC
+04.06.2019 21:13:55.300 [00002a9c] ### Present[7fc7f040] OMSRT
+04.06.2019 21:13:55.303 [00002a9c] ### Present[7fc7f040] uRBT
+04.06.2019 21:13:55.303 [00002a9c] ### Present[7fc7f040] OMSRT
+04.06.2019 21:13:55.305 [00002a9c] ### Present[7fc7f040] uDG
+04.06.2019 21:13:55.305 [00002a9c] ### Present[7fc7f040] uROPSAS
+04.06.2019 21:13:55.305 [00002a9c] ### Present[7fc7f040] E
+04.06.2019 21:14:09.698 [00002a9c] --- DestroyWarp
+04.06.2019 21:14:09.698 [00002a9c] --- WarpContext[7fc7f040] ReleaseAllWarpingResources R=-85
+04.06.2019 21:14:09.698 [00002a9c] --- ~WarpContext 7fc7f040 count 1
+04.06.2019 21:14:11.208 [00000fc8] --- D3D11CreateDevice ADAPTER NULL
+04.06.2019 21:14:11.228 [00000fc8] --- Device FeatureLevel -> 0000b000
+04.06.2019 21:14:11.265 [00002a9c] --- D3D11CreateDevice ADAPTER Description=Radeon RX 580 Series
+04.06.2019 21:14:11.265 [00002a9c] --- Device FeatureLevels[0]=0000a100
+04.06.2019 21:14:11.267 [00002a9c] --- D3D11CreateDevice ADAPTER Description=Radeon RX 580 Series
+04.06.2019 21:14:11.267 [00002a9c] --- Device FeatureLevels[0]=0000c100
+04.06.2019 21:14:11.267 [00002a9c] --- Device FeatureLevels[1]=0000c000
+04.06.2019 21:14:11.267 [00002a9c] --- Device FeatureLevels[2]=0000b100
+04.06.2019 21:14:11.267 [00002a9c] --- Device FeatureLevels[3]=0000b000
+04.06.2019 21:14:11.268 [00002a9c] --- Device FeatureLevels[4]=0000a100
+04.06.2019 21:14:11.268 [00002a9c] --- Device FeatureLevels[5]=0000a000
+04.06.2019 21:14:11.268 [00002a9c] --- Device FeatureLevels[6]=00009300
+04.06.2019 21:14:11.268 [00002a9c] --- Device FeatureLevels[7]=00009200
+04.06.2019 21:14:11.268 [00002a9c] --- Device FeatureLevels[8]=00009100
+04.06.2019 21:14:11.273 [00002a9c] --- Device FeatureLevel -> 0000c000
+04.06.2019 21:14:11.386 [00002a9c] --- Win10SC_[02] Created
+04.06.2019 21:14:11.386 [00002a9c] *** Win10SC_[02] monitor=001205fd warpEnabled=false
+04.06.2019 21:14:11.386 [00002a9c] --- GMOC[787400c8] DONE
+04.06.2019 21:14:11.437 [00002a9c] --- Win10SC_[03] Created
+04.06.2019 21:14:11.437 [00002a9c] *** Win10SC_[03] monitor=001c09f1 warpEnabled=false
+04.06.2019 21:14:11.437 [00002a9c] --- GMOC[78740f38] DONE
+04.06.2019 21:14:11.619 [00002a9c] --- GMOC[787400c8] DONE
+04.06.2019 21:14:11.620 [00002a9c] --- GMOC[78740f38] DONE
+04.06.2019 21:14:11.640 [00002a9c] --- GMOC[787400c8] DONE
+04.06.2019 21:14:11.640 [00002a9c] --- GMOC[78740f38] DONE
+04.06.2019 21:14:11.670 [00002a9c] --- GMOC[787400c8] DONE
+04.06.2019 21:14:11.670 [00002a9c] --- GMOC[78740f38] DONE
+04.06.2019 21:14:11.703 [00002a9c] --- GMOC[787400c8] DONE
+04.06.2019 21:14:11.703 [00002a9c] --- GMOC[78740f38] DONE
+04.06.2019 21:18:24.669 [00002a9c] --- GMOC[787400c8] DONE
+04.06.2019 21:18:24.669 [00002a9c] --- GMOC[78740f38] DONE

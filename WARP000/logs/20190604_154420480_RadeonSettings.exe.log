@@ -1,0 +1,110 @@
+04.06.2019 15:39:19.161 [00001d64] ??? OSM handle == NULL error=2
+04.06.2019 15:39:19.161 [00001d64] ^^^ SC trying session1
+04.06.2019 15:39:19.161 [00001d64] ??? OSM handle == NULL error=2
+04.06.2019 15:39:19.161 [00001d64] ^^^ SC trying session2
+04.06.2019 15:39:19.161 [00001d64] ??? OSM handle == NULL error=3
+04.06.2019 15:39:19.161 [00001d64] --- DXGI dll=a1720000
+04.06.2019 15:39:19.192 [00001d64] --- DirectX DXGI API CreateDXGIFactory detected 1
+04.06.2019 15:39:19.207 [00001d64] --- DirectX DXGI API CreateDXGIFactory1 detected 1
+04.06.2019 15:39:19.239 [00001d64] --- DirectX DXGI API CreateDXGIFactory2 detected 1
+04.06.2019 15:39:19.239 [00001d64] --- DirectX DXGI API detected
+04.06.2019 15:39:19.239 [00001d64] --- DirectX D3D12 API detected hd3d12=9a880000
+04.06.2019 15:39:19.254 [00001d64] --- DirectX D3D12 API detected 1
+04.06.2019 15:39:19.254 [00001d64] ??? OSM handle == NULL error=2
+04.06.2019 15:39:19.254 [00001d64] ^^^ SC trying session1
+04.06.2019 15:39:19.254 [00001d64] ??? OSM handle == NULL error=2
+04.06.2019 15:39:19.254 [00001d64] ^^^ SC trying session2
+04.06.2019 15:39:19.254 [00001d64] ??? OSM handle == NULL error=3
+04.06.2019 15:39:19.254 [00001d64] ??? OSM handle == NULL error=2
+04.06.2019 15:39:19.254 [00001d64] ^^^ SC trying session1
+04.06.2019 15:39:19.254 [00001d64] ??? OSM handle == NULL error=2
+04.06.2019 15:39:19.254 [00001d64] ^^^ SC trying session2
+04.06.2019 15:39:19.254 [00001d64] ??? OSM handle == NULL error=3
+04.06.2019 15:39:20.051 [00001d64] ??? OSM handle == NULL error=2
+04.06.2019 15:39:20.051 [00001d64] ^^^ SC trying session1
+04.06.2019 15:39:20.051 [00001d64] ??? OSM handle == NULL error=2
+04.06.2019 15:39:20.051 [00001d64] ^^^ SC trying session2
+04.06.2019 15:39:20.051 [00001d64] ??? OSM handle == NULL error=3
+--- [27]
+04.06.2019 15:44:20.480 [00002720] --- App --- Immersive Display PRO v3.0.5 (01.01.2019)
+04.06.2019 15:44:20.480 [00002720] --- OS 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+04.06.2019 15:44:20.480 [00002720] --- Process64 C:\Program Files\AMD\CNext\CNext\RadeonSettings.exe
+04.06.2019 15:44:20.480 [00002720] --- CmdLine ["C:\Program Files\AMD\CNext\CNext\RadeonSettings.exe" atlogon]
+04.06.2019 15:44:20.480 [00002720] --- Enumerating displays ...
+04.06.2019 15:44:20.481 [00002720] --- Device N[\\.\DISPLAY1] S[Radeon RX 580 Series] M[Generic PnP Monitor] F[desktop primary ]
+04.06.2019 15:44:20.481 [00002720] --- Device N[\\.\DISPLAY2] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 15:44:20.482 [00002720] --- Device N[\\.\DISPLAY3] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 15:44:20.483 [00002720] --- Device N[\\.\DISPLAY4] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 15:44:20.483 [00002720] --- Device N[\\.\DISPLAY5] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 15:44:20.484 [00002720] --- Device N[\\.\DISPLAY6] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 15:44:20.484 [00002720] --- Device N[\\.\DISPLAY7] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 15:44:20.485 [00002720] --- Device N[\\.\DISPLAY8] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 15:44:20.485 [00002720] --- SM_CMONITORS         = 1
+04.06.2019 15:44:20.485 [00002720] --- SM_SAMEDISPLAYFORMAT = 1
+04.06.2019 15:44:20.485 [00002720] --- SM_XVIRTUALSCREEN    = 0
+04.06.2019 15:44:20.485 [00002720] --- SM_YVIRTUALSCREEN    = 0
+04.06.2019 15:44:20.485 [00002720] --- SM_CXVIRTUALSCREEN   = 3840
+04.06.2019 15:44:20.485 [00002720] --- SM_CYVIRTUALSCREEN   = 1200
+04.06.2019 15:44:20.485 [00002720] --- SM_CXCURSOR          = 32
+04.06.2019 15:44:20.487 [00002720] --- [\\.\DISPLAY1] [Radeon RX 580 Series] [MONITOR\ADVEF2D\{4d36e96e-e325-11ce-bfc1-08002be10318}\0013] [Generic PnP Monitor]
+04.06.2019 15:44:20.488 [00002720] --- Enumerated 1 displays
+04.06.2019 15:44:20.488 [00002720] --- Displays initialized
+04.06.2019 15:44:20.488 [00002720] --- Displays[0] M[00010001] HDC[f8011172] GDC[78010fe0] L=0 T=0 R=3840 B=1200 RECT[0,0 3840x1200] N[\\.\DISPLAY1] M[Generic PnP Monitor] F[1] PROJ[2x1] MAPS[2]
+04.06.2019 15:44:20.488 [00002720] ---    Grouping G[0] N[0] GD[]
+04.06.2019 15:44:20.488 [00002720] --- ---
+04.06.2019 15:44:21.199 [00002720] --- CreateSwapChainForHwnd pIDXGIFactory [2fc34d70]
+04.06.2019 15:44:21.200 [00002720] --- IDXGIFactory2 CreateSwapChainForHwnd [30420c00] D3D11Device disabled=0
+04.06.2019 15:44:21.200 [00002720] --- MyIDXGI11SwapChain1::MyIDXGI11SwapChain1[35ed3860]
+04.06.2019 15:44:21.200 [00002720] --- WWW H[000300c4] C[Qt5QWindowOwnDCIcon] W[RadeonSettings] T[00002720] M[00010001] R[0,0 136x40] CR[0,0 120x1]
+04.06.2019 15:44:21.200 [00002720] --- DX11WarpContext 36ebb040
+04.06.2019 15:44:21.200 [00002720] ------ IN=00000000
+04.06.2019 15:44:21.200 [00002720] ------ OUT=00000000
+04.06.2019 15:44:21.200 [00002720] ------ desc.BufferCount=1
+04.06.2019 15:44:21.200 [00002720] ------ desc.BufferDesc.Width=120
+04.06.2019 15:44:21.200 [00002720] ------ desc.BufferDesc.Height=1
+04.06.2019 15:44:21.200 [00002720] ------ desc.BufferDesc.Format=87
+04.06.2019 15:44:21.200 [00002720] ------ desc.BufferDesc.Scaling=0
+04.06.2019 15:44:21.200 [00002720] ------ desc.BufferDesc.ScanlineOrdering=0
+04.06.2019 15:44:21.200 [00002720] ------ desc.BufferDesc.RefreshRate.Denominator=1
+04.06.2019 15:44:21.200 [00002720] ------ desc.BufferDesc.RefreshRate.Numerator=0
+04.06.2019 15:44:21.200 [00002720] ------ desc.BufferUsage=112
+04.06.2019 15:44:21.200 [00002720] ------ desc.OutputWindow=000300c4
+04.06.2019 15:44:21.200 [00002720] ------ desc.SampleDesc.Count=1
+04.06.2019 15:44:21.200 [00002720] ------ desc.SampleDesc.Quality=0
+04.06.2019 15:44:21.200 [00002720] ------ desc.Windowed=1
+04.06.2019 15:44:21.200 [00002720] ------ desc.SwapEffect=1[DXGI_SWAP_EFFECT_SEQUENTIAL]
+04.06.2019 15:44:21.200 [00002720] ------ desc.Flags=0
+04.06.2019 15:44:21.200 [00002720] ------ desc1.Stereo=0
+04.06.2019 15:44:21.200 [00002720] ------ desc1.AlphaMode=0
+04.06.2019 15:44:21.200 [00002720] --- preserveBB=1
+04.06.2019 15:44:22.127 [00002720] --- CreateSwapChainForHwnd pIDXGIFactory [2fc34d70]
+04.06.2019 15:44:22.127 [00002720] --- IDXGIFactory2 CreateSwapChainForHwnd [30420c00] D3D11Device disabled=0
+04.06.2019 15:44:22.127 [00002720] --- MyIDXGI11SwapChain1::MyIDXGI11SwapChain1[3b2d0450]
+04.06.2019 15:44:22.127 [00002720] --- WWW H[0009056a] C[Qt5QWindowOwnDCIcon] W[RadeonSettings] T[00002720] M[00010001] R[1832,489 176x199] CR[0,0 160x160]
+04.06.2019 15:44:22.127 [00002720] --- DX11WarpContext 3450c040
+04.06.2019 15:44:22.127 [00002720] ------ IN=00000000
+04.06.2019 15:44:22.127 [00002720] ------ OUT=00000000
+04.06.2019 15:44:22.127 [00002720] ------ desc.BufferCount=1
+04.06.2019 15:44:22.127 [00002720] ------ desc.BufferDesc.Width=160
+04.06.2019 15:44:22.127 [00002720] ------ desc.BufferDesc.Height=160
+04.06.2019 15:44:22.127 [00002720] ------ desc.BufferDesc.Format=87
+04.06.2019 15:44:22.127 [00002720] ------ desc.BufferDesc.Scaling=0
+04.06.2019 15:44:22.127 [00002720] ------ desc.BufferDesc.ScanlineOrdering=0
+04.06.2019 15:44:22.127 [00002720] ------ desc.BufferDesc.RefreshRate.Denominator=1
+04.06.2019 15:44:22.127 [00002720] ------ desc.BufferDesc.RefreshRate.Numerator=0
+04.06.2019 15:44:22.127 [00002720] ------ desc.BufferUsage=112
+04.06.2019 15:44:22.127 [00002720] ------ desc.OutputWindow=0009056a
+04.06.2019 15:44:22.127 [00002720] ------ desc.SampleDesc.Count=1
+04.06.2019 15:44:22.127 [00002720] ------ desc.SampleDesc.Quality=0
+04.06.2019 15:44:22.127 [00002720] ------ desc.Windowed=1
+04.06.2019 15:44:22.127 [00002720] ------ desc.SwapEffect=1[DXGI_SWAP_EFFECT_SEQUENTIAL]
+04.06.2019 15:44:22.127 [00002720] ------ desc.Flags=0
+04.06.2019 15:44:22.127 [00002720] ------ desc1.Stereo=0
+04.06.2019 15:44:22.127 [00002720] ------ desc1.AlphaMode=0
+04.06.2019 15:44:22.127 [00002720] --- preserveBB=1
+04.06.2019 15:44:22.144 [00002720] --- DX11WarpContext onBeforeResizeBuffers[3450c040] warpState=0
+04.06.2019 15:44:22.144 [00002720] --- IDXGI11SwapChain resizeBuffers[3b2d0450] res=0, BufferCount=1, Width=176, Height=639, NewFormat=00000057 SwapChainFlags=0000
+04.06.2019 15:44:22.144 [00002720] --- DX11WarpContext onAfterResizeBuffers[3450c040] warpState=0 FullScreen=0 resetMonitoringState
+04.06.2019 15:44:22.146 [00002720] --- DX11WarpContext onBeforeResizeBuffers[3450c040] warpState=0
+04.06.2019 15:44:22.146 [00002720] --- IDXGI11SwapChain resizeBuffers[3b2d0450] res=0, BufferCount=1, Width=600, Height=639, NewFormat=00000057 SwapChainFlags=0000
+04.06.2019 15:44:22.146 [00002720] --- DX11WarpContext onAfterResizeBuffers[3450c040] warpState=0 FullScreen=0 resetMonitoringState

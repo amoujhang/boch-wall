@@ -1,0 +1,159 @@
+05.06.2019 11:35:41.268 [00001cf8] --- Immersive Display PRO v3.0.5
+05.06.2019 11:35:41.268 [00001cf8] --- OS 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+05.06.2019 11:35:41.268 [00001cf8] --- SCREEN \\.\DISPLAY1
+05.06.2019 11:35:41.268 [00001cf8] ------ LogicalDPI=96.000000 Scale=1.000000
+05.06.2019 11:35:41.268 [00001cf8] ------ DevicePixelRatio=1.000000
+05.06.2019 11:35:41.330 [00001cf8] --- Removed 0 log file(s)
+05.06.2019 11:35:41.330 [00001cf8] --- ACL changed for C:\WARP000\
+05.06.2019 11:35:41.861 [00001cf8] --- LicAppName=Immersive Display PRO
+05.06.2019 11:35:41.861 [00001cf8] --- L1
+05.06.2019 11:35:42.314 [00001cf8] --- EK2C56
+05.06.2019 11:35:43.236 [00001cf8] --- DM112
+05.06.2019 11:35:44.251 [00001cf8] --- LD=20190109 SD=20190101
+05.06.2019 11:35:44.251 [00001cf8] --- ###[UzNZOU5YME0yNDg4OTBM]###
+05.06.2019 11:35:44.923 [00001cf8] --- Displays 1/2 [20] SGD=2560932 SSC=31904
+05.06.2019 11:35:44.923 [00001cf8] --- Shared 31904+5121864 5153768
+05.06.2019 11:35:44.923 [00001cf8] ### PageSize=4096
+05.06.2019 11:35:44.923 [00001cf8] ### MinimumApplicationAddress=00010000
+05.06.2019 11:35:44.923 [00001cf8] ### MaximumApplicationAddress=7ffeffff
+05.06.2019 11:35:44.923 [00001cf8] ### AllocationGranularity=65536
+05.06.2019 11:35:44.923 [00001cf8] ### Res=28
+05.06.2019 11:35:44.923 [00001cf8] ### BaseAddress=07070000
+05.06.2019 11:35:44.923 [00001cf8] ### AllocationBase=07070000
+05.06.2019 11:35:44.923 [00001cf8] ### AllocationProtect=00000004
+05.06.2019 11:35:44.923 [00001cf8] ### RegionSize=5156864
+05.06.2019 11:35:44.923 [00001cf8] ### State=00001000
+05.06.2019 11:35:44.923 [00001cf8] ### Protect=00000004
+05.06.2019 11:35:44.923 [00001cf8] ### Type=00040000
+05.06.2019 11:35:44.923 [00001cf8] --- Config 07070000 ZERO(0) 31904 + 5121864
+05.06.2019 11:35:44.923 [00001cf8] --- Config 07070000 ZERO(1)
+05.06.2019 11:35:44.923 [00001cf8] --- Config 07070000 ZERO(2)
+05.06.2019 11:35:44.923 [00001cf8] --- R [12]->26
+05.06.2019 11:35:44.923 [00001cf8] --- MP 3
+05.06.2019 11:35:44.923 [00001cf8] --- Config 07070000
+05.06.2019 11:35:44.923 [00001cf8] --- Config logsFolder=C:\WARP000\logs\
+05.06.2019 11:35:44.923 [00001cf8] --- Config imagesFolder=C:\WARP000\images\
+05.06.2019 11:35:44.923 [00001cf8] --- Config configsFolder=C:\WARP000\config\
+05.06.2019 11:35:44.923 [00001cf8] --- Enumerating displays ...
+05.06.2019 11:35:44.923 [00001cf8] --- Device N[\\.\DISPLAY1] S[Radeon RX 580 Series] M[Generic PnP Monitor] F[desktop primary ]
+05.06.2019 11:35:44.923 [00001cf8] --- Device N[\\.\DISPLAY2] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:35:44.923 [00001cf8] --- Device N[\\.\DISPLAY3] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:35:44.923 [00001cf8] --- Device N[\\.\DISPLAY4] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:35:44.923 [00001cf8] --- Device N[\\.\DISPLAY5] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:35:44.923 [00001cf8] --- Device N[\\.\DISPLAY6] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:35:44.923 [00001cf8] --- Device N[\\.\DISPLAY7] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:35:44.923 [00001cf8] --- Device N[\\.\DISPLAY8] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:35:44.923 [00001cf8] --- SM_CMONITORS         = 1
+05.06.2019 11:35:44.923 [00001cf8] --- SM_SAMEDISPLAYFORMAT = 1
+05.06.2019 11:35:44.923 [00001cf8] --- SM_XVIRTUALSCREEN    = 0
+05.06.2019 11:35:44.923 [00001cf8] --- SM_YVIRTUALSCREEN    = 0
+05.06.2019 11:35:44.923 [00001cf8] --- SM_CXVIRTUALSCREEN   = 3840
+05.06.2019 11:35:44.923 [00001cf8] --- SM_CYVIRTUALSCREEN   = 1200
+05.06.2019 11:35:44.923 [00001cf8] --- SM_CXCURSOR          = 32
+05.06.2019 11:35:44.954 [00001cf8] --- [\\.\DISPLAY1] [Radeon RX 580 Series] [MONITOR\ADVEF2D\{4d36e96e-e325-11ce-bfc1-08002be10318}\0017] [Generic PnP Monitor]
+05.06.2019 11:35:44.954 [00001cf8] --- Enumerated 1 displays
+05.06.2019 11:35:44.954 [00001cf8] --- Displays initialized
+05.06.2019 11:35:44.954 [00001cf8] --- Displays[0] M[00010001] HDC[4f010966] GDC[1b010be6] L=0 T=0 R=3840 B=1200 RECT[0,0 3840x1200] N[\\.\DISPLAY1] M[Generic PnP Monitor] F[1] PROJ[0x0] MAPS[0]
+05.06.2019 11:35:44.954 [00001cf8] ---    Grouping G[0] N[0] GD[]
+05.06.2019 11:35:44.954 [00001cf8] --- ---
+05.06.2019 11:35:44.970 [00001cf8] --- Model:Config file C:\WARP000\config\config.dat does not exist
+05.06.2019 11:35:44.970 [00001cf8] --- Model:Config file LCC[1]
+05.06.2019 11:35:44.970 [00001cf8] --- Model:Config file CC[2]
+05.06.2019 11:35:44.970 [00001cf8] --- Preferences loaded
+05.06.2019 11:35:44.970 [00001cf8] ------ startMinimized 0
+05.06.2019 11:35:44.970 [00001cf8] ------ showTrayNotifications 0
+05.06.2019 11:35:44.970 [00001cf8] ------ autoStartDesktopWarping 1
+05.06.2019 11:35:44.970 [00001cf8] ------ autoStartDesktopWarpingDelaySeconds 3
+05.06.2019 11:35:44.970 [00001cf8] ------ warpCursor 1
+05.06.2019 11:35:44.970 [00001cf8] ------ hideSystemCursor 0
+05.06.2019 11:35:44.970 [00001cf8] ------ samplingDesktop 2
+05.06.2019 11:35:44.970 [00001cf8] ------ samplingDXGL 2
+05.06.2019 11:35:44.970 [00001cf8] ------ useFXAA 0
+05.06.2019 11:35:44.970 [00001cf8] ------ useFXAAPresetIndex 0
+05.06.2019 11:35:44.970 [00001cf8] ------ updateRateMS 20
+05.06.2019 11:35:44.970 [00001cf8] ------ enableVNCControl 0
+05.06.2019 11:35:44.970 [00001cf8] ------ vncPort 5900
+05.06.2019 11:35:44.970 [00001cf8] ------ vncPassword 1234
+05.06.2019 11:35:44.970 [00001cf8] ------ enableTelnet 0
+05.06.2019 11:35:44.970 [00001cf8] ------ remoteTelnetPort 6600
+05.06.2019 11:35:44.970 [00001cf8] ------ overrideDesktopRotation 0
+05.06.2019 11:35:44.970 [00001cf8] ------ forcedDesktopRotation 0
+05.06.2019 11:35:44.970 [00001cf8] ------ forcedScissorsRotation 0
+05.06.2019 11:35:44.970 [00001cf8] ------ checkForDisplayConfigChange 0
+05.06.2019 11:35:44.970 [00001cf8] ------ cropEdges 0
+05.06.2019 11:35:44.970 [00001cf8] ------ cropPixels 0
+05.06.2019 11:35:44.970 [00001cf8] ------ removeWindowFrame 0
+05.06.2019 11:35:44.970 [00001cf8] ------ skipWarpChildWindows 0
+05.06.2019 11:35:44.970 [00001cf8] ------ openGLTextureOffset 0
+05.06.2019 11:35:44.970 [00001cf8] ------ disable_DX9 0
+05.06.2019 11:35:44.970 [00001cf8] ------ disable_DX10 0
+05.06.2019 11:35:44.970 [00001cf8] ------ disable_DX11 0
+05.06.2019 11:35:44.970 [00001cf8] ------ disable_DX12 0
+05.06.2019 11:35:44.970 [00001cf8] ------ disable_OpenGL 0
+05.06.2019 11:35:44.970 [00001cf8] ------ disable_Vulkan 1
+05.06.2019 11:35:44.970 [00001cf8] ------ forcePreserveBB_DX9 0
+05.06.2019 11:35:44.970 [00001cf8] ------ forcePreserveBB_DX10 0
+05.06.2019 11:35:44.970 [00001cf8] ------ forcePreserveBB_DX11 0
+05.06.2019 11:35:44.970 [00001cf8] ------ forcePreserveBB_DX12 0
+05.06.2019 11:35:44.970 [00001cf8] ------ forcePreserveBB_OpenGL 0
+05.06.2019 11:35:44.970 [00001cf8] ------ forcePreserveBB_Vulkan 0
+05.06.2019 11:35:44.970 [00001cf8] ------ enableDebanding 0
+05.06.2019 11:35:44.970 [00001cf8] ------ enableWindowsSessionShutdown 0
+05.06.2019 11:35:44.970 [00001cf8] ------ ignoreDWMInFullScreen 1
+05.06.2019 11:35:44.986 [00001cf8] --- Excludes loaded 3
+05.06.2019 11:35:44.986 [00001cf8] ------ Exclude Path=MQTT_Json_Movie_MOC.exe DX9=1 DX10=1 DX11=1 DX12=1 OGL=1 VULKAN=1 StopDWM7=0
+05.06.2019 11:35:44.986 [00001cf8] ------ Exclude Path=chrome.exe DX9=1 DX10=1 DX11=1 DX12=1 OGL=1 VULKAN=1 StopDWM7=0
+05.06.2019 11:35:44.986 [00001cf8] ------ Exclude Path=chrome.exe DX9=1 DX10=1 DX11=1 DX12=1 OGL=1 VULKAN=1 StopDWM7=0
+05.06.2019 11:35:44.986 [00001cf8] --- Sets configSet=1
+05.06.2019 11:35:44.986 [00001cf8] --- Sets configSetFile[1]=C:\WARP000\config\20190509.dat
+05.06.2019 11:35:44.986 [00001cf8] --- Sets configSetFile[2]=C:\WARP000\config\config2.dat
+05.06.2019 11:35:44.986 [00001cf8] --- Sets configSetFile[3]=C:\WARP000\config\config3.dat
+05.06.2019 11:35:44.986 [00001cf8] --- Sets configSetFile[4]=C:\WARP000\config\config4.dat
+05.06.2019 11:35:44.986 [00001cf8] --- Sets configSetFile[5]=C:\WARP000\config\config5.dat
+05.06.2019 11:35:44.986 [00001cf8] --- Sets configSetFile[6]=C:\WARP000\config\config6.dat
+05.06.2019 11:35:44.986 [00001cf8] --- Sets configSetFile[7]=C:\WARP000\config\config7.dat
+05.06.2019 11:35:44.986 [00001cf8] --- Sets configSetFile[8]=C:\WARP000\config\config8.dat
+05.06.2019 11:35:45.001 [00001cf8] --- Loaded Displays[0] \\.\DISPLAY1 Generic PnP Monitor L=0 T=0 R=3840 B=1200 loadedDisplaysWithPositionAndSize=1
+05.06.2019 11:35:45.032 [00001cf8] --- Displays loaded
+05.06.2019 11:35:45.032 [00001cf8] --- Displays[0] M[00010001] HDC[4f010966] GDC[1b010be6] L=0 T=0 R=3840 B=1200 RECT[0,0 3840x1200] N[\\.\DISPLAY1] M[Generic PnP Monitor] F[1] PROJ[2x1] MAPS[2]
+05.06.2019 11:35:45.032 [00001cf8] ---    Grouping G[0] N[0] GD[]
+05.06.2019 11:35:45.032 [00001cf8] --- Model:Config file C:\WARP000\config\20190509.dat loaded
+05.06.2019 11:35:45.032 [00001cf8] --- Model:Config file LCC[3]
+05.06.2019 11:35:45.032 [00001cf8] --- Model:Config file CC[4]
+05.06.2019 11:35:45.032 [00001cf8] --- Sets manager selectSet[1]->1
+05.06.2019 11:35:45.048 [00001cf8] --- Schedules STOP
+05.06.2019 11:35:45.048 [00001cf8] --- Schedules STOP
+05.06.2019 11:35:45.048 [00001cf8] --- Autoruns 0
+05.06.2019 11:35:45.064 [00001cf8] $$$ Immersive Display PRO v3.0.5 (01.01.2019)
+05.06.2019 11:35:45.064 [00001cf8] $$$ 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+05.06.2019 11:35:45.284 [00001cf8] $$$ P64[00001df8] [git.exe][C:\Users\own\scoop\shims\git.exe] started
+05.06.2019 11:35:45.383 [00001cf8] --- Run all autoruns
+05.06.2019 11:35:45.680 [00001cf8] $$$ P64[00001e28] [git.exe][C:\Users\own\scoop\apps\git\current\cmd\git.exe] started
+05.06.2019 11:35:46.133 [00001cf8] $$$ P64[00001e48] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\bin\git.exe] started
+05.06.2019 11:35:46.617 [00001cf8] $$$ P64[00001e5c] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+05.06.2019 11:35:47.054 [00001cf8] $$$ P64[00001e88] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+05.06.2019 11:35:47.585 [00001cf8] $$$ P64[00001e9c] [git-remote-https.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git-remote-https.exe] started
+05.06.2019 11:35:48.304 [00001cf8] --- onToggleDesktopWarp isDWMAvailable=1
+05.06.2019 11:35:48.304 [00001cf8] --- onToggleDesktopWarp TOGGLED
+05.06.2019 11:35:48.304 [00001cf8] $$$ incremented dwmRestartCount=1
+05.06.2019 11:35:49.037 [00001cf8] $$$ P32[00001064] [TeamViewer.exe][C:\Program Files (x86)\TeamViewer\TeamViewer.exe] started
+05.06.2019 11:35:49.099 [00001cf8] $$$ P64[00001f9c] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+05.06.2019 11:35:49.146 [00001cf8] $$$ P64[00001fa8] [dwm.exe][C:\WINDOWS\system32\dwm.exe] started
+05.06.2019 11:35:49.646 [00001cf8] $$$ P64[000020c0] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+05.06.2019 11:35:50.279 [00001cf8] $$$ P64[00002104] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+05.06.2019 11:35:50.855 [00001cf8] $$$ P64[000021c0] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+05.06.2019 11:36:03.720 [00001cf8] --- instanceMessageReceived Wake up!
+05.06.2019 11:36:13.544 [00001cf8] $$$ P64[00002310] [MCEControl.exe][C:\Program Files (x86)\Kindel Systems\MCE Controller\MCEControl.exe] started
+05.06.2019 11:37:25.051 [00001cf8] $$$ P64[000002d4] [AUEPLauncher.exe][C:\Program Files\AMD\Performance Profile Client\AUEPLauncher.exe] started
+05.06.2019 11:37:25.474 [00001cf8] $$$ P64[00001f68] [AUEPMaster.exe][C:\Program Files\AMD\Performance Profile Client\AUEPMaster.exe] started
+05.06.2019 11:37:25.910 [00001cf8] $$$ P64[00002190] [esrv_svc.exe][C:\Program Files\Intel\SUR\QUEENCREEK\x64\esrv_svc.exe] started
+05.06.2019 11:37:26.702 [00001cf8] $$$ P32[00001ee0] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+05.06.2019 11:37:27.092 [00001cf8] $$$ P32[00001c08] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+05.06.2019 11:37:27.187 [00001cf8] $$$ P32[00001828] [jhi_service.exe][C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL\jhi_service.exe] started
+05.06.2019 11:37:27.469 [00001cf8] $$$ P32[0000109c] [GoogleCrashHandler.exe][C:\Program Files (x86)\Google\Update\1.3.34.11\GoogleCrashHandler.exe] started
+05.06.2019 11:37:27.484 [00001cf8] $$$ P64[00001dd8] [GoogleCrashHandler64.exe][C:\Program Files (x86)\Google\Update\1.3.34.11\GoogleCrashHandler64.exe] started
+05.06.2019 11:37:27.687 [00001cf8] $$$ P32[00001e58] [LMS.exe][C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\LMS\LMS.exe] started
+05.06.2019 11:37:32.229 [00001cf8] $$$ P64[00000c64] [AUEPUF.exe][C:\Program Files\AMD\Performance Profile Client\AUEPUF.exe] started
+05.06.2019 11:38:25.575 [00001cf8] $$$ P32[00000944] [IntelSoftwareAssetManagerService.exe][C:\Program Files\Intel\SUR\QUEENCREEK\Updater\bin\IntelSoftwareAssetManagerService.exe] started
+05.06.2019 11:38:27.233 [00001cf8] $$$ P32[000014dc] [wmiprvse.exe][C:\WINDOWS\sysWOW64\wbem\wmiprvse.exe] started
+05.06.2019 11:38:55.588 [00001cf8] !!! onWindowsSessionEnded 0

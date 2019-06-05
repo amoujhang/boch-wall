@@ -1,0 +1,31 @@
+04.06.2019 21:56:12.534 [00001fac] ??? OSM handle == NULL error=2
+04.06.2019 21:56:12.534 [00001fac] ^^^ SC trying session1
+--- [2]
+04.06.2019 21:56:12.534 [00001fac] --- App --- Immersive Display PRO v3.0.5 (01.01.2019)
+04.06.2019 21:56:12.534 [00001fac] --- OS 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+04.06.2019 21:56:12.534 [00001fac] --- Process64 C:\Program Files\AMD\Performance Profile Client\AUEPMaster.exe
+04.06.2019 21:56:12.534 [00001fac] --- CmdLine [AUEPMaster.exe]
+04.06.2019 21:56:12.534 [00001fac] --- Enumerating displays ...
+04.06.2019 21:56:12.534 [00001fac] --- SM_CMONITORS         = 1
+04.06.2019 21:56:12.534 [00001fac] --- SM_SAMEDISPLAYFORMAT = 1
+04.06.2019 21:56:12.534 [00001fac] --- SM_XVIRTUALSCREEN    = 0
+04.06.2019 21:56:12.534 [00001fac] --- SM_YVIRTUALSCREEN    = 0
+04.06.2019 21:56:12.534 [00001fac] --- SM_CXVIRTUALSCREEN   = 1024
+04.06.2019 21:56:12.534 [00001fac] --- SM_CYVIRTUALSCREEN   = 768
+04.06.2019 21:56:12.534 [00001fac] --- SM_CXCURSOR          = 32
+04.06.2019 21:56:12.534 [00001fac] ??? No displays enumerated. Retry later
+04.06.2019 21:56:12.534 [00001fac] --- hookD3D9
+04.06.2019 21:56:12.535 [00001fac] --- DirectX9 dll=d6de0000
+04.06.2019 21:56:12.567 [00001fac] --- DirectX9 API detected
+04.06.2019 21:56:12.567 [00001fac] --- DirectX9Ex API detected
+04.06.2019 21:56:12.567 [00001fac] --- i1: InterfaceProc1
+04.06.2019 21:56:12.567 [00001fac] --- DXGI dll=05830000
+04.06.2019 21:56:12.583 [00001fac] --- DirectX DXGI API CreateDXGIFactory detected 1
+04.06.2019 21:56:12.599 [00001fac] --- DirectX DXGI API CreateDXGIFactory1 detected 1
+04.06.2019 21:56:12.614 [00001fac] --- DirectX DXGI API CreateDXGIFactory2 detected 1
+04.06.2019 21:56:12.614 [00001fac] --- DirectX DXGI API detected
+04.06.2019 21:56:12.615 [00001fac] --- DirectX D3D12 API detected hd3d12=ff080000
+04.06.2019 21:56:12.631 [00001fac] --- DirectX D3D12 API detected 1
+04.06.2019 21:56:12.631 [00001fac] --- hookOpenGL
+04.06.2019 21:56:12.740 [00001fac] --- OpenGL API detected
+05.06.2019 10:41:25.350 [00000d90] --- PROCESS DETACH

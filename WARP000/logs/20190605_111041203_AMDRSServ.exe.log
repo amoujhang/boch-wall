@@ -1,0 +1,95 @@
+05.06.2019 11:10:41.203 [00001f84] --- App --- Immersive Display PRO v3.0.5 (01.01.2019)
+05.06.2019 11:10:41.203 [00001f84] --- OS 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+05.06.2019 11:10:41.203 [00001f84] --- Process64 C:\Program Files\AMD\CNext\CNext\AMDRSServ.exe
+05.06.2019 11:10:41.203 [00001f84] --- CmdLine ["C:\Program Files\AMD\CNext\CNext\AMDRSServ.exe" ]
+05.06.2019 11:10:41.203 [00001f84] --- Enumerating displays ...
+05.06.2019 11:10:41.203 [00001f84] --- Device N[\\.\DISPLAY1] S[Radeon RX 580 Series] M[Generic PnP Monitor] F[desktop primary ]
+05.06.2019 11:10:41.203 [00001f84] --- Device N[\\.\DISPLAY2] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:10:41.203 [00001f84] --- Device N[\\.\DISPLAY3] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:10:41.203 [00001f84] --- Device N[\\.\DISPLAY4] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:10:41.203 [00001f84] --- Device N[\\.\DISPLAY5] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:10:41.218 [00001f84] --- Device N[\\.\DISPLAY6] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:10:41.218 [00001f84] --- Device N[\\.\DISPLAY7] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:10:41.218 [00001f84] --- Device N[\\.\DISPLAY8] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:10:41.218 [00001f84] --- SM_CMONITORS         = 1
+05.06.2019 11:10:41.218 [00001f84] --- SM_SAMEDISPLAYFORMAT = 1
+05.06.2019 11:10:41.218 [00001f84] --- SM_XVIRTUALSCREEN    = 0
+05.06.2019 11:10:41.218 [00001f84] --- SM_YVIRTUALSCREEN    = 0
+05.06.2019 11:10:41.218 [00001f84] --- SM_CXVIRTUALSCREEN   = 3840
+05.06.2019 11:10:41.218 [00001f84] --- SM_CYVIRTUALSCREEN   = 1200
+05.06.2019 11:10:41.218 [00001f84] --- SM_CXCURSOR          = 32
+05.06.2019 11:10:41.218 [00001f84] --- [\\.\DISPLAY1] [Radeon RX 580 Series] [MONITOR\ADVEF2D\{4d36e96e-e325-11ce-bfc1-08002be10318}\0017] [Generic PnP Monitor]
+05.06.2019 11:10:41.218 [00001f84] --- Enumerated 1 displays
+05.06.2019 11:10:41.218 [00001f84] --- Displays initialized
+05.06.2019 11:10:41.218 [00001f84] --- Displays[0] M[00010001] HDC[0b010cb6] GDC[09010cb7] L=0 T=0 R=3840 B=1200 RECT[0,0 3840x1200] N[\\.\DISPLAY1] M[Generic PnP Monitor] F[1] PROJ[2x1] MAPS[2]
+05.06.2019 11:10:41.218 [00001f84] ---    Grouping G[0] N[0] GD[]
+05.06.2019 11:10:41.218 [00001f84] --- ---
+05.06.2019 11:10:41.218 [00001f84] --- hookD3D9
+05.06.2019 11:10:41.218 [00001f84] --- DirectX9 dll=1c9c0000
+05.06.2019 11:10:41.265 [00001f84] --- DirectX9 API detected
+05.06.2019 11:10:41.265 [00001f84] --- DirectX9Ex API detected
+05.06.2019 11:10:41.265 [00001f84] --- i1: InterfaceProc1
+05.06.2019 11:10:41.265 [00001f84] --- interfaceFunc1 [\\.\DISPLAY1] totalMaps=2
+05.06.2019 11:10:41.265 [00001f84] --- DXGI dll=4b3e0000
+05.06.2019 11:10:41.281 [00001f84] --- DirectX DXGI API CreateDXGIFactory detected 1
+05.06.2019 11:10:41.312 [00001f84] --- DirectX DXGI API CreateDXGIFactory1 detected 1
+05.06.2019 11:10:41.328 [00001f84] --- DirectX DXGI API CreateDXGIFactory2 detected 1
+05.06.2019 11:10:41.328 [00001f84] --- DirectX DXGI API detected
+05.06.2019 11:10:41.328 [00001f84] --- DirectX D3D12 API detected hd3d12=44950000
+05.06.2019 11:10:41.359 [00001f84] --- DirectX D3D12 API detected 1
+05.06.2019 11:10:41.359 [00001f84] --- hookOpenGL
+05.06.2019 11:10:41.515 [00001f84] --- OpenGL API detected
+05.06.2019 11:10:41.749 [00001f84] --- wglCreateLayerContext hdc=0a010800 iLayerPlane=0 hglrc=00010000
+05.06.2019 11:10:41.749 [00001f84] --- WWW H[000503d2] C[AMDDVRGLWINCLASS] W[AMDGlWindow] T[00001fbc] M[00010001] R[0,0 136x39] CR[0,0 120x0]
+05.06.2019 11:10:41.749 [00001f84] --- OpenGLWarpContext[f86f5040] HDC=0a010800 GLRC=00010000 HWND=000503d2 isFullscreen=0
+05.06.2019 11:10:41.765 [00001f84] --- wglDeleteContext 00010000
+05.06.2019 11:10:41.765 [00001f84] --- ~BaseWarpContext[f86f5040]
+05.06.2019 11:10:41.781 [00001f84] --- wglCreateContextAttribsARB -> attr=0x00002091
+05.06.2019 11:10:41.781 [00001f84] --- wglCreateContextAttribsARB -> val=0x00000004
+05.06.2019 11:10:41.781 [00001f84] ------ MAJOR_VERSION 4
+05.06.2019 11:10:41.781 [00001f84] --- wglCreateContextAttribsARB -> attr=0x00002092
+05.06.2019 11:10:41.781 [00001f84] --- wglCreateContextAttribsARB -> val=0x00000002
+05.06.2019 11:10:41.781 [00001f84] ------ MINOR_VERSION 2
+05.06.2019 11:10:41.781 [00001f84] --- wglCreateContextAttribsARB -> attr=0x00009126
+05.06.2019 11:10:41.781 [00001f84] --- wglCreateContextAttribsARB -> val=0x00000001
+05.06.2019 11:10:41.781 [00001f84] ------ WARNING PROFILE_MASK CORE_PROFILE
+05.06.2019 11:10:41.781 [00001f84] --- wglCreateContextAttribsARB IN orig 10b03630
+05.06.2019 11:10:41.796 [00001f84] --- wglCreateLayerContext hdc=0a010800 iLayerPlane=0 hglrc=00020000
+05.06.2019 11:10:41.796 [00001f84] --- WWW H[000503d2] C[AMDDVRGLWINCLASS] W[AMDGlWindow] T[00001fbc] M[00010001] R[0,0 136x39] CR[0,0 120x0]
+05.06.2019 11:10:41.796 [00001f84] --- OpenGLWarpContext[fd034040] HDC=0a010800 GLRC=00020000 HWND=000503d2 isFullscreen=0
+05.06.2019 11:10:41.796 [00001f84] --- wglCreateContextAttribsARB OUT -> 00020000
+05.06.2019 11:10:41.828 [00001f84] --- Direct3DCreate9Ex 0x00000020
+05.06.2019 11:10:41.828 [00001f84] --- Direct3D9Ex createDeviceEx[fd413400] Adapter=0 DeviceType=1 hFocusWindow=00010010 BehaviorFlags=00000846 BackBufferWidth=1 BackBufferHeight=1 BackBufferFormat=21 BackBufferCount=0 MultiSampleType=0 MultiSampleQuality=0 SwapEffect=3 hDeviceWindow=00010010 Windowed=1 EnableAutoDepthStencil=0 AutoDepthStencilFormat=00000000 Flags=00000010 FullScreen_RefreshRateInHz=0 PresentationInterval=-2147483648
+05.06.2019 11:10:41.859 [00001f84] --- Direct3D9Ex createDeviceEx[fd413400] disabledDX9=0
+05.06.2019 11:10:41.859 [00001f84] --- Direct3DDevice9Ex [fd7c49f0] hFocusWindow=00010010
+05.06.2019 11:10:41.859 [00001f84] --- WWW H[00010010] C[#32769] W[] T[0000032c] M[00010001] R[0,0 3840x1200] CR[0,0 3840x1200]
+05.06.2019 11:10:41.859 [00001f84] --- DX9WarpContext [fe9d6040]
+05.06.2019 11:10:41.859 [00001f84] ------ IN=00000000
+05.06.2019 11:10:41.859 [00001f84] ------ OUT=00000000
+05.06.2019 11:10:41.859 [00001f84] ------ BackBufferWidth=1
+05.06.2019 11:10:41.859 [00001f84] ------ BackBufferHeight=1
+05.06.2019 11:10:41.859 [00001f84] ------ BackBufferFormat=21
+05.06.2019 11:10:41.859 [00001f84] ------ BackBufferCount=1
+05.06.2019 11:10:41.859 [00001f84] ------ MultiSampleType=0
+05.06.2019 11:10:41.859 [00001f84] ------ MultiSampleQuality=0
+05.06.2019 11:10:41.859 [00001f84] ------ SwapEffect=3
+05.06.2019 11:10:41.859 [00001f84] ------ hDeviceWindow=00010010
+05.06.2019 11:10:41.859 [00001f84] ------ Windowed=1
+05.06.2019 11:10:41.859 [00001f84] ------ EnableAutoDepthStencil=0
+05.06.2019 11:10:41.859 [00001f84] ------ AutoDepthStencilFormat=0
+05.06.2019 11:10:41.859 [00001f84] ------ Flags=00000010
+05.06.2019 11:10:41.859 [00001f84] ------ FullScreen_RefreshRateInHz=0
+05.06.2019 11:10:41.859 [00001f84] ------ PresentationInterval=-2147483648
+05.06.2019 11:10:41.859 [00001f84] --- preserveBackBuffer=1
+05.06.2019 11:10:41.859 [00001f84] --- Direct3DDevice9Ex[fd7c49f0] hWindow=00010010
+05.06.2019 11:10:41.859 [00001f84] --- Direct3DDevice9Ex[fd7c49f0] BackBufferCount 1 BackBufferFormat 0015 1x1 SwapEffect 3 [D3DSWAPEFFECT_COPY] hDeviceWindow=00010010 Windowed=1 Flags 00000010 PresentationInterval -2147483648[80000000] MultiSampleType 00000000 MultiSampleQuality 0
+05.06.2019 11:10:42.077 [00001f84] --- wglCreateLayerContext hdc=0a010800 iLayerPlane=0 hglrc=00010001
+05.06.2019 11:10:42.077 [00001f84] --- WWW H[000503d2] C[AMDDVRGLWINCLASS] W[AMDGlWindow] T[00001fbc] M[00010001] R[0,0 136x39] CR[0,0 120x0]
+05.06.2019 11:10:42.077 [00001f84] --- OpenGLWarpContext[fefcb040] HDC=0a010800 GLRC=00010001 HWND=000503d2 isFullscreen=0
+05.06.2019 11:10:42.077 [00001f84] --- wglDeleteContext 00010001
+05.06.2019 11:10:42.077 [00001f84] --- ~BaseWarpContext[fefcb040]
+05.06.2019 11:10:42.093 [00001f84] --- wglCreateLayerContext hdc=0a010800 iLayerPlane=0 hglrc=00020001
+05.06.2019 11:10:42.093 [00001f84] --- WWW H[000503d2] C[AMDDVRGLWINCLASS] W[AMDGlWindow] T[00001fbc] M[00010001] R[0,0 136x39] CR[0,0 120x0]
+05.06.2019 11:10:42.093 [00001f84] --- OpenGLWarpContext[ff1bd040] HDC=0a010800 GLRC=00020001 HWND=000503d2 isFullscreen=0
+05.06.2019 11:10:42.623 [00001f84] --- wglDeleteContext 00020001
+05.06.2019 11:10:42.623 [00001f84] --- ~BaseWarpContext[ff1bd040]

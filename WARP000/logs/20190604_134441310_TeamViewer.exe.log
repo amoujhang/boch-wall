@@ -1,0 +1,69 @@
+04.06.2019 13:43:51.905 [00000680] ??? OSM handle == NULL error=2
+04.06.2019 13:43:51.905 [00000680] ^^^ SC trying session1
+04.06.2019 13:43:51.905 [00000680] ??? OSM handle == NULL error=2
+04.06.2019 13:43:51.905 [00000680] ^^^ SC trying session2
+04.06.2019 13:43:51.905 [00000680] ??? OSM handle == NULL error=3
+04.06.2019 13:43:51.905 [00000680] --- DXGI dll=727a0000
+04.06.2019 13:43:51.936 [00000680] --- DirectX DXGI API CreateDXGIFactory detected 1
+04.06.2019 13:43:51.952 [00000680] --- DirectX DXGI API CreateDXGIFactory1 detected 1
+04.06.2019 13:43:51.967 [00000680] --- DirectX DXGI API CreateDXGIFactory2 detected 1
+04.06.2019 13:43:51.967 [00000680] --- DirectX DXGI API detected
+04.06.2019 13:43:51.967 [00000680] --- DirectX D3D12 API detected hd3d12=72630000
+04.06.2019 13:43:51.999 [00000680] --- DirectX D3D12 API detected 1
+04.06.2019 13:43:51.999 [00000680] ??? OSM handle == NULL error=2
+04.06.2019 13:43:51.999 [00000680] ^^^ SC trying session1
+04.06.2019 13:43:51.999 [00000680] ??? OSM handle == NULL error=2
+04.06.2019 13:43:51.999 [00000680] ^^^ SC trying session2
+04.06.2019 13:43:51.999 [00000680] ??? OSM handle == NULL error=3
+04.06.2019 13:43:51.999 [00000680] ??? OSM handle == NULL error=2
+04.06.2019 13:43:51.999 [00000680] ^^^ SC trying session1
+04.06.2019 13:43:51.999 [00000680] ??? OSM handle == NULL error=2
+04.06.2019 13:43:51.999 [00000680] ^^^ SC trying session2
+04.06.2019 13:43:51.999 [00000680] ??? OSM handle == NULL error=3
+04.06.2019 13:43:52.842 [00000680] ??? OSM handle == NULL error=2
+04.06.2019 13:43:52.842 [00000680] ^^^ SC trying session1
+04.06.2019 13:43:52.842 [00000680] ??? OSM handle == NULL error=2
+04.06.2019 13:43:52.842 [00000680] ^^^ SC trying session2
+04.06.2019 13:43:52.842 [00000680] ??? OSM handle == NULL error=3
+04.06.2019 13:43:52.889 [00000fd8] ??? OSM handle == NULL error=2
+04.06.2019 13:43:52.889 [00000fd8] ^^^ SC trying session1
+04.06.2019 13:43:52.889 [00000fd8] ??? OSM handle == NULL error=2
+04.06.2019 13:43:52.889 [00000fd8] ^^^ SC trying session2
+04.06.2019 13:43:52.889 [00000fd8] ??? OSM handle == NULL error=3
+04.06.2019 13:43:52.905 [00000fd8] ??? OSM handle == NULL error=2
+04.06.2019 13:43:52.905 [00000fd8] ^^^ SC trying session1
+04.06.2019 13:43:52.905 [00000fd8] ??? OSM handle == NULL error=2
+04.06.2019 13:43:52.905 [00000fd8] ^^^ SC trying session2
+04.06.2019 13:43:52.905 [00000fd8] ??? OSM handle == NULL error=3
+04.06.2019 13:43:53.873 [00000fd8] ??? OSM handle == NULL error=2
+04.06.2019 13:43:53.873 [00000fd8] ^^^ SC trying session1
+04.06.2019 13:43:53.873 [00000fd8] ??? OSM handle == NULL error=2
+04.06.2019 13:43:53.873 [00000fd8] ^^^ SC trying session2
+04.06.2019 13:43:53.873 [00000fd8] ??? OSM handle == NULL error=3
+04.06.2019 13:44:13.669 [00000fd8] ??? OSM handle == NULL error=2
+04.06.2019 13:44:13.669 [00000fd8] ^^^ SC trying session1
+04.06.2019 13:44:13.669 [00000fd8] ??? OSM handle == NULL error=2
+04.06.2019 13:44:13.669 [00000fd8] ^^^ SC trying session2
+04.06.2019 13:44:13.669 [00000fd8] ??? OSM handle == NULL error=3
+--- [47]
+04.06.2019 13:44:41.310 [00000fd8] --- App --- Immersive Display PRO v3.0.5 (01.01.2019)
+04.06.2019 13:44:41.310 [00000fd8] --- OS 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+04.06.2019 13:44:41.310 [00000fd8] --- Process32 C:\Program Files (x86)\TeamViewer\TeamViewer.exe
+04.06.2019 13:44:41.310 [00000fd8] --- CmdLine ["C:\Program Files (x86)\TeamViewer\TeamViewer.exe"]
+04.06.2019 13:44:41.310 [00000fd8] --- Enumerating displays ...
+04.06.2019 13:44:41.310 [00000fd8] --- Device N[\\.\DISPLAY1] S[Radeon RX 580 Series] M[Generic PnP Monitor] F[desktop primary ]
+04.06.2019 13:44:41.310 [00000fd8] --- Device N[\\.\DISPLAY2] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 13:44:41.310 [00000fd8] --- Device N[\\.\DISPLAY3] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 13:44:41.310 [00000fd8] --- Device N[\\.\DISPLAY4] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 13:44:41.310 [00000fd8] --- Device N[\\.\DISPLAY5] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 13:44:41.310 [00000fd8] --- Device N[\\.\DISPLAY6] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 13:44:41.310 [00000fd8] --- Device N[\\.\DISPLAY7] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 13:44:41.310 [00000fd8] --- Device N[\\.\DISPLAY8] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 13:44:41.310 [00000fd8] --- SM_CMONITORS         = 1
+04.06.2019 13:44:41.310 [00000fd8] --- SM_SAMEDISPLAYFORMAT = 1
+04.06.2019 13:44:41.310 [00000fd8] --- SM_XVIRTUALSCREEN    = 0
+04.06.2019 13:44:41.310 [00000fd8] --- SM_YVIRTUALSCREEN    = 0
+04.06.2019 13:44:41.310 [00000fd8] --- SM_CXVIRTUALSCREEN   = 3840
+04.06.2019 13:44:41.310 [00000fd8] --- SM_CYVIRTUALSCREEN   = 1200
+04.06.2019 13:44:41.310 [00000fd8] --- SM_CXCURSOR          = 32
+04.06.2019 13:44:41.310 [00000fd8] ??? No displays enumerated. Retry later

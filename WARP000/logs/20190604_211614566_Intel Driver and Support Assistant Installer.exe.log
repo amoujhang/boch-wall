@@ -1,0 +1,43 @@
+04.06.2019 21:16:14.566 [000017d8] --- App --- Immersive Display PRO v3.0.5 (01.01.2019)
+04.06.2019 21:16:14.566 [000017d8] --- OS 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+04.06.2019 21:16:14.566 [000017d8] --- Process32 C:\Users\own\AppData\Local\Temp\{4FE73A74-DAE2-44E1-8BD6-150C2F443079}\.be\Intel Driver and Support Assistant Installer.exe
+04.06.2019 21:16:14.566 [000017d8] --- CmdLine ["C:\Users\own\AppData\Local\Temp\{4FE73A74-DAE2-44E1-8BD6-150C2F443079}\.be\Intel Driver and Support Assistant Installer.exe" -q -burn.elevated BurnPipe.{B7E08BCD-226F-45EE-92E5-B819B37F8BE5} {BFB6AD2D-6D5D-4D98-A1A5-3C52A6061B98} 5692]
+04.06.2019 21:16:14.566 [000017d8] --- Enumerating displays ...
+04.06.2019 21:16:14.566 [000017d8] --- Device N[\\.\DISPLAY10] S[Radeon RX 580 Series] M[Generic PnP Monitor] F[desktop ]
+04.06.2019 21:16:14.566 [000017d8] --- Device N[\\.\DISPLAY11] S[Radeon RX 580 Series] M[Generic PnP Monitor] F[desktop primary ]
+04.06.2019 21:16:14.566 [000017d8] --- Device N[\\.\DISPLAY12] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:16:14.566 [000017d8] --- Device N[\\.\DISPLAY13] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:16:14.566 [000017d8] --- Device N[\\.\DISPLAY14] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:16:14.566 [000017d8] --- Device N[\\.\DISPLAY15] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:16:14.566 [000017d8] --- SM_CMONITORS         = 2
+04.06.2019 21:16:14.566 [000017d8] --- SM_SAMEDISPLAYFORMAT = 1
+04.06.2019 21:16:14.566 [000017d8] --- SM_XVIRTUALSCREEN    = 0
+04.06.2019 21:16:14.566 [000017d8] --- SM_YVIRTUALSCREEN    = 0
+04.06.2019 21:16:14.566 [000017d8] --- SM_CXVIRTUALSCREEN   = 3840
+04.06.2019 21:16:14.566 [000017d8] --- SM_CYVIRTUALSCREEN   = 1200
+04.06.2019 21:16:14.566 [000017d8] --- SM_CXCURSOR          = 32
+04.06.2019 21:16:14.582 [000017d8] --- [\\.\DISPLAY10] [Radeon RX 580 Series] [MONITOR\SECA70B\{4d36e96e-e325-11ce-bfc1-08002be10318}\0016] [Generic PnP Monitor]
+04.06.2019 21:16:14.582 [000017d8] --- [\\.\DISPLAY11] [Radeon RX 580 Series] [MONITOR\SECA70B\{4d36e96e-e325-11ce-bfc1-08002be10318}\0015] [Generic PnP Monitor]
+04.06.2019 21:16:14.582 [000017d8] --- Enumerated 2 displays
+04.06.2019 21:16:14.582 [000017d8] --- Displays initialized
+04.06.2019 21:16:14.582 [000017d8] --- Displays[0] M[001c09f1] HDC[950113b3] GDC[840111c5] L=1920 T=0 R=3840 B=1200 RECT[1920,0 1920x1200] N[\\.\DISPLAY10] M[Generic PnP Monitor] F[0] PROJ[2x1] MAPS[2]
+04.06.2019 21:16:14.582 [000017d8] ---    Grouping G[0] N[0] GD[]
+04.06.2019 21:16:14.582 [000017d8] --- Displays[1] M[001205fd] HDC[5c0101aa] GDC[6b0106bb] L=0 T=0 R=1920 B=1200 RECT[0,0 1920x1200] N[\\.\DISPLAY11] M[Generic PnP Monitor] F[1] PROJ[0x0] MAPS[0]
+04.06.2019 21:16:14.582 [000017d8] ---    Grouping G[0] N[0] GD[]
+04.06.2019 21:16:14.582 [000017d8] --- ---
+04.06.2019 21:16:14.582 [000017d8] --- hookD3D9
+04.06.2019 21:16:14.582 [000017d8] --- DirectX9 dll=71460000
+04.06.2019 21:16:14.613 [000017d8] --- DirectX9 API detected
+04.06.2019 21:16:14.613 [000017d8] --- DirectX9Ex API detected
+04.06.2019 21:16:14.613 [000017d8] --- i1: InterfaceProc1
+04.06.2019 21:16:14.613 [000017d8] --- interfaceFunc1 [\\.\DISPLAY10] totalMaps=2
+04.06.2019 21:16:14.613 [000017d8] --- DXGI dll=724a0000
+04.06.2019 21:16:14.629 [000017d8] --- DirectX DXGI API CreateDXGIFactory detected 1
+04.06.2019 21:16:14.660 [000017d8] --- DirectX DXGI API CreateDXGIFactory1 detected 1
+04.06.2019 21:16:14.676 [000017d8] --- DirectX DXGI API CreateDXGIFactory2 detected 1
+04.06.2019 21:16:14.676 [000017d8] --- DirectX DXGI API detected
+04.06.2019 21:16:14.676 [000017d8] --- DirectX D3D12 API detected hd3d12=72330000
+04.06.2019 21:16:14.691 [000017d8] --- DirectX D3D12 API detected 1
+04.06.2019 21:16:14.691 [000017d8] --- hookOpenGL
+04.06.2019 21:16:14.831 [000017d8] --- OpenGL API detected
+04.06.2019 21:16:38.111 [000017d8] --- PROCESS DETACH

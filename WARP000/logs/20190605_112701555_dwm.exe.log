@@ -1,0 +1,54 @@
+05.06.2019 11:27:01.555 [000010dc] --- App --- Immersive Display PRO v3.0.5 (01.01.2019)
+05.06.2019 11:27:01.555 [000010dc] --- OS 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+05.06.2019 11:27:01.555 [000010dc] --- Process64 C:\WINDOWS\system32\dwm.exe
+05.06.2019 11:27:01.555 [000010dc] --- CmdLine ["dwm.exe"]
+05.06.2019 11:27:01.555 [000010dc] --- Enumerating displays ...
+05.06.2019 11:27:01.556 [000010dc] --- Device N[\\.\DISPLAY1] S[Radeon RX 580 Series] M[Generic PnP Monitor] F[desktop primary ]
+05.06.2019 11:27:01.556 [000010dc] --- Device N[\\.\DISPLAY2] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:27:01.557 [000010dc] --- Device N[\\.\DISPLAY3] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:27:01.558 [000010dc] --- Device N[\\.\DISPLAY4] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:27:01.558 [000010dc] --- Device N[\\.\DISPLAY5] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:27:01.559 [000010dc] --- Device N[\\.\DISPLAY6] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:27:01.559 [000010dc] --- Device N[\\.\DISPLAY7] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:27:01.560 [000010dc] --- Device N[\\.\DISPLAY8] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:27:01.560 [000010dc] --- SM_CMONITORS         = 1
+05.06.2019 11:27:01.560 [000010dc] --- SM_SAMEDISPLAYFORMAT = 1
+05.06.2019 11:27:01.560 [000010dc] --- SM_XVIRTUALSCREEN    = 0
+05.06.2019 11:27:01.560 [000010dc] --- SM_YVIRTUALSCREEN    = 0
+05.06.2019 11:27:01.560 [000010dc] --- SM_CXVIRTUALSCREEN   = 3840
+05.06.2019 11:27:01.560 [000010dc] --- SM_CYVIRTUALSCREEN   = 1200
+05.06.2019 11:27:01.560 [000010dc] --- SM_CXCURSOR          = 32
+05.06.2019 11:27:01.560 [000010dc] ??? No displays enumerated. Retry later
+05.06.2019 11:27:01.560 [000010dc] --- hookD3D9
+05.06.2019 11:27:01.561 [000010dc] --- DirectX9 dll=feaf0000
+05.06.2019 11:27:01.610 [000010dc] --- DirectX9 API detected
+05.06.2019 11:27:01.610 [000010dc] --- DirectX9Ex API detected
+05.06.2019 11:27:01.610 [000010dc] --- i1: InterfaceProc1
+05.06.2019 11:27:01.610 [000010dc] --- DXGI dll=2d520000
+05.06.2019 11:27:01.625 [000010dc] --- DirectX DXGI API CreateDXGIFactory detected 1
+05.06.2019 11:27:01.657 [000010dc] --- DirectX DXGI API CreateDXGIFactory1 detected 1
+05.06.2019 11:27:01.688 [000010dc] --- DirectX DXGI API CreateDXGIFactory2 detected 1
+05.06.2019 11:27:01.688 [000010dc] --- DirectX DXGI API detected
+05.06.2019 11:27:01.703 [000010dc] --- DirectX D3D11 API detected 1
+05.06.2019 11:27:01.703 [000010dc] --- DirectX D3D12 API detected hd3d12=26cf0000
+05.06.2019 11:27:01.735 [000010dc] --- DirectX D3D12 API detected 1
+05.06.2019 11:27:01.735 [000010dc] --- hookOpenGL
+05.06.2019 11:27:01.922 [000010dc] --- OpenGL API detected
+05.06.2019 11:27:02.047 [00000fc4] --- D3D11CreateDevice ADAPTER NULL
+05.06.2019 11:27:02.063 [00001b88] --- D3D11CreateDevice ADAPTER Description=Radeon RX 580 Series
+05.06.2019 11:27:02.063 [00001b88] --- Device FeatureLevels[0]=0000a100
+05.06.2019 11:27:02.063 [00000fc4] --- Device FeatureLevel -> 0000b000
+05.06.2019 11:27:02.063 [00001b88] --- D3D11CreateDevice ADAPTER Description=Radeon RX 580 Series
+05.06.2019 11:27:02.063 [00001b88] --- Device FeatureLevels[0]=0000c100
+05.06.2019 11:27:02.063 [00001b88] --- Device FeatureLevels[1]=0000c000
+05.06.2019 11:27:02.063 [00001b88] --- Device FeatureLevels[2]=0000b100
+05.06.2019 11:27:02.063 [00001b88] --- Device FeatureLevels[3]=0000b000
+05.06.2019 11:27:02.063 [00001b88] --- Device FeatureLevels[4]=0000a100
+05.06.2019 11:27:02.063 [00001b88] --- Device FeatureLevels[5]=0000a000
+05.06.2019 11:27:02.063 [00001b88] --- Device FeatureLevels[6]=00009300
+05.06.2019 11:27:02.063 [00001b88] --- Device FeatureLevels[7]=00009200
+05.06.2019 11:27:02.063 [00001b88] --- Device FeatureLevels[8]=00009100
+05.06.2019 11:27:02.078 [00001b88] --- Device FeatureLevel -> 0000c000
+05.06.2019 11:27:25.901 [00001810] --- Restarting DWM
+05.06.2019 11:27:26.104 [00001810] --- Exiting DWM
+05.06.2019 11:27:26.166 [00001810] --- PROCESS DETACH

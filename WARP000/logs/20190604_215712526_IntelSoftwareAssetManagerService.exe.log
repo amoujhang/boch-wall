@@ -1,0 +1,31 @@
+04.06.2019 21:57:12.526 [0000053c] ??? OSM handle == NULL error=2
+04.06.2019 21:57:12.526 [0000053c] ^^^ SC trying session1
+--- [2]
+04.06.2019 21:57:12.526 [0000053c] --- App --- Immersive Display PRO v3.0.5 (01.01.2019)
+04.06.2019 21:57:12.526 [0000053c] --- OS 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+04.06.2019 21:57:12.526 [0000053c] --- Process32 C:\Program Files\Intel\SUR\QUEENCREEK\Updater\bin\IntelSoftwareAssetManagerService.exe
+04.06.2019 21:57:12.526 [0000053c] --- CmdLine ["C:\Program Files\Intel\SUR\QUEENCREEK\Updater\bin\IntelSoftwareAssetManagerService.exe"]
+04.06.2019 21:57:12.526 [0000053c] --- Enumerating displays ...
+04.06.2019 21:57:12.526 [0000053c] --- SM_CMONITORS         = 1
+04.06.2019 21:57:12.526 [0000053c] --- SM_SAMEDISPLAYFORMAT = 1
+04.06.2019 21:57:12.526 [0000053c] --- SM_XVIRTUALSCREEN    = 0
+04.06.2019 21:57:12.526 [0000053c] --- SM_YVIRTUALSCREEN    = 0
+04.06.2019 21:57:12.526 [0000053c] --- SM_CXVIRTUALSCREEN   = 1024
+04.06.2019 21:57:12.526 [0000053c] --- SM_CYVIRTUALSCREEN   = 768
+04.06.2019 21:57:12.526 [0000053c] --- SM_CXCURSOR          = 32
+04.06.2019 21:57:12.526 [0000053c] ??? No displays enumerated. Retry later
+04.06.2019 21:57:12.526 [0000053c] --- hookD3D9
+04.06.2019 21:57:12.528 [0000053c] --- DirectX9 dll=717f0000
+04.06.2019 21:57:12.565 [0000053c] --- DirectX9 API detected
+04.06.2019 21:57:12.565 [0000053c] --- DirectX9Ex API detected
+04.06.2019 21:57:12.565 [0000053c] --- i1: InterfaceProc1
+04.06.2019 21:57:12.566 [0000053c] --- DXGI dll=72790000
+04.06.2019 21:57:12.598 [0000053c] --- DirectX DXGI API CreateDXGIFactory detected 1
+04.06.2019 21:57:12.616 [0000053c] --- DirectX DXGI API CreateDXGIFactory1 detected 1
+04.06.2019 21:57:12.635 [0000053c] --- DirectX DXGI API CreateDXGIFactory2 detected 1
+04.06.2019 21:57:12.635 [0000053c] --- DirectX DXGI API detected
+04.06.2019 21:57:12.636 [0000053c] --- DirectX D3D12 API detected hd3d12=72590000
+04.06.2019 21:57:12.654 [0000053c] --- DirectX D3D12 API detected 1
+04.06.2019 21:57:12.654 [0000053c] --- hookOpenGL
+04.06.2019 21:57:12.812 [0000053c] --- OpenGL API detected
+04.06.2019 21:57:44.053 [0000053c] --- PROCESS DETACH

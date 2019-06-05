@@ -1,0 +1,30 @@
+04.06.2019 13:45:51.540 [00001c48] ??? OSM handle == NULL error=2
+04.06.2019 13:45:51.540 [00001c48] ^^^ SC trying session1
+--- [2]
+04.06.2019 13:45:51.540 [00001c48] --- App --- Immersive Display PRO v3.0.5 (01.01.2019)
+04.06.2019 13:45:51.540 [00001c48] --- OS 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+04.06.2019 13:45:51.540 [00001c48] --- Process64 C:\Program Files\AMD\Performance Profile Client\AUEPLauncher.exe
+04.06.2019 13:45:51.540 [00001c48] --- CmdLine ["C:\Program Files\AMD\Performance Profile Client\AUEPLauncher.exe"]
+04.06.2019 13:45:51.540 [00001c48] --- Enumerating displays ...
+04.06.2019 13:45:51.540 [00001c48] --- SM_CMONITORS         = 1
+04.06.2019 13:45:51.540 [00001c48] --- SM_SAMEDISPLAYFORMAT = 1
+04.06.2019 13:45:51.540 [00001c48] --- SM_XVIRTUALSCREEN    = 0
+04.06.2019 13:45:51.540 [00001c48] --- SM_YVIRTUALSCREEN    = 0
+04.06.2019 13:45:51.540 [00001c48] --- SM_CXVIRTUALSCREEN   = 1024
+04.06.2019 13:45:51.540 [00001c48] --- SM_CYVIRTUALSCREEN   = 768
+04.06.2019 13:45:51.540 [00001c48] --- SM_CXCURSOR          = 32
+04.06.2019 13:45:51.540 [00001c48] ??? No displays enumerated. Retry later
+04.06.2019 13:45:51.541 [00001c48] --- hookD3D9
+04.06.2019 13:45:51.542 [00001c48] --- DirectX9 dll=56cb0000
+04.06.2019 13:45:51.577 [00001c48] --- DirectX9 API detected
+04.06.2019 13:45:51.577 [00001c48] --- DirectX9Ex API detected
+04.06.2019 13:45:51.577 [00001c48] --- i1: InterfaceProc1
+04.06.2019 13:45:51.577 [00001c48] --- DXGI dll=7ce30000
+04.06.2019 13:45:51.595 [00001c48] --- DirectX DXGI API CreateDXGIFactory detected 1
+04.06.2019 13:45:51.612 [00001c48] --- DirectX DXGI API CreateDXGIFactory1 detected 1
+04.06.2019 13:45:51.630 [00001c48] --- DirectX DXGI API CreateDXGIFactory2 detected 1
+04.06.2019 13:45:51.630 [00001c48] --- DirectX DXGI API detected
+04.06.2019 13:45:51.630 [00001c48] --- DirectX D3D12 API detected hd3d12=75c40000
+04.06.2019 13:45:51.648 [00001c48] --- DirectX D3D12 API detected 1
+04.06.2019 13:45:51.648 [00001c48] --- hookOpenGL
+04.06.2019 13:45:51.769 [00001c48] --- OpenGL API detected

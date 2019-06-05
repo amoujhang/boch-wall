@@ -1,0 +1,83 @@
+05.06.2019 10:43:14.088 [00001a70] --- App --- Immersive Display PRO v3.0.5 (01.01.2019)
+05.06.2019 10:43:14.088 [00001a70] --- OS 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+05.06.2019 10:43:14.088 [00001a70] --- Process64 C:\WINDOWS\system32\dwm.exe
+05.06.2019 10:43:14.088 [00001a70] --- CmdLine ["dwm.exe"]
+05.06.2019 10:43:14.088 [00001a70] --- Enumerating displays ...
+05.06.2019 10:43:14.088 [00001a70] --- Device N[\\.\DISPLAY1] S[Radeon RX 580 Series] M[Generic PnP Monitor] F[desktop primary ]
+05.06.2019 10:43:14.088 [00001a70] --- Device N[\\.\DISPLAY2] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 10:43:14.103 [00001a70] --- Device N[\\.\DISPLAY3] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 10:43:14.103 [00001a70] --- Device N[\\.\DISPLAY4] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 10:43:14.103 [00001a70] --- Device N[\\.\DISPLAY5] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 10:43:14.103 [00001a70] --- Device N[\\.\DISPLAY6] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 10:43:14.103 [00001a70] --- Device N[\\.\DISPLAY7] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 10:43:14.103 [00001a70] --- Device N[\\.\DISPLAY8] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 10:43:14.103 [00001a70] --- SM_CMONITORS         = 1
+05.06.2019 10:43:14.103 [00001a70] --- SM_SAMEDISPLAYFORMAT = 1
+05.06.2019 10:43:14.103 [00001a70] --- SM_XVIRTUALSCREEN    = 0
+05.06.2019 10:43:14.103 [00001a70] --- SM_YVIRTUALSCREEN    = 0
+05.06.2019 10:43:14.103 [00001a70] --- SM_CXVIRTUALSCREEN   = 3840
+05.06.2019 10:43:14.103 [00001a70] --- SM_CYVIRTUALSCREEN   = 1200
+05.06.2019 10:43:14.103 [00001a70] --- SM_CXCURSOR          = 32
+05.06.2019 10:43:14.103 [00001a70] ??? No displays enumerated. Retry later
+05.06.2019 10:43:14.103 [00001a70] --- hookD3D9
+05.06.2019 10:43:14.103 [00001a70] --- DirectX9 dll=328d0000
+05.06.2019 10:43:14.150 [00001a70] --- DirectX9 API detected
+05.06.2019 10:43:14.150 [00001a70] --- DirectX9Ex API detected
+05.06.2019 10:43:14.150 [00001a70] --- i1: InterfaceProc1
+05.06.2019 10:43:14.150 [00001a70] --- DXGI dll=61320000
+05.06.2019 10:43:14.166 [00001a70] --- DirectX DXGI API CreateDXGIFactory detected 1
+05.06.2019 10:43:14.197 [00001a70] --- DirectX DXGI API CreateDXGIFactory1 detected 1
+05.06.2019 10:43:14.213 [00001a70] --- DirectX DXGI API CreateDXGIFactory2 detected 1
+05.06.2019 10:43:14.213 [00001a70] --- DirectX DXGI API detected
+05.06.2019 10:43:14.244 [00001a70] --- DirectX D3D11 API detected 1
+05.06.2019 10:43:14.244 [00001a70] --- DirectX D3D12 API detected hd3d12=5a9e0000
+05.06.2019 10:43:14.260 [00001a70] --- DirectX D3D12 API detected 1
+05.06.2019 10:43:14.260 [00001a70] --- hookOpenGL
+05.06.2019 10:43:14.416 [00001a70] --- OpenGL API detected
+05.06.2019 10:43:14.525 [00001df0] --- D3D11CreateDevice ADAPTER NULL
+05.06.2019 10:43:14.541 [0000199c] --- D3D11CreateDevice ADAPTER Description=Radeon RX 580 Series
+05.06.2019 10:43:14.541 [0000199c] --- Device FeatureLevels[0]=0000a100
+05.06.2019 10:43:14.541 [00001df0] --- Device FeatureLevel -> 0000b000
+05.06.2019 10:43:14.541 [0000199c] --- D3D11CreateDevice ADAPTER Description=Radeon RX 580 Series
+05.06.2019 10:43:14.541 [0000199c] --- Device FeatureLevels[0]=0000c100
+05.06.2019 10:43:14.541 [0000199c] --- Device FeatureLevels[1]=0000c000
+05.06.2019 10:43:14.541 [0000199c] --- Device FeatureLevels[2]=0000b100
+05.06.2019 10:43:14.541 [0000199c] --- Device FeatureLevels[3]=0000b000
+05.06.2019 10:43:14.541 [0000199c] --- Device FeatureLevels[4]=0000a100
+05.06.2019 10:43:14.541 [0000199c] --- Device FeatureLevels[5]=0000a000
+05.06.2019 10:43:14.541 [0000199c] --- Device FeatureLevels[6]=00009300
+05.06.2019 10:43:14.541 [0000199c] --- Device FeatureLevels[7]=00009200
+05.06.2019 10:43:14.541 [0000199c] --- Device FeatureLevels[8]=00009100
+05.06.2019 10:43:14.556 [0000199c] --- Device FeatureLevel -> 0000c000
+05.06.2019 10:43:14.713 [0000199c] --- Win10SC_[01] Created
+05.06.2019 10:43:14.713 [0000199c] --- [\\.\DISPLAY1] [Radeon RX 580 Series] [MONITOR\ADVEF2D\{4d36e96e-e325-11ce-bfc1-08002be10318}\0017] [Generic PnP Monitor]
+05.06.2019 10:43:14.713 [0000199c] --- shim Winmm hLib=60730000
+05.06.2019 10:43:14.713 [0000199c] --- shim Winmm 60736050, 60735f10, 60731060, 60731040
+05.06.2019 10:43:14.728 [0000199c] --- WarpContext fcd93040 Output=f0a0fec0 DeviceName=\\.\DISPLAY1 DesktopCoordinates(0,0 3840x1200) AttachedToDesktop=1 Rotation=1 (0)
+05.06.2019 10:43:14.728 [0000199c] --- WarpContext fcd93040 count 1
+05.06.2019 10:43:14.728 [0000199c] --- GMOC[f1187168] DONE
+05.06.2019 10:43:14.728 [0000199c] --- WarpContext[fcd93040] Monitor=00010001
+05.06.2019 10:43:14.728 [0000199c] --- D3DXWrapper trying d3dx11_43.dll
+05.06.2019 10:43:14.728 [0000199c] --- D3DXWrapper d3dx11_43.dll loaded
+05.06.2019 10:43:14.728 [0000199c] --- WarpContext[fcd93040] D3DCompiler_47.DLL loaded directly
+05.06.2019 10:43:14.728 [0000199c] --- SCISSORS 1
+05.06.2019 10:43:14.728 [0000199c] --- ANISOTROPIC 4
+05.06.2019 10:43:15.007 [0000199c] --- WarpContext fcd93040 T(3840x1200) O(3840x1200) enableRotation=0 rotateDegrees=0
+05.06.2019 10:43:15.035 [0000199c] --- WarpContext[fcd93040] CreateAllWarpingResources S=1 R=85 Warping=1
+05.06.2019 10:43:15.035 [0000199c] --- Cursor warping SSC=644448e0
+05.06.2019 10:43:15.035 [0000199c] ### Cursor clear cache CC[0]
+05.06.2019 10:43:15.035 [0000199c] ### Present[fcd93040] S
+05.06.2019 10:43:15.035 [0000199c] ### Present[fcd93040] uSOPSAS
+05.06.2019 10:43:15.035 [0000199c] ### Present[fcd93040] uSNPSAS
+05.06.2019 10:43:15.035 [0000199c] ### Present[fcd93040] CR
+05.06.2019 10:43:15.035 [0000199c] ### Present[fcd93040] OMSRT
+05.06.2019 10:43:15.037 [0000199c] ### Present[fcd93040] uDC
+05.06.2019 10:43:15.037 [0000199c] ### Present[fcd93040] OMSRT
+05.06.2019 10:43:15.041 [0000199c] ### Present[fcd93040] uRBT
+05.06.2019 10:43:15.041 [0000199c] ### Present[fcd93040] OMSRT
+05.06.2019 10:43:15.041 [0000199c] ### Present[fcd93040] uDG
+05.06.2019 10:43:15.041 [0000199c] ### Present[fcd93040] uROPSAS
+05.06.2019 10:43:15.041 [0000199c] ### Present[fcd93040] E
+05.06.2019 10:43:19.648 [00001f90] --- Restarting DWM
+05.06.2019 10:43:19.850 [00001f90] --- Exiting DWM
+05.06.2019 10:43:19.902 [00001f90] --- PROCESS DETACH

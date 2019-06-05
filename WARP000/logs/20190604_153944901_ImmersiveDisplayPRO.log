@@ -1,0 +1,349 @@
+04.06.2019 15:39:44.901 [00001e40] --- Immersive Display PRO v3.0.5
+04.06.2019 15:39:44.901 [00001e40] --- OS 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+04.06.2019 15:39:44.901 [00001e40] --- SCREEN \\.\DISPLAY1
+04.06.2019 15:39:44.901 [00001e40] ------ LogicalDPI=96.000000 Scale=1.000000
+04.06.2019 15:39:44.901 [00001e40] ------ DevicePixelRatio=1.000000
+04.06.2019 15:39:44.917 [00001e40] --- Removed 0 log file(s)
+04.06.2019 15:39:44.917 [00001e40] --- ACL changed for C:\WARP000\
+04.06.2019 15:39:45.385 [00001e40] --- LicAppName=Immersive Display PRO
+04.06.2019 15:39:45.385 [00001e40] --- L1
+04.06.2019 15:39:45.903 [00001e40] --- DK1C57
+04.06.2019 15:39:46.871 [00001e40] --- DM103
+04.06.2019 15:39:47.949 [00001e40] --- LD=20190109 SD=20190101
+04.06.2019 15:39:47.949 [00001e40] --- ###[UzNZOU5YME0yNDg4OTBM]###
+04.06.2019 15:39:48.402 [00001e40] --- Displays 1/2 [20] SGD=2560932 SSC=31904
+04.06.2019 15:39:48.402 [00001e40] --- Shared 31904+5121864 5153768
+04.06.2019 15:39:48.402 [00001e40] ### PageSize=4096
+04.06.2019 15:39:48.402 [00001e40] ### MinimumApplicationAddress=00010000
+04.06.2019 15:39:48.402 [00001e40] ### MaximumApplicationAddress=7ffeffff
+04.06.2019 15:39:48.402 [00001e40] ### AllocationGranularity=65536
+04.06.2019 15:39:48.402 [00001e40] ### Res=28
+04.06.2019 15:39:48.402 [00001e40] ### BaseAddress=0ab70000
+04.06.2019 15:39:48.402 [00001e40] ### AllocationBase=0ab70000
+04.06.2019 15:39:48.402 [00001e40] ### AllocationProtect=00000004
+04.06.2019 15:39:48.402 [00001e40] ### RegionSize=5156864
+04.06.2019 15:39:48.402 [00001e40] ### State=00001000
+04.06.2019 15:39:48.402 [00001e40] ### Protect=00000004
+04.06.2019 15:39:48.402 [00001e40] ### Type=00040000
+04.06.2019 15:39:48.402 [00001e40] --- Config 0ab70000 ZERO(0) 31904 + 5121864
+04.06.2019 15:39:48.402 [00001e40] --- Config 0ab70000 ZERO(1)
+04.06.2019 15:39:48.402 [00001e40] --- Config 0ab70000 ZERO(2)
+04.06.2019 15:39:48.402 [00001e40] --- R [12]->27
+04.06.2019 15:39:48.402 [00001e40] --- MP 3
+04.06.2019 15:39:48.402 [00001e40] --- Config 0ab70000
+04.06.2019 15:39:48.402 [00001e40] --- Config logsFolder=C:\WARP000\logs\
+04.06.2019 15:39:48.402 [00001e40] --- Config imagesFolder=C:\WARP000\images\
+04.06.2019 15:39:48.402 [00001e40] --- Config configsFolder=C:\WARP000\config\
+04.06.2019 15:39:48.402 [00001e40] --- Enumerating displays ...
+04.06.2019 15:39:48.402 [00001e40] --- Device N[\\.\DISPLAY1] S[Radeon RX 580 Series] M[Generic PnP Monitor] F[desktop primary ]
+04.06.2019 15:39:48.402 [00001e40] --- Device N[\\.\DISPLAY2] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 15:39:48.402 [00001e40] --- Device N[\\.\DISPLAY3] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 15:39:48.402 [00001e40] --- Device N[\\.\DISPLAY4] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 15:39:48.402 [00001e40] --- Device N[\\.\DISPLAY5] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 15:39:48.402 [00001e40] --- Device N[\\.\DISPLAY6] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 15:39:48.402 [00001e40] --- Device N[\\.\DISPLAY7] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 15:39:48.402 [00001e40] --- Device N[\\.\DISPLAY8] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 15:39:48.402 [00001e40] --- SM_CMONITORS         = 1
+04.06.2019 15:39:48.402 [00001e40] --- SM_SAMEDISPLAYFORMAT = 1
+04.06.2019 15:39:48.402 [00001e40] --- SM_XVIRTUALSCREEN    = 0
+04.06.2019 15:39:48.402 [00001e40] --- SM_YVIRTUALSCREEN    = 0
+04.06.2019 15:39:48.402 [00001e40] --- SM_CXVIRTUALSCREEN   = 3840
+04.06.2019 15:39:48.402 [00001e40] --- SM_CYVIRTUALSCREEN   = 1200
+04.06.2019 15:39:48.402 [00001e40] --- SM_CXCURSOR          = 32
+04.06.2019 15:39:48.433 [00001e40] --- [\\.\DISPLAY1] [Radeon RX 580 Series] [MONITOR\ADVEF2D\{4d36e96e-e325-11ce-bfc1-08002be10318}\0013] [Generic PnP Monitor]
+04.06.2019 15:39:48.433 [00001e40] --- Enumerated 1 displays
+04.06.2019 15:39:48.433 [00001e40] --- Displays initialized
+04.06.2019 15:39:48.433 [00001e40] --- Displays[0] M[00010001] HDC[16010969] GDC[47010c59] L=0 T=0 R=3840 B=1200 RECT[0,0 3840x1200] N[\\.\DISPLAY1] M[Generic PnP Monitor] F[1] PROJ[0x0] MAPS[0]
+04.06.2019 15:39:48.433 [00001e40] ---    Grouping G[0] N[0] GD[]
+04.06.2019 15:39:48.433 [00001e40] --- ---
+04.06.2019 15:39:48.449 [00001e40] --- Model:Config file C:\WARP000\config\config.dat does not exist
+04.06.2019 15:39:48.449 [00001e40] --- Model:Config file LCC[1]
+04.06.2019 15:39:48.449 [00001e40] --- Model:Config file CC[2]
+04.06.2019 15:39:48.449 [00001e40] --- Preferences loaded
+04.06.2019 15:39:48.449 [00001e40] ------ startMinimized 0
+04.06.2019 15:39:48.449 [00001e40] ------ showTrayNotifications 0
+04.06.2019 15:39:48.449 [00001e40] ------ autoStartDesktopWarping 1
+04.06.2019 15:39:48.449 [00001e40] ------ autoStartDesktopWarpingDelaySeconds 3
+04.06.2019 15:39:48.449 [00001e40] ------ warpCursor 1
+04.06.2019 15:39:48.449 [00001e40] ------ hideSystemCursor 0
+04.06.2019 15:39:48.449 [00001e40] ------ samplingDesktop 2
+04.06.2019 15:39:48.449 [00001e40] ------ samplingDXGL 2
+04.06.2019 15:39:48.449 [00001e40] ------ useFXAA 0
+04.06.2019 15:39:48.449 [00001e40] ------ useFXAAPresetIndex 0
+04.06.2019 15:39:48.449 [00001e40] ------ updateRateMS 20
+04.06.2019 15:39:48.449 [00001e40] ------ enableVNCControl 0
+04.06.2019 15:39:48.449 [00001e40] ------ vncPort 5900
+04.06.2019 15:39:48.449 [00001e40] ------ vncPassword 1234
+04.06.2019 15:39:48.449 [00001e40] ------ enableTelnet 0
+04.06.2019 15:39:48.449 [00001e40] ------ remoteTelnetPort 6600
+04.06.2019 15:39:48.449 [00001e40] ------ overrideDesktopRotation 0
+04.06.2019 15:39:48.449 [00001e40] ------ forcedDesktopRotation 0
+04.06.2019 15:39:48.449 [00001e40] ------ forcedScissorsRotation 0
+04.06.2019 15:39:48.449 [00001e40] ------ checkForDisplayConfigChange 0
+04.06.2019 15:39:48.449 [00001e40] ------ cropEdges 0
+04.06.2019 15:39:48.449 [00001e40] ------ cropPixels 0
+04.06.2019 15:39:48.449 [00001e40] ------ removeWindowFrame 0
+04.06.2019 15:39:48.449 [00001e40] ------ skipWarpChildWindows 0
+04.06.2019 15:39:48.449 [00001e40] ------ openGLTextureOffset 0
+04.06.2019 15:39:48.449 [00001e40] ------ disable_DX9 0
+04.06.2019 15:39:48.449 [00001e40] ------ disable_DX10 0
+04.06.2019 15:39:48.449 [00001e40] ------ disable_DX11 0
+04.06.2019 15:39:48.464 [00001e40] ------ disable_DX12 0
+04.06.2019 15:39:48.464 [00001e40] ------ disable_OpenGL 0
+04.06.2019 15:39:48.464 [00001e40] ------ disable_Vulkan 1
+04.06.2019 15:39:48.464 [00001e40] ------ forcePreserveBB_DX9 0
+04.06.2019 15:39:48.464 [00001e40] ------ forcePreserveBB_DX10 0
+04.06.2019 15:39:48.464 [00001e40] ------ forcePreserveBB_DX11 0
+04.06.2019 15:39:48.464 [00001e40] ------ forcePreserveBB_DX12 0
+04.06.2019 15:39:48.464 [00001e40] ------ forcePreserveBB_OpenGL 0
+04.06.2019 15:39:48.464 [00001e40] ------ forcePreserveBB_Vulkan 0
+04.06.2019 15:39:48.464 [00001e40] ------ enableDebanding 0
+04.06.2019 15:39:48.464 [00001e40] ------ enableWindowsSessionShutdown 0
+04.06.2019 15:39:48.464 [00001e40] ------ ignoreDWMInFullScreen 1
+04.06.2019 15:39:48.464 [00001e40] --- Excludes loaded 3
+04.06.2019 15:39:48.464 [00001e40] ------ Exclude Path=MQTT_Json_Movie_MOC.exe DX9=1 DX10=1 DX11=1 DX12=1 OGL=1 VULKAN=1 StopDWM7=0
+04.06.2019 15:39:48.464 [00001e40] ------ Exclude Path=chrome.exe DX9=1 DX10=1 DX11=1 DX12=1 OGL=1 VULKAN=1 StopDWM7=0
+04.06.2019 15:39:48.464 [00001e40] ------ Exclude Path=chrome.exe DX9=1 DX10=1 DX11=1 DX12=1 OGL=1 VULKAN=1 StopDWM7=0
+04.06.2019 15:39:48.464 [00001e40] --- Sets configSet=1
+04.06.2019 15:39:48.464 [00001e40] --- Sets configSetFile[1]=C:\WARP000\config\20190509.dat
+04.06.2019 15:39:48.464 [00001e40] --- Sets configSetFile[2]=C:\WARP000\config\config2.dat
+04.06.2019 15:39:48.464 [00001e40] --- Sets configSetFile[3]=C:\WARP000\config\config3.dat
+04.06.2019 15:39:48.464 [00001e40] --- Sets configSetFile[4]=C:\WARP000\config\config4.dat
+04.06.2019 15:39:48.464 [00001e40] --- Sets configSetFile[5]=C:\WARP000\config\config5.dat
+04.06.2019 15:39:48.464 [00001e40] --- Sets configSetFile[6]=C:\WARP000\config\config6.dat
+04.06.2019 15:39:48.464 [00001e40] --- Sets configSetFile[7]=C:\WARP000\config\config7.dat
+04.06.2019 15:39:48.464 [00001e40] --- Sets configSetFile[8]=C:\WARP000\config\config8.dat
+04.06.2019 15:39:48.480 [00001e40] --- Loaded Displays[0] \\.\DISPLAY1 Generic PnP Monitor L=0 T=0 R=3840 B=1200 loadedDisplaysWithPositionAndSize=1
+04.06.2019 15:39:48.511 [00001e40] --- Displays loaded
+04.06.2019 15:39:48.511 [00001e40] --- Displays[0] M[00010001] HDC[16010969] GDC[47010c59] L=0 T=0 R=3840 B=1200 RECT[0,0 3840x1200] N[\\.\DISPLAY1] M[Generic PnP Monitor] F[1] PROJ[2x1] MAPS[2]
+04.06.2019 15:39:48.511 [00001e40] ---    Grouping G[0] N[0] GD[]
+04.06.2019 15:39:48.511 [00001e40] --- Model:Config file C:\WARP000\config\20190509.dat loaded
+04.06.2019 15:39:48.511 [00001e40] --- Model:Config file LCC[3]
+04.06.2019 15:39:48.511 [00001e40] --- Model:Config file CC[4]
+04.06.2019 15:39:48.511 [00001e40] --- Sets manager selectSet[1]->1
+04.06.2019 15:39:48.527 [00001e40] --- Schedules STOP
+04.06.2019 15:39:48.527 [00001e40] --- Schedules STOP
+04.06.2019 15:39:48.527 [00001e40] --- Autoruns 0
+04.06.2019 15:39:48.527 [00001e40] $$$ Immersive Display PRO v3.0.5 (01.01.2019)
+04.06.2019 15:39:48.527 [00001e40] $$$ 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+04.06.2019 15:39:48.847 [00001e40] --- Run all autoruns
+04.06.2019 15:39:51.018 [00001e40] $$$ P32[00001a50] [TeamViewer_Desktop.exe][c:\program files (x86)\teamviewer\TeamViewer_Desktop.exe] started
+04.06.2019 15:39:51.757 [00001e40] --- onToggleDesktopWarp isDWMAvailable=1
+04.06.2019 15:39:51.757 [00001e40] --- onToggleDesktopWarp TOGGLED
+04.06.2019 15:39:51.757 [00001e40] $$$ incremented dwmRestartCount=1
+04.06.2019 15:39:52.427 [00001e40] $$$ P32[000010a0] [TeamViewer.exe][C:\Program Files (x86)\TeamViewer\TeamViewer.exe] started
+04.06.2019 15:39:52.512 [00001e40] $$$ P64[00001f50] [dwm.exe][C:\WINDOWS\system32\dwm.exe] started
+04.06.2019 15:39:54.637 [00001e40] $$$ P64[00001b50] [MCEControl.exe][C:\Program Files (x86)\Kindel Systems\MCE Controller\MCEControl.exe] started
+04.06.2019 15:41:03.724 [00001e40] $$$ P64[00001268] [AUEPLauncher.exe][C:\Program Files\AMD\Performance Profile Client\AUEPLauncher.exe] started
+04.06.2019 15:41:04.145 [00001e40] $$$ P64[00001928] [AUEPMaster.exe][C:\Program Files\AMD\Performance Profile Client\AUEPMaster.exe] started
+04.06.2019 15:41:04.419 [00001e40] $$$ P32[00001f38] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+04.06.2019 15:41:04.794 [00001e40] $$$ P32[00001afc] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+04.06.2019 15:41:04.905 [00001e40] $$$ P32[0000078c] [jhi_service.exe][C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL\jhi_service.exe] started
+04.06.2019 15:41:05.155 [00001e40] $$$ P32[000002b4] [GoogleCrashHandler.exe][C:\Program Files (x86)\Google\Update\1.3.34.11\GoogleCrashHandler.exe] started
+04.06.2019 15:41:05.178 [00001e40] $$$ P64[0000032c] [GoogleCrashHandler64.exe][C:\Program Files (x86)\Google\Update\1.3.34.11\GoogleCrashHandler64.exe] started
+04.06.2019 15:41:05.406 [00001e40] $$$ P32[000003b0] [LMS.exe][C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\LMS\LMS.exe] started
+04.06.2019 15:41:11.917 [00001e40] $$$ P64[000020b0] [AUEPUF.exe][C:\Program Files\AMD\Performance Profile Client\AUEPUF.exe] started
+04.06.2019 15:41:21.234 [00001e40] $$$ P64[000021b0] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 15:41:21.484 [00001e40] $$$ P64[000021c4] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 15:41:21.882 [00001e40] $$$ P64[000021e8] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 15:41:21.932 [00001e40] $$$ P64[00002268] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 15:41:36.905 [00001e40] $$$ P64[00002674] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 15:41:52.374 [00001e40] $$$ P64[000026cc] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 15:41:52.623 [00001e40] $$$ P64[000026dc] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 15:41:52.906 [00001e40] $$$ P64[00002700] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 15:41:52.992 [00001e40] $$$ P64[000025d8] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 15:42:07.938 [00001e40] $$$ P64[000025c0] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 15:42:38.068 [00001e40] $$$ P64[00002724] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 15:44:20.488 [00001e40] $$$ P64[00001d60] [RadeonSettings.exe][C:\Program Files\AMD\CNext\CNext\RadeonSettings.exe] started
+04.06.2019 15:44:45.296 [00001e40] --- Clipboard DATA changed
+04.06.2019 15:44:50.421 [00001e40] $$$ P64[0000221c] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 15:44:50.670 [00001e40] $$$ P64[000024a0] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 15:44:50.947 [00001e40] $$$ P64[0000223c] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 15:44:51.015 [00001e40] $$$ P64[000021d8] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 15:45:05.983 [00001e40] $$$ P64[00002458] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 15:45:15.424 [00001e40] --- Clipboard DATA changed
+04.06.2019 15:45:36.123 [00001e40] $$$ P64[000023fc] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 15:47:09.592 [00001e40] $$$ P64[00002620] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 15:47:09.826 [00001e40] $$$ P64[00001d08] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 15:47:10.087 [00001e40] $$$ P64[0000261c] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 15:47:10.157 [00001e40] $$$ P64[00002194] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 15:47:25.123 [00001e40] $$$ P64[00002484] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 15:47:35.846 [00001e40] --- Clipboard DATA changed
+04.06.2019 15:47:55.235 [00001e40] $$$ P64[00002764] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 15:49:03.394 [00001e40] $$$ P64[00002610] [MpCmdRun.exe][C:\ProgramData\Microsoft\Windows Defender\platform\4.18.1905.4-0\MpCmdRun.exe] started
+04.06.2019 15:49:03.772 [00001e40] $$$ P64[00001bf0] [MpCmdRun.exe][C:\ProgramData\Microsoft\Windows Defender\platform\4.18.1905.4-0\MpCmdRun.exe] started
+04.06.2019 15:49:04.270 [00001e40] $$$ P64[000026f8] [MpCmdRun.exe][C:\ProgramData\Microsoft\Windows Defender\platform\4.18.1905.4-0\MpCmdRun.exe] started
+04.06.2019 15:53:41.637 [00001e40] --- Clipboard DATA changed
+04.06.2019 15:58:59.194 [00001e40] --- Clipboard DATA changed
+04.06.2019 16:35:21.591 [00001e40] $$$ P32[000025a4] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+04.06.2019 17:35:21.591 [00001e40] $$$ P32[000021dc] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+04.06.2019 17:39:03.613 [00001e40] $$$ P64[00001d84] [TiWorker.exe][C:\WINDOWS\winsxs\amd64_microsoft-windows-servicingstack_31bf3856ad364e35_10.0.17763.402_none_7e502ee34cd6a6f5\TiWorker.exe] started
+04.06.2019 18:35:21.592 [00001e40] $$$ P32[00001530] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+04.06.2019 19:15:11.659 [00001e40] $$$ P64[00000ce8] [MQTT_Json_Movie_MOC.exe][C:\boch-wall\MQTT_Json_Movie_MOC.exe] started
+04.06.2019 19:15:11.673 [00001e40] $$$ P64[00000c74] [UnityCrashHandler64.exe][C:\boch-wall\UnityCrashHandler64.exe] started
+04.06.2019 19:15:12.287 [00001e40] $$$ P64[000015dc] [UnityCrashHandler64.exe][C:\boch-wall\UnityCrashHandler64.exe] started
+04.06.2019 19:21:07.049 [00001e40] $$$ P64[00002e80] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 19:21:07.267 [00001e40] $$$ P64[00002f0c] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 19:21:07.516 [00001e40] $$$ P64[00002f60] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 19:21:07.595 [00001e40] $$$ P64[00002fe4] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 19:21:22.544 [00001e40] $$$ P64[00001d24] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 19:21:52.669 [00001e40] $$$ P64[000021f8] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 19:24:40.348 [00001e40] $$$ P32[00001970] [TeamViewer_Desktop.exe][c:\program files (x86)\teamviewer\TeamViewer_Desktop.exe] started
+04.06.2019 19:25:10.247 [00001e40] $$$ P64[000016dc] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 19:25:10.465 [00001e40] $$$ P64[00002118] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 19:25:10.714 [00001e40] $$$ P64[00001994] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 19:25:10.789 [00001e40] $$$ P64[00001568] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 19:25:25.749 [00001e40] $$$ P64[000028c8] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 19:25:55.828 [00001e40] $$$ P64[00000de4] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 19:30:33.159 [00001e40] --- Clipboard DATA changed
+04.06.2019 19:32:37.693 [00001e40] --- Clipboard DATA changed
+04.06.2019 19:33:53.326 [00001e40] --- Clipboard DATA changed
+04.06.2019 19:34:06.575 [00001e40] $$$ P64[00002b98] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 19:34:06.809 [00001e40] $$$ P64[000010ac] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 19:34:07.063 [00001e40] $$$ P64[00002970] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 19:34:07.109 [00001e40] $$$ P64[00002850] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 19:34:22.114 [00001e40] $$$ P64[00002b34] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 19:34:52.234 [00001e40] $$$ P64[00001e70] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 19:35:21.616 [00001e40] $$$ P32[00001284] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+04.06.2019 19:35:32.458 [00001e40] $$$ P32[00002678] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+04.06.2019 19:37:44.146 [00001e40] --- Clipboard DATA changed
+04.06.2019 19:41:42.297 [00001e40] --- Clipboard DATA changed
+04.06.2019 19:41:42.298 [00001e40] --- Clipboard DATA changed
+04.06.2019 19:43:18.669 [00001e40] --- Clipboard DATA changed
+04.06.2019 19:43:52.764 [00001e40] --- Clipboard DATA changed
+04.06.2019 19:44:05.361 [00001e40] --- Clipboard DATA changed
+04.06.2019 19:44:29.130 [00001e40] --- Clipboard DATA changed
+04.06.2019 19:44:36.036 [00001e40] --- Clipboard DATA changed
+04.06.2019 19:47:32.186 [00001e40] --- Clipboard DATA changed
+04.06.2019 19:48:12.692 [00001e40] --- Clipboard DATA changed
+04.06.2019 19:48:35.415 [00001e40] --- Clipboard DATA changed
+04.06.2019 19:53:22.959 [00001e40] --- Clipboard DATA changed
+04.06.2019 19:53:22.960 [00001e40] --- Clipboard DATA changed
+04.06.2019 19:53:36.547 [00001e40] --- Clipboard DATA changed
+04.06.2019 19:53:36.548 [00001e40] --- Clipboard DATA changed
+04.06.2019 19:55:05.640 [00001e40] --- Clipboard DATA changed
+04.06.2019 19:57:36.738 [00001e40] --- Clipboard DATA changed
+04.06.2019 19:57:56.249 [00001e40] --- Clipboard DATA changed
+04.06.2019 20:00:25.959 [00001e40] --- Clipboard DATA changed
+04.06.2019 20:01:28.790 [00001e40] --- Clipboard DATA changed
+04.06.2019 20:01:28.791 [00001e40] --- Clipboard DATA changed
+04.06.2019 20:01:45.755 [00001e40] $$$ P64[00002e3c] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 20:01:45.997 [00001e40] $$$ P64[00001d68] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 20:01:46.264 [00001e40] $$$ P64[00002530] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 20:01:46.324 [00001e40] $$$ P64[00002f10] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 20:02:01.301 [00001e40] $$$ P64[000002b4] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 20:02:31.451 [00001e40] $$$ P64[00001624] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 20:03:51.613 [00001e40] --- Clipboard DATA changed
+04.06.2019 20:04:02.364 [00001e40] --- Clipboard DATA changed
+04.06.2019 20:08:08.096 [00001e40] $$$ P64[00002cb8] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 20:08:21.975 [00001e40] $$$ P64[000005b0] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 20:08:22.218 [00001e40] $$$ P64[00002ac4] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 20:08:22.483 [00001e40] $$$ P64[00002b44] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 20:08:22.546 [00001e40] $$$ P64[00002d68] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 20:08:37.514 [00001e40] $$$ P64[00002fb8] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 20:09:07.670 [00001e40] $$$ P64[000018ac] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 20:09:27.404 [00001e40] $$$ P64[000027e0] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 20:09:27.640 [00001e40] $$$ P64[00001b24] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 20:09:27.903 [00001e40] $$$ P64[00001480] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 20:09:27.960 [00001e40] $$$ P64[000020e0] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 20:09:42.921 [00001e40] $$$ P64[00001464] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 20:09:50.216 [00001e40] $$$ P64[0000294c] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 20:09:50.435 [00001e40] $$$ P64[00001554] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 20:09:50.701 [00001e40] $$$ P64[00000744] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 20:09:50.773 [00001e40] $$$ P64[000026cc] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 20:10:05.733 [00001e40] $$$ P64[000027ac] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 20:10:35.826 [00001e40] $$$ P64[00001640] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 20:13:03.470 [00001e40] --- Clipboard DATA changed
+04.06.2019 20:15:06.245 [00001e40] $$$ P64[00001650] [MQTT_Json_Movie_MOC.exe][C:\boch-wall\MQTT_Json_Movie_MOC.exe] started
+04.06.2019 20:15:06.245 [00001e40] $$$ P64[00000664] [UnityCrashHandler64.exe][C:\boch-wall\UnityCrashHandler64.exe] started
+04.06.2019 20:15:07.095 [00001e40] $$$ P64[00002ad0] [UnityCrashHandler64.exe][C:\boch-wall\UnityCrashHandler64.exe] started
+04.06.2019 20:16:37.263 [00001e40] $$$ P64[0000323c] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 20:16:37.533 [00001e40] $$$ P64[000032f0] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 20:16:37.894 [00001e40] $$$ P64[000033ac] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 20:16:37.999 [00001e40] $$$ P64[000007d0] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 20:16:50.647 [00001e40] $$$ P64[000026a0] [MQTT_Json_Movie_MOC.exe][C:\boch-wall\MQTT_Json_Movie_MOC.exe] started
+04.06.2019 20:16:50.662 [00001e40] $$$ P64[00001ec4] [UnityCrashHandler64.exe][C:\boch-wall\UnityCrashHandler64.exe] started
+04.06.2019 20:16:51.505 [00001e40] $$$ P64[00001a6c] [UnityCrashHandler64.exe][C:\boch-wall\UnityCrashHandler64.exe] started
+04.06.2019 20:23:09.339 [00001e40] --- Clipboard DATA changed
+04.06.2019 20:35:21.613 [00001e40] $$$ P32[00001ebc] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+04.06.2019 21:02:47.302 [00001e40] --- instanceMessageReceived Wake up!
+04.06.2019 21:02:55.437 [00001e40] --- Clipboard DATA changed
+04.06.2019 21:03:24.660 [00001e40] --- Clipboard DATA changed
+04.06.2019 21:03:40.645 [00001e40] --- Clipboard DATA changed
+04.06.2019 21:03:40.696 [00001e40] $$$ P64[00002278] [TabTip.exe][C:\Program Files\Common Files\microsoft shared\ink\TabTip.exe] started
+04.06.2019 21:04:38.357 [00001e40] $$$ P64[00002750] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 21:04:38.576 [00001e40] $$$ P64[00000a10] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 21:04:38.825 [00001e40] $$$ P64[00001f08] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 21:04:38.885 [00001e40] $$$ P64[000032e8] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 21:04:53.857 [00001e40] $$$ P64[00001358] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 21:05:23.966 [00001e40] $$$ P64[00001f10] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 21:10:17.121 [00001e40] $$$ P64[000005b4] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 21:10:17.340 [00001e40] $$$ P64[00002af0] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 21:11:28.023 [00001e40] --- Clipboard DATA changed
+04.06.2019 21:11:28.087 [00001e40] $$$ P64[00000860] [TabTip.exe][C:\Program Files\Common Files\microsoft shared\ink\TabTip.exe] started
+04.06.2019 21:13:25.448 [00001e40] $$$ P64[00002b68] [RadeonInstaller.exe][C:\Program Files\AMD\CIM\BIN64\RadeonInstaller.exe] started
+04.06.2019 21:13:32.692 [00001e40] --- Clipboard DATA changed
+04.06.2019 21:13:43.536 [00001e40] $$$ P64[00000a70] [cncmd.exe][C:\Program Files\AMD\CNext\CNext\cncmd.exe] started
+04.06.2019 21:13:45.458 [00001e40] $$$ P32[000023a4] [MsiExec.exe][C:\Windows\syswow64\MsiExec.exe] started
+04.06.2019 21:13:45.996 [00001e40] $$$ P32[0000129c] [MsiExec.exe][C:\Windows\syswow64\MsiExec.exe] started
+04.06.2019 21:13:52.640 [00001e40] $$$ P32[00002418] [regsvr32.exe][C:\WINDOWS\SysWOW64\regsvr32.exe] started
+04.06.2019 21:13:52.738 [00001e40] $$$ P32[000026a4] [regsvr32.exe][C:\WINDOWS\SysWOW64\regsvr32.exe] started
+04.06.2019 21:13:54.414 [00001e40] $$$ P64[000018ac] [dwm.exe][C:\WINDOWS\system32\dwm.exe] started
+04.06.2019 21:14:06.670 [00001e40] $$$ P32[00003010] [WOWReg32.exe][C:\WINDOWS\syswow64\WOWReg32.exe] started
+04.06.2019 21:14:07.029 [00001e40] $$$ P32[00001528] [WOWReg32.exe][C:\WINDOWS\syswow64\WOWReg32.exe] started
+04.06.2019 21:14:07.389 [00001e40] $$$ P32[00001180] [WOWReg32.exe][C:\WINDOWS\syswow64\WOWReg32.exe] started
+04.06.2019 21:14:07.764 [00001e40] $$$ P32[00002f7c] [WOWReg32.exe][C:\WINDOWS\syswow64\WOWReg32.exe] started
+04.06.2019 21:14:11.216 [00001e40] $$$ P32[00001950] [CCC2_Install.exe][C:\PROGRA~1\AMD\CCC2\Install\CCC2_Install.exe] started
+04.06.2019 21:14:19.647 [00001e40] $$$ P64[00002054] [WULaunchApp.exe][C:\AMD\WU-CCC2\ccc2_install\WULaunchApp.exe] started
+04.06.2019 21:14:20.006 [00001e40] $$$ P64[00000008] [CCC2App64.exe][C:\AMD\WU-CCC2\ccc2_install\Support64\CCC2App64.exe] started
+04.06.2019 21:14:21.787 [00001e40] $$$ P32[0000278c] [vcredist_x86.exe][C:\AMD\WU-CCC2\ccc2_install\VC13RTx86\vcredist_x86.exe] started
+04.06.2019 21:14:22.131 [00001e40] $$$ P32[00001a60] [vcredist_x86.exe][C:\AMD\WU-CCC2\ccc2_install\VC13RTx86\vcredist_x86.exe] started
+04.06.2019 21:14:22.959 [00001e40] $$$ P32[000028ac] [vcredist_x64.exe][C:\AMD\WU-CCC2\ccc2_install\VC13RTx64\vcredist_x64.exe] started
+04.06.2019 21:14:23.302 [00001e40] $$$ P32[0000290c] [vcredist_x64.exe][C:\AMD\WU-CCC2\ccc2_install\VC13RTx64\vcredist_x64.exe] started
+04.06.2019 21:14:26.364 [00001e40] $$$ P32[00002330] [MsiExec.exe][C:\Windows\syswow64\MsiExec.exe] started
+04.06.2019 21:14:27.520 [00001e40] $$$ P32[0000172c] [MsiExec.exe][C:\Windows\syswow64\MsiExec.exe] started
+04.06.2019 21:14:29.143 [00001e40] $$$ P64[000023a4] [installShell64.exe][C:\Program Files\AMD\CNext\CNext\installShell64.exe] started
+04.06.2019 21:15:10.647 [00001e40] $$$ P64[00002d54] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 21:15:10.882 [00001e40] $$$ P64[00001690] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 21:16:05.210 [00001e40] $$$ P32[00002588] [Intel Driver and Support Assistant Installer.exe][C:\Users\own\Downloads\Intel Driver and Support Assistant Installer.exe] started
+04.06.2019 21:16:05.725 [00001e40] $$$ P32[0000163c] [Intel Driver and Support Assistant Installer.exe][C:\Users\own\AppData\Local\Temp\{6E4B94C0-FE67-4B37-ACCA-C4C9BED52232}\.cr\Intel Driver and Support Assistant Installer.exe] started
+04.06.2019 21:16:14.566 [00001e40] $$$ P64[00003124] [TabTip.exe][C:\Program Files\Common Files\microsoft shared\ink\TabTip.exe] started
+04.06.2019 21:16:14.582 [00001e40] $$$ P32[000025a4] [Intel Driver and Support Assistant Installer.exe][C:\Users\own\AppData\Local\Temp\{4FE73A74-DAE2-44E1-8BD6-150C2F443079}\.be\Intel Driver and Support Assistant Installer.exe] started
+04.06.2019 21:16:15.924 [00001e40] $$$ P32[00002e74] [MsiExec.exe][C:\Windows\syswow64\MsiExec.exe] started
+04.06.2019 21:16:16.534 [00001e40] $$$ P32[00002c64] [MsiExec.exe][C:\Windows\syswow64\MsiExec.exe] started
+04.06.2019 21:16:17.440 [00001e40] $$$ P64[000027b8] [SurConsent.exe][C:\Program Files\Intel\SUR\ICIP\SurConsent.exe] started
+04.06.2019 21:16:33.757 [00001e40] $$$ P64[00002140] [SurSvc.exe][C:\Program Files\Intel\SUR\QUEENCREEK\SurSvc.exe] started
+04.06.2019 21:16:34.218 [00001e40] $$$ P64[00002d94] [DSAService.exe][C:\Program Files (x86)\Intel\Driver and Support Assistant\DSAService.exe] started
+04.06.2019 21:16:35.066 [00001e40] $$$ P64[00001e00] [esrv_svc.exe][C:\Program Files\Intel\SUR\QUEENCREEK\x64\esrv_svc.exe] started
+04.06.2019 21:16:35.472 [00001e40] $$$ P64[0000218c] [esrv_svc.exe][C:\Program Files\Intel\SUR\QUEENCREEK\x64\esrv_svc.exe] started
+04.06.2019 21:16:37.143 [00001e40] $$$ P64[00002138] [DSATray.exe][C:\Program Files (x86)\Intel\Driver and Support Assistant\DSATray.exe] started
+04.06.2019 21:16:37.299 [00001e40] $$$ P64[0000194c] [DSAUpdateService.exe][C:\Program Files (x86)\Intel\Driver and Support Assistant\DSAUpdateService.exe] started
+04.06.2019 21:16:38.150 [00001e40] $$$ P64[00000e68] [DSAServiceHelper.exe][C:\Program Files (x86)\Intel\Driver and Support Assistant\DSAServiceHelper.exe] started
+04.06.2019 21:16:38.722 [00001e40] $$$ P64[00001fe8] [DSATray.exe][C:\Program Files (x86)\Intel\Driver and Support Assistant\DSATray.exe] started
+04.06.2019 21:16:38.814 [00001e40] $$$ P64[00001fe0] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 21:16:39.065 [00001e40] $$$ P64[00000454] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+04.06.2019 21:16:39.351 [00001e40] $$$ P64[000027bc] [SurSvc.exe][C:\Program Files\Intel\SUR\QUEENCREEK\SurSvc.exe] started
+04.06.2019 21:16:40.628 [00001e40] $$$ P64[00002768] [DSAServiceHelper.exe][C:\Program Files (x86)\Intel\Driver and Support Assistant\DSAServiceHelper.exe] started
+04.06.2019 21:16:42.302 [00001e40] $$$ P64[00002418] [esrv_svc.exe][C:\Program Files\Intel\SUR\QUEENCREEK\x64\esrv_svc.exe] started
+04.06.2019 21:16:42.780 [00001e40] $$$ P64[00002804] [task.exe][C:\Program Files\Intel\SUR\QUEENCREEK\x64\task.exe] started
+04.06.2019 21:16:45.588 [00001e40] $$$ P64[00002770] [esrv.exe][C:\Program Files\Intel\SUR\QUEENCREEK\x64\esrv.exe] started
+04.06.2019 21:16:48.770 [00001e40] $$$ P64[00000df4] [esrv_svc.exe][C:\Program Files\Intel\SUR\QUEENCREEK\x64\esrv_svc.exe] started
+04.06.2019 21:17:03.144 [00001e40] $$$ P64[00001494] [DSAServiceHelper.exe][C:\Program Files (x86)\Intel\Driver and Support Assistant\DSAServiceHelper.exe] started
+04.06.2019 21:17:03.964 [00001e40] $$$ P64[000015f0] [TabTip.exe][C:\Program Files\Common Files\microsoft shared\ink\TabTip.exe] started
+04.06.2019 21:17:03.984 [00001e40] $$$ P64[00001d94] [DSAServiceHelper.exe][C:\Program Files (x86)\Intel\Driver and Support Assistant\DSAServiceHelper.exe] started
+04.06.2019 21:17:04.542 [00001e40] $$$ P32[00001cf0] [BT_21.10.1_64_Win10.exe][C:\Users\own\Downloads\Intel Driver and Support Assistant\BT_21.10.1_64_Win10.exe] started
+04.06.2019 21:17:05.871 [00001e40] $$$ P32[000023cc] [Setup.exe][C:\WINDOWS\Temp\sefA4EB.tmp\Setup.exe] started
+04.06.2019 21:17:06.419 [00001e40] $$$ P32[00001488] [Setup.exe][C:\WINDOWS\Temp\sefA9BE.tmp\Setup.exe] started
+04.06.2019 21:17:16.011 [00001e40] $$$ P32[00002b14] [Msiexec.exe][C:\WINDOWS\SysWOW64\Msiexec.exe] started
+04.06.2019 21:17:16.760 [00001e40] $$$ P32[00003190] [MsiExec.exe][C:\Windows\syswow64\MsiExec.exe] started
+04.06.2019 21:17:33.402 [00001e40] $$$ P32[000033c0] [MsiExec.exe][C:\Windows\syswow64\MsiExec.exe] started
+04.06.2019 21:17:34.095 [00001e40] $$$ P32[00002090] [MsiExec.exe][C:\Windows\syswow64\MsiExec.exe] started
+04.06.2019 21:17:40.984 [00001e40] $$$ P64[00001768] [ibtcleandevnode.exe][C:\Program Files (x86)\Intel\Bluetooth\utilities\ibtcleandevnode.exe] started
+04.06.2019 21:17:47.425 [00001e40] $$$ P64[0000188c] [DSAServiceHelper.exe][C:\Program Files (x86)\Intel\Driver and Support Assistant\DSAServiceHelper.exe] started
+04.06.2019 21:17:48.230 [00001e40] $$$ P64[00001524] [TabTip.exe][C:\Program Files\Common Files\microsoft shared\ink\TabTip.exe] started
+04.06.2019 21:17:48.266 [00001e40] $$$ P64[00002650] [DSAServiceHelper.exe][C:\Program Files (x86)\Intel\Driver and Support Assistant\DSAServiceHelper.exe] started
+04.06.2019 21:17:48.855 [00001e40] $$$ P32[00001ca4] [WiFi_21.10.1_Driver64_Win10.exe][C:\Users\own\Downloads\Intel Driver and Support Assistant\WiFi_21.10.1_Driver64_Win10.exe] started
+04.06.2019 21:17:50.469 [00001e40] $$$ P64[000013f8] [iprodifx.exe][C:\WINDOWS\Temp\sef5213.tmp\iprodifx.exe] started
+04.06.2019 21:17:50.923 [00001e40] $$$ P64[00000bd0] [DPInst64.exe][C:\WINDOWS\Temp\sef5213.tmp\DPInst64.exe] started
+04.06.2019 21:18:09.282 [00001e40] $$$ P64[0000240c] [iwrap.exe][C:\Program Files\Intel\WiFi\bin\iwrap.exe] started
+04.06.2019 21:18:24.481 [00001e40] !!! onWindowsSessionEnded 0

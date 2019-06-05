@@ -1,0 +1,148 @@
+04.06.2019 21:18:54.888 [00000244] ??? OSM handle == NULL error=2
+04.06.2019 21:18:54.888 [00000244] ^^^ SC trying session1
+04.06.2019 21:18:54.888 [00000244] ??? OSM handle == NULL error=2
+04.06.2019 21:18:54.888 [00000244] ^^^ SC trying session2
+04.06.2019 21:18:54.888 [00000244] ??? OSM handle == NULL error=3
+04.06.2019 21:18:54.888 [00000244] --- DXGI dll=1f3f0000
+04.06.2019 21:18:54.888 [00000244] --- DirectX DXGI API CreateDXGIFactory detected 1
+04.06.2019 21:18:54.904 [00000244] --- DirectX DXGI API CreateDXGIFactory1 detected 1
+04.06.2019 21:18:54.904 [00000244] --- DirectX DXGI API CreateDXGIFactory2 detected 1
+04.06.2019 21:18:54.904 [00000244] --- DirectX DXGI API detected
+04.06.2019 21:18:54.920 [00000244] --- DirectX D3D11 API detected 1
+04.06.2019 21:18:54.920 [00000244] --- DirectX D3D12 API detected hd3d12=18bc0000
+04.06.2019 21:18:54.920 [00000244] --- DirectX D3D12 API detected 1
+04.06.2019 21:18:54.920 [00000244] ??? OSM handle == NULL error=2
+04.06.2019 21:18:54.920 [00000244] ^^^ SC trying session1
+04.06.2019 21:18:54.920 [00000244] ??? OSM handle == NULL error=2
+04.06.2019 21:18:54.920 [00000244] ^^^ SC trying session2
+04.06.2019 21:18:54.920 [00000244] ??? OSM handle == NULL error=3
+04.06.2019 21:18:54.920 [00000244] ??? OSM handle == NULL error=2
+04.06.2019 21:18:54.920 [00000244] ^^^ SC trying session1
+04.06.2019 21:18:54.920 [00000244] ??? OSM handle == NULL error=2
+04.06.2019 21:18:54.920 [00000244] ^^^ SC trying session2
+04.06.2019 21:18:54.920 [00000244] ??? OSM handle == NULL error=3
+04.06.2019 21:18:54.920 [00000244] ??? OSM handle == NULL error=2
+04.06.2019 21:18:54.920 [00000244] ^^^ SC trying session1
+04.06.2019 21:18:54.920 [00000244] ??? OSM handle == NULL error=2
+04.06.2019 21:18:54.920 [00000244] ^^^ SC trying session2
+04.06.2019 21:18:54.920 [00000244] ??? OSM handle == NULL error=3
+04.06.2019 21:18:54.935 [000007cc] ??? OSM handle == NULL error=2
+04.06.2019 21:18:54.935 [000007cc] ^^^ SC trying session1
+04.06.2019 21:18:54.935 [000007cc] ??? OSM handle == NULL error=2
+04.06.2019 21:18:54.935 [000007cc] ^^^ SC trying session2
+04.06.2019 21:18:54.935 [000007cc] ??? OSM handle == NULL error=3
+04.06.2019 21:18:54.982 [00000794] --- D3D11CreateDevice ADAPTER NULL
+04.06.2019 21:18:54.982 [00000794] ??? OSM handle == NULL error=2
+04.06.2019 21:18:54.982 [00000794] ^^^ SC trying session1
+04.06.2019 21:18:54.982 [00000794] ??? OSM handle == NULL error=2
+04.06.2019 21:18:54.982 [00000794] ^^^ SC trying session2
+04.06.2019 21:18:54.982 [00000794] ??? OSM handle == NULL error=3
+04.06.2019 21:18:55.060 [00000794] --- Device FeatureLevel -> 0000b000
+04.06.2019 21:18:55.060 [00000794] ??? OSM handle == NULL error=2
+04.06.2019 21:18:55.060 [00000794] ^^^ SC trying session1
+04.06.2019 21:18:55.060 [00000794] ??? OSM handle == NULL error=2
+04.06.2019 21:18:55.060 [00000794] ^^^ SC trying session2
+04.06.2019 21:18:55.060 [00000794] ??? OSM handle == NULL error=3
+04.06.2019 21:18:55.092 [000007cc] --- D3D11CreateDevice ADAPTER Description=Radeon RX 580 Series
+04.06.2019 21:18:55.092 [000007cc] --- Device FeatureLevels[0]=0000a100
+04.06.2019 21:18:55.092 [000007cc] --- D3D11CreateDevice ADAPTER Description=Radeon RX 580 Series
+04.06.2019 21:18:55.092 [000007cc] --- Device FeatureLevels[0]=0000c100
+04.06.2019 21:18:55.092 [000007cc] --- Device FeatureLevels[1]=0000c000
+04.06.2019 21:18:55.092 [000007cc] --- Device FeatureLevels[2]=0000b100
+04.06.2019 21:18:55.092 [000007cc] --- Device FeatureLevels[3]=0000b000
+04.06.2019 21:18:55.092 [000007cc] --- Device FeatureLevels[4]=0000a100
+04.06.2019 21:18:55.092 [000007cc] --- Device FeatureLevels[5]=0000a000
+04.06.2019 21:18:55.092 [000007cc] --- Device FeatureLevels[6]=00009300
+04.06.2019 21:18:55.092 [000007cc] --- Device FeatureLevels[7]=00009200
+04.06.2019 21:18:55.092 [000007cc] --- Device FeatureLevels[8]=00009100
+04.06.2019 21:18:55.092 [000007cc] --- Device FeatureLevel -> 0000c000
+04.06.2019 21:18:58.028 [000007cc] ??? OSM handle == NULL error=2
+04.06.2019 21:18:58.028 [000007cc] ^^^ SC trying session1
+04.06.2019 21:18:58.028 [000007cc] ??? OSM handle == NULL error=2
+04.06.2019 21:18:58.028 [000007cc] ^^^ SC trying session2
+04.06.2019 21:18:58.028 [000007cc] ??? OSM handle == NULL error=3
+--- [63]
+04.06.2019 21:23:09.339 [000007cc] --- App --- Immersive Display PRO v3.0.5 (01.01.2019)
+04.06.2019 21:23:09.339 [000007cc] --- OS 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+04.06.2019 21:23:09.339 [000007cc] --- Process64 C:\WINDOWS\system32\dwm.exe
+04.06.2019 21:23:09.339 [000007cc] --- CmdLine ["dwm.exe"]
+04.06.2019 21:23:09.339 [000007cc] --- Enumerating displays ...
+04.06.2019 21:23:09.593 [000007cc] --- SM_CMONITORS         = 1
+04.06.2019 21:23:09.593 [000007cc] --- SM_SAMEDISPLAYFORMAT = 1
+04.06.2019 21:23:09.593 [000007cc] --- SM_XVIRTUALSCREEN    = 0
+04.06.2019 21:23:09.593 [000007cc] --- SM_YVIRTUALSCREEN    = 0
+04.06.2019 21:23:09.593 [000007cc] --- SM_CXVIRTUALSCREEN   = 1920
+04.06.2019 21:23:09.593 [000007cc] --- SM_CYVIRTUALSCREEN   = 1200
+04.06.2019 21:23:09.593 [000007cc] --- SM_CXCURSOR          = 32
+04.06.2019 21:23:09.596 [000007cc] --- Enumerated 1 displays
+04.06.2019 21:23:09.596 [000007cc] --- Displays initialized
+04.06.2019 21:23:09.596 [000007cc] --- Displays[0] M[008804e9] HDC[050106d1] GDC[00000000] L=0 T=0 R=1920 B=1200 RECT[0,0 1920x1200] N[WinDisc] M[] F[1] PROJ[0x0] MAPS[0]
+04.06.2019 21:23:09.596 [000007cc] ---    Grouping G[0] N[0] GD[]
+04.06.2019 21:23:09.596 [000007cc] --- ---
+04.06.2019 21:23:09.749 [00000840] --- D3D11CreateDevice ADAPTER NULL
+04.06.2019 21:23:09.904 [00000840] --- Device FeatureLevel -> 0000b000
+04.06.2019 21:23:09.929 [000007cc] --- D3D11CreateDevice ADAPTER Description=Microsoft Basic Render Driver
+04.06.2019 21:23:09.929 [000007cc] --- Device FeatureLevels[0]=0000a100
+04.06.2019 21:23:09.929 [000007cc] --- D3D11CreateDevice ADAPTER Description=Microsoft Basic Render Driver
+04.06.2019 21:23:09.929 [000007cc] --- Device FeatureLevels[0]=0000c100
+04.06.2019 21:23:09.929 [000007cc] --- Device FeatureLevels[1]=0000c000
+04.06.2019 21:23:09.929 [000007cc] --- Device FeatureLevels[2]=0000b100
+04.06.2019 21:23:09.929 [000007cc] --- Device FeatureLevels[3]=0000b000
+04.06.2019 21:23:09.929 [000007cc] --- Device FeatureLevels[4]=0000a100
+04.06.2019 21:23:09.929 [000007cc] --- Device FeatureLevels[5]=0000a000
+04.06.2019 21:23:09.929 [000007cc] --- Device FeatureLevels[6]=00009300
+04.06.2019 21:23:09.929 [000007cc] --- Device FeatureLevels[7]=00009200
+04.06.2019 21:23:09.929 [000007cc] --- Device FeatureLevels[8]=00009100
+04.06.2019 21:23:09.930 [000007cc] --- Device FeatureLevel -> 0000c100
+04.06.2019 21:23:09.985 [000007cc] --- D3D11CreateDevice ADAPTER Description=Microsoft Basic Render Driver
+04.06.2019 21:23:09.985 [000007cc] --- Device FeatureLevels[0]=0000a100
+04.06.2019 21:23:09.985 [000007cc] --- D3D11CreateDevice ADAPTER Description=Microsoft Basic Render Driver
+04.06.2019 21:23:09.985 [000007cc] --- Device FeatureLevels[0]=0000c100
+04.06.2019 21:23:09.985 [000007cc] --- Device FeatureLevels[1]=0000c000
+04.06.2019 21:23:09.985 [000007cc] --- Device FeatureLevels[2]=0000b100
+04.06.2019 21:23:09.985 [000007cc] --- Device FeatureLevels[3]=0000b000
+04.06.2019 21:23:09.985 [000007cc] --- Device FeatureLevels[4]=0000a100
+04.06.2019 21:23:09.985 [000007cc] --- Device FeatureLevels[5]=0000a000
+04.06.2019 21:23:09.985 [000007cc] --- Device FeatureLevels[6]=00009300
+04.06.2019 21:23:09.985 [000007cc] --- Device FeatureLevels[7]=00009200
+04.06.2019 21:23:09.985 [000007cc] --- Device FeatureLevels[8]=00009100
+04.06.2019 21:23:09.986 [000007cc] --- Device FeatureLevel -> 0000c100
+04.06.2019 21:23:13.329 [000007cc] --- D3D11CreateDevice ADAPTER Description=Radeon RX 580 Series
+04.06.2019 21:23:13.329 [000007cc] --- Device FeatureLevels[0]=0000a100
+04.06.2019 21:23:13.454 [000007cc] --- D3D11CreateDevice ADAPTER Description=Radeon RX 580 Series
+04.06.2019 21:23:13.454 [000007cc] --- Device FeatureLevels[0]=0000c100
+04.06.2019 21:23:13.454 [000007cc] --- Device FeatureLevels[1]=0000c000
+04.06.2019 21:23:13.454 [000007cc] --- Device FeatureLevels[2]=0000b100
+04.06.2019 21:23:13.454 [000007cc] --- Device FeatureLevels[3]=0000b000
+04.06.2019 21:23:13.454 [000007cc] --- Device FeatureLevels[4]=0000a100
+04.06.2019 21:23:13.454 [000007cc] --- Device FeatureLevels[5]=0000a000
+04.06.2019 21:23:13.454 [000007cc] --- Device FeatureLevels[6]=00009300
+04.06.2019 21:23:13.454 [000007cc] --- Device FeatureLevels[7]=00009200
+04.06.2019 21:23:13.454 [000007cc] --- Device FeatureLevels[8]=00009100
+04.06.2019 21:23:13.471 [000007cc] --- Device FeatureLevel -> 0000c000
+04.06.2019 21:23:18.470 [000007cc] --- D3D11CreateDevice ADAPTER Description=Microsoft Basic Render Driver
+04.06.2019 21:23:18.470 [000007cc] --- Device FeatureLevels[0]=0000a100
+04.06.2019 21:23:18.471 [000007cc] --- D3D11CreateDevice ADAPTER Description=Microsoft Basic Render Driver
+04.06.2019 21:23:18.471 [000007cc] --- Device FeatureLevels[0]=0000c100
+04.06.2019 21:23:18.471 [000007cc] --- Device FeatureLevels[1]=0000c000
+04.06.2019 21:23:18.471 [000007cc] --- Device FeatureLevels[2]=0000b100
+04.06.2019 21:23:18.471 [000007cc] --- Device FeatureLevels[3]=0000b000
+04.06.2019 21:23:18.471 [000007cc] --- Device FeatureLevels[4]=0000a100
+04.06.2019 21:23:18.471 [000007cc] --- Device FeatureLevels[5]=0000a000
+04.06.2019 21:23:18.471 [000007cc] --- Device FeatureLevels[6]=00009300
+04.06.2019 21:23:18.471 [000007cc] --- Device FeatureLevels[7]=00009200
+04.06.2019 21:23:18.471 [000007cc] --- Device FeatureLevels[8]=00009100
+04.06.2019 21:23:18.471 [000007cc] --- Device FeatureLevel -> 0000c100
+04.06.2019 21:23:25.349 [000007cc] --- D3D11CreateDevice ADAPTER Description=Radeon RX 580 Series
+04.06.2019 21:23:25.349 [000007cc] --- Device FeatureLevels[0]=0000a100
+04.06.2019 21:23:25.355 [000007cc] --- D3D11CreateDevice ADAPTER Description=Radeon RX 580 Series
+04.06.2019 21:23:25.355 [000007cc] --- Device FeatureLevels[0]=0000c100
+04.06.2019 21:23:25.355 [000007cc] --- Device FeatureLevels[1]=0000c000
+04.06.2019 21:23:25.355 [000007cc] --- Device FeatureLevels[2]=0000b100
+04.06.2019 21:23:25.355 [000007cc] --- Device FeatureLevels[3]=0000b000
+04.06.2019 21:23:25.355 [000007cc] --- Device FeatureLevels[4]=0000a100
+04.06.2019 21:23:25.355 [000007cc] --- Device FeatureLevels[5]=0000a000
+04.06.2019 21:23:25.355 [000007cc] --- Device FeatureLevels[6]=00009300
+04.06.2019 21:23:25.355 [000007cc] --- Device FeatureLevels[7]=00009200
+04.06.2019 21:23:25.355 [000007cc] --- Device FeatureLevels[8]=00009100
+04.06.2019 21:23:25.370 [000007cc] --- Device FeatureLevel -> 0000c000

@@ -1,0 +1,279 @@
+05.06.2019 11:41:09.467 [00001d04] --- Immersive Display PRO v3.0.5
+05.06.2019 11:41:09.467 [00001d04] --- OS 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+05.06.2019 11:41:09.467 [00001d04] --- SCREEN \\.\DISPLAY1
+05.06.2019 11:41:09.467 [00001d04] ------ LogicalDPI=96.000000 Scale=1.000000
+05.06.2019 11:41:09.467 [00001d04] ------ DevicePixelRatio=1.000000
+05.06.2019 11:41:09.529 [00001d04] --- Removed 0 log file(s)
+05.06.2019 11:41:09.529 [00001d04] --- ACL changed for C:\WARP000\
+05.06.2019 11:41:10.029 [00001d04] --- LicAppName=Immersive Display PRO
+05.06.2019 11:41:10.045 [00001d04] --- L1
+05.06.2019 11:41:10.482 [00001d04] --- DK1C61
+05.06.2019 11:41:11.404 [00001d04] --- DM103
+05.06.2019 11:41:12.419 [00001d04] --- LD=20190109 SD=20190101
+05.06.2019 11:41:12.419 [00001d04] --- ###[UzNZOU5YME0yNDg4OTBM]###
+05.06.2019 11:41:13.091 [00001d04] --- Displays 1/2 [20] SGD=2560932 SSC=31904
+05.06.2019 11:41:13.091 [00001d04] --- Shared 31904+5121864 5153768
+05.06.2019 11:41:13.091 [00001d04] ### PageSize=4096
+05.06.2019 11:41:13.091 [00001d04] ### MinimumApplicationAddress=00010000
+05.06.2019 11:41:13.091 [00001d04] ### MaximumApplicationAddress=7ffeffff
+05.06.2019 11:41:13.091 [00001d04] ### AllocationGranularity=65536
+05.06.2019 11:41:13.091 [00001d04] ### Res=28
+05.06.2019 11:41:13.091 [00001d04] ### BaseAddress=074e0000
+05.06.2019 11:41:13.091 [00001d04] ### AllocationBase=074e0000
+05.06.2019 11:41:13.091 [00001d04] ### AllocationProtect=00000004
+05.06.2019 11:41:13.091 [00001d04] ### RegionSize=5156864
+05.06.2019 11:41:13.091 [00001d04] ### State=00001000
+05.06.2019 11:41:13.091 [00001d04] ### Protect=00000004
+05.06.2019 11:41:13.091 [00001d04] ### Type=00040000
+05.06.2019 11:41:13.091 [00001d04] --- Config 074e0000 ZERO(0) 31904 + 5121864
+05.06.2019 11:41:13.091 [00001d04] --- Config 074e0000 ZERO(1)
+05.06.2019 11:41:13.091 [00001d04] --- Config 074e0000 ZERO(2)
+05.06.2019 11:41:13.091 [00001d04] --- R [12]->50
+05.06.2019 11:41:13.091 [00001d04] --- MP 3
+05.06.2019 11:41:13.091 [00001d04] --- Config 074e0000
+05.06.2019 11:41:13.091 [00001d04] --- Config logsFolder=C:\WARP000\logs\
+05.06.2019 11:41:13.091 [00001d04] --- Config imagesFolder=C:\WARP000\images\
+05.06.2019 11:41:13.091 [00001d04] --- Config configsFolder=C:\WARP000\config\
+05.06.2019 11:41:13.091 [00001d04] --- Enumerating displays ...
+05.06.2019 11:41:13.091 [00001d04] --- Device N[\\.\DISPLAY1] S[Radeon RX 580 Series] M[Generic PnP Monitor] F[desktop primary ]
+05.06.2019 11:41:13.091 [00001d04] --- Device N[\\.\DISPLAY2] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:41:13.091 [00001d04] --- Device N[\\.\DISPLAY3] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:41:13.091 [00001d04] --- Device N[\\.\DISPLAY4] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:41:13.091 [00001d04] --- Device N[\\.\DISPLAY5] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:41:13.091 [00001d04] --- Device N[\\.\DISPLAY6] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:41:13.091 [00001d04] --- Device N[\\.\DISPLAY7] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:41:13.091 [00001d04] --- Device N[\\.\DISPLAY8] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 11:41:13.091 [00001d04] --- SM_CMONITORS         = 1
+05.06.2019 11:41:13.091 [00001d04] --- SM_SAMEDISPLAYFORMAT = 1
+05.06.2019 11:41:13.091 [00001d04] --- SM_XVIRTUALSCREEN    = 0
+05.06.2019 11:41:13.091 [00001d04] --- SM_YVIRTUALSCREEN    = 0
+05.06.2019 11:41:13.091 [00001d04] --- SM_CXVIRTUALSCREEN   = 3840
+05.06.2019 11:41:13.091 [00001d04] --- SM_CYVIRTUALSCREEN   = 1200
+05.06.2019 11:41:13.091 [00001d04] --- SM_CXCURSOR          = 32
+05.06.2019 11:41:13.123 [00001d04] --- [\\.\DISPLAY1] [Radeon RX 580 Series] [MONITOR\ADVEF2D\{4d36e96e-e325-11ce-bfc1-08002be10318}\0017] [Generic PnP Monitor]
+05.06.2019 11:41:13.123 [00001d04] --- Enumerated 1 displays
+05.06.2019 11:41:13.123 [00001d04] --- Displays initialized
+05.06.2019 11:41:13.123 [00001d04] --- Displays[0] M[00010001] HDC[0b010bfb] GDC[09010ba6] L=0 T=0 R=3840 B=1200 RECT[0,0 3840x1200] N[\\.\DISPLAY1] M[Generic PnP Monitor] F[1] PROJ[0x0] MAPS[0]
+05.06.2019 11:41:13.123 [00001d04] ---    Grouping G[0] N[0] GD[]
+05.06.2019 11:41:13.123 [00001d04] --- ---
+05.06.2019 11:41:13.138 [00001d04] --- Model:Config file C:\WARP000\config\config.dat does not exist
+05.06.2019 11:41:13.138 [00001d04] --- Model:Config file LCC[1]
+05.06.2019 11:41:13.138 [00001d04] --- Model:Config file CC[2]
+05.06.2019 11:41:13.138 [00001d04] --- Preferences loaded
+05.06.2019 11:41:13.138 [00001d04] ------ startMinimized 0
+05.06.2019 11:41:13.138 [00001d04] ------ showTrayNotifications 0
+05.06.2019 11:41:13.138 [00001d04] ------ autoStartDesktopWarping 1
+05.06.2019 11:41:13.138 [00001d04] ------ autoStartDesktopWarpingDelaySeconds 3
+05.06.2019 11:41:13.138 [00001d04] ------ warpCursor 1
+05.06.2019 11:41:13.138 [00001d04] ------ hideSystemCursor 0
+05.06.2019 11:41:13.138 [00001d04] ------ samplingDesktop 2
+05.06.2019 11:41:13.138 [00001d04] ------ samplingDXGL 2
+05.06.2019 11:41:13.138 [00001d04] ------ useFXAA 0
+05.06.2019 11:41:13.138 [00001d04] ------ useFXAAPresetIndex 0
+05.06.2019 11:41:13.138 [00001d04] ------ updateRateMS 20
+05.06.2019 11:41:13.138 [00001d04] ------ enableVNCControl 0
+05.06.2019 11:41:13.138 [00001d04] ------ vncPort 5900
+05.06.2019 11:41:13.138 [00001d04] ------ vncPassword 1234
+05.06.2019 11:41:13.138 [00001d04] ------ enableTelnet 0
+05.06.2019 11:41:13.138 [00001d04] ------ remoteTelnetPort 6600
+05.06.2019 11:41:13.138 [00001d04] ------ overrideDesktopRotation 0
+05.06.2019 11:41:13.138 [00001d04] ------ forcedDesktopRotation 0
+05.06.2019 11:41:13.138 [00001d04] ------ forcedScissorsRotation 0
+05.06.2019 11:41:13.138 [00001d04] ------ checkForDisplayConfigChange 0
+05.06.2019 11:41:13.138 [00001d04] ------ cropEdges 0
+05.06.2019 11:41:13.138 [00001d04] ------ cropPixels 0
+05.06.2019 11:41:13.138 [00001d04] ------ removeWindowFrame 0
+05.06.2019 11:41:13.138 [00001d04] ------ skipWarpChildWindows 0
+05.06.2019 11:41:13.138 [00001d04] ------ openGLTextureOffset 0
+05.06.2019 11:41:13.138 [00001d04] ------ disable_DX9 0
+05.06.2019 11:41:13.138 [00001d04] ------ disable_DX10 0
+05.06.2019 11:41:13.138 [00001d04] ------ disable_DX11 0
+05.06.2019 11:41:13.138 [00001d04] ------ disable_DX12 0
+05.06.2019 11:41:13.138 [00001d04] ------ disable_OpenGL 0
+05.06.2019 11:41:13.138 [00001d04] ------ disable_Vulkan 1
+05.06.2019 11:41:13.138 [00001d04] ------ forcePreserveBB_DX9 0
+05.06.2019 11:41:13.138 [00001d04] ------ forcePreserveBB_DX10 0
+05.06.2019 11:41:13.138 [00001d04] ------ forcePreserveBB_DX11 0
+05.06.2019 11:41:13.138 [00001d04] ------ forcePreserveBB_DX12 0
+05.06.2019 11:41:13.138 [00001d04] ------ forcePreserveBB_OpenGL 0
+05.06.2019 11:41:13.138 [00001d04] ------ forcePreserveBB_Vulkan 0
+05.06.2019 11:41:13.138 [00001d04] ------ enableDebanding 0
+05.06.2019 11:41:13.138 [00001d04] ------ enableWindowsSessionShutdown 0
+05.06.2019 11:41:13.138 [00001d04] ------ ignoreDWMInFullScreen 1
+05.06.2019 11:41:13.154 [00001d04] --- Excludes loaded 3
+05.06.2019 11:41:13.154 [00001d04] ------ Exclude Path=MQTT_Json_Movie_MOC.exe DX9=1 DX10=1 DX11=1 DX12=1 OGL=1 VULKAN=1 StopDWM7=0
+05.06.2019 11:41:13.154 [00001d04] ------ Exclude Path=chrome.exe DX9=1 DX10=1 DX11=1 DX12=1 OGL=1 VULKAN=1 StopDWM7=0
+05.06.2019 11:41:13.154 [00001d04] ------ Exclude Path=chrome.exe DX9=1 DX10=1 DX11=1 DX12=1 OGL=1 VULKAN=1 StopDWM7=0
+05.06.2019 11:41:13.154 [00001d04] --- Sets configSet=1
+05.06.2019 11:41:13.154 [00001d04] --- Sets configSetFile[1]=C:\WARP000\config\20190509.dat
+05.06.2019 11:41:13.154 [00001d04] --- Sets configSetFile[2]=C:\WARP000\config\config2.dat
+05.06.2019 11:41:13.154 [00001d04] --- Sets configSetFile[3]=C:\WARP000\config\config3.dat
+05.06.2019 11:41:13.154 [00001d04] --- Sets configSetFile[4]=C:\WARP000\config\config4.dat
+05.06.2019 11:41:13.154 [00001d04] --- Sets configSetFile[5]=C:\WARP000\config\config5.dat
+05.06.2019 11:41:13.154 [00001d04] --- Sets configSetFile[6]=C:\WARP000\config\config6.dat
+05.06.2019 11:41:13.154 [00001d04] --- Sets configSetFile[7]=C:\WARP000\config\config7.dat
+05.06.2019 11:41:13.154 [00001d04] --- Sets configSetFile[8]=C:\WARP000\config\config8.dat
+05.06.2019 11:41:13.169 [00001d04] --- Loaded Displays[0] \\.\DISPLAY1 Generic PnP Monitor L=0 T=0 R=3840 B=1200 loadedDisplaysWithPositionAndSize=1
+05.06.2019 11:41:13.201 [00001d04] --- Displays loaded
+05.06.2019 11:41:13.201 [00001d04] --- Displays[0] M[00010001] HDC[0b010bfb] GDC[09010ba6] L=0 T=0 R=3840 B=1200 RECT[0,0 3840x1200] N[\\.\DISPLAY1] M[Generic PnP Monitor] F[1] PROJ[2x1] MAPS[2]
+05.06.2019 11:41:13.201 [00001d04] ---    Grouping G[0] N[0] GD[]
+05.06.2019 11:41:13.201 [00001d04] --- Model:Config file C:\WARP000\config\20190509.dat loaded
+05.06.2019 11:41:13.201 [00001d04] --- Model:Config file LCC[3]
+05.06.2019 11:41:13.201 [00001d04] --- Model:Config file CC[4]
+05.06.2019 11:41:13.201 [00001d04] --- Sets manager selectSet[1]->1
+05.06.2019 11:41:13.216 [00001d04] --- Schedules STOP
+05.06.2019 11:41:13.216 [00001d04] --- Schedules STOP
+05.06.2019 11:41:13.216 [00001d04] --- Autoruns 0
+05.06.2019 11:41:13.216 [00001d04] $$$ Immersive Display PRO v3.0.5 (01.01.2019)
+05.06.2019 11:41:13.216 [00001d04] $$$ 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+05.06.2019 11:41:13.502 [00001d04] $$$ P64[00001e0c] [git.exe][C:\Users\own\scoop\shims\git.exe] started
+05.06.2019 11:41:13.572 [00001d04] --- Run all autoruns
+05.06.2019 11:41:13.900 [00001d04] $$$ P64[00001e40] [git.exe][C:\Users\own\scoop\apps\git\current\cmd\git.exe] started
+05.06.2019 11:41:14.353 [00001d04] $$$ P64[00001e58] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\bin\git.exe] started
+05.06.2019 11:41:14.837 [00001d04] $$$ P64[00001e78] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+05.06.2019 11:41:15.275 [00001d04] $$$ P64[00001ea0] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+05.06.2019 11:41:15.775 [00001d04] $$$ P64[00001ebc] [git-remote-https.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git-remote-https.exe] started
+05.06.2019 11:41:16.478 [00001d04] --- onToggleDesktopWarp isDWMAvailable=1
+05.06.2019 11:41:16.478 [00001d04] --- onToggleDesktopWarp TOGGLED
+05.06.2019 11:41:16.478 [00001d04] $$$ incremented dwmRestartCount=1
+05.06.2019 11:41:17.273 [00001d04] $$$ P64[00001fb4] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+05.06.2019 11:41:17.304 [00001d04] $$$ P32[000012c8] [TeamViewer.exe][C:\Program Files (x86)\TeamViewer\TeamViewer.exe] started
+05.06.2019 11:41:17.413 [00001d04] $$$ P64[00001fd0] [dwm.exe][C:\WINDOWS\system32\dwm.exe] started
+05.06.2019 11:41:17.773 [00001d04] $$$ P64[000008f4] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+05.06.2019 11:41:18.389 [00001d04] $$$ P64[00001240] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+05.06.2019 11:41:18.935 [00001d04] $$$ P64[00001e4c] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+05.06.2019 11:41:31.889 [00001d04] --- instanceMessageReceived Wake up!
+05.06.2019 11:41:41.685 [00001d04] $$$ P64[00001804] [MCEControl.exe][C:\Program Files (x86)\Kindel Systems\MCE Controller\MCEControl.exe] started
+05.06.2019 11:42:53.363 [00001d04] $$$ P64[0000087c] [AUEPLauncher.exe][C:\Program Files\AMD\Performance Profile Client\AUEPLauncher.exe] started
+05.06.2019 11:42:53.786 [00001d04] $$$ P64[00001fc0] [AUEPMaster.exe][C:\Program Files\AMD\Performance Profile Client\AUEPMaster.exe] started
+05.06.2019 11:42:54.238 [00001d04] $$$ P64[000018dc] [esrv_svc.exe][C:\Program Files\Intel\SUR\QUEENCREEK\x64\esrv_svc.exe] started
+05.06.2019 11:42:55.030 [00001d04] $$$ P32[00002018] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+05.06.2019 11:42:55.420 [00001d04] $$$ P32[00002064] [GoogleUpdate.exe][C:\Program Files (x86)\Google\Update\GoogleUpdate.exe] started
+05.06.2019 11:42:55.515 [00001d04] $$$ P32[00002074] [jhi_service.exe][C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL\jhi_service.exe] started
+05.06.2019 11:42:55.784 [00001d04] $$$ P32[0000208c] [GoogleCrashHandler.exe][C:\Program Files (x86)\Google\Update\1.3.34.11\GoogleCrashHandler.exe] started
+05.06.2019 11:42:55.815 [00001d04] $$$ P64[00002094] [GoogleCrashHandler64.exe][C:\Program Files (x86)\Google\Update\1.3.34.11\GoogleCrashHandler64.exe] started
+05.06.2019 11:42:56.031 [00001d04] $$$ P32[000020e0] [LMS.exe][C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\LMS\LMS.exe] started
+05.06.2019 11:43:00.541 [00001d04] $$$ P64[000021ec] [AUEPUF.exe][C:\Program Files\AMD\Performance Profile Client\AUEPUF.exe] started
+05.06.2019 11:43:53.701 [00001d04] $$$ P32[000022bc] [IntelSoftwareAssetManagerService.exe][C:\Program Files\Intel\SUR\QUEENCREEK\Updater\bin\IntelSoftwareAssetManagerService.exe] started
+05.06.2019 11:43:55.343 [00001d04] $$$ P32[00002314] [wmiprvse.exe][C:\WINDOWS\sysWOW64\wbem\wmiprvse.exe] started
+05.06.2019 11:44:53.332 [00001d04] $$$ P64[000023e8] [task.exe][C:\Program Files\Intel\SUR\QUEENCREEK\x64\task.exe] started
+05.06.2019 11:44:53.715 [00001d04] $$$ P64[000005fc] [esrv.exe][C:\Program Files\Intel\SUR\QUEENCREEK\x64\esrv.exe] started
+05.06.2019 11:44:54.446 [00001d04] $$$ P64[000021c4] [esrv_svc.exe][C:\Program Files\Intel\SUR\QUEENCREEK\x64\esrv_svc.exe] started
+05.06.2019 11:45:53.279 [00001d04] $$$ P32[00000538] [IntelSoftwareAssetManagerService.exe][C:\Program Files\Intel\SUR\QUEENCREEK\Updater\bin\IntelSoftwareAssetManagerService.exe] started
+05.06.2019 11:45:53.920 [00001d04] $$$ P32[00001684] [IntelSoftwareAssetManagerService.exe][C:\Program Files\Intel\SUR\QUEENCREEK\Updater\bin\IntelSoftwareAssetManagerService.exe] started
+05.06.2019 11:50:52.560 [00001d04] $$$ P32[000006fc] [IntelSoftwareAssetManagerService.exe][C:\Program Files\Intel\SUR\QUEENCREEK\Updater\bin\IntelSoftwareAssetManagerService.exe] started
+05.06.2019 11:50:53.035 [00001d04] $$$ P64[000021bc] [MpCmdRun.exe][C:\ProgramData\Microsoft\Windows Defender\platform\4.18.1905.4-0\MpCmdRun.exe] started
+05.06.2019 11:50:53.382 [00001d04] $$$ P64[00001684] [MpCmdRun.exe][C:\ProgramData\Microsoft\Windows Defender\platform\4.18.1905.4-0\MpCmdRun.exe] started
+05.06.2019 11:50:53.863 [00001d04] $$$ P64[00001aec] [MpCmdRun.exe][C:\ProgramData\Microsoft\Windows Defender\platform\4.18.1905.4-0\MpCmdRun.exe] started
+05.06.2019 11:50:55.685 [00001d04] $$$ P64[00001524] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+05.06.2019 11:50:55.935 [00001d04] $$$ P64[0000210c] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+05.06.2019 11:50:56.332 [00001d04] $$$ P64[00002114] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+05.06.2019 11:50:56.394 [00001d04] $$$ P64[00002274] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+05.06.2019 11:51:11.357 [00001d04] $$$ P64[000027d8] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+05.06.2019 11:51:41.482 [00001d04] $$$ P64[000025b0] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+05.06.2019 11:53:42.583 [00001d04] $$$ P32[000028d0] [TeamViewer_Desktop.exe][c:\program files (x86)\teamviewer\TeamViewer_Desktop.exe] started
+05.06.2019 11:54:35.669 [00001d04] $$$ P64[000023b8] [git.exe][C:\Users\own\scoop\shims\git.exe] started
+05.06.2019 11:54:36.186 [00001d04] $$$ P64[000001fc] [git.exe][C:\Users\own\scoop\apps\git\current\cmd\git.exe] started
+05.06.2019 11:54:36.685 [00001d04] $$$ P64[00002508] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\bin\git.exe] started
+05.06.2019 11:55:57.733 [00001d04] $$$ P64[00000f7c] [git.exe][C:\Users\own\scoop\shims\git.exe] started
+05.06.2019 11:55:58.249 [00001d04] $$$ P64[0000248c] [git.exe][C:\Users\own\scoop\apps\git\current\cmd\git.exe] started
+05.06.2019 11:55:58.747 [00001d04] $$$ P64[00001070] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\bin\git.exe] started
+05.06.2019 11:56:15.014 [00001d04] $$$ P64[00002970] [git.exe][C:\Users\own\scoop\shims\git.exe] started
+05.06.2019 11:56:15.513 [00001d04] $$$ P64[00002888] [git.exe][C:\Users\own\scoop\apps\git\current\cmd\git.exe] started
+05.06.2019 11:56:16.014 [00001d04] $$$ P64[0000289c] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\bin\git.exe] started
+05.06.2019 11:56:28.747 [00001d04] $$$ P64[00002bc0] [git.exe][C:\Users\own\scoop\shims\git.exe] started
+05.06.2019 11:56:29.279 [00001d04] $$$ P64[0000276c] [git.exe][C:\Users\own\scoop\apps\git\current\cmd\git.exe] started
+05.06.2019 11:56:29.763 [00001d04] $$$ P64[00002290] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\bin\git.exe] started
+05.06.2019 11:56:33.091 [00001d04] $$$ P64[000008ac] [git.exe][C:\Users\own\scoop\shims\git.exe] started
+05.06.2019 11:56:33.592 [00001d04] $$$ P64[000024e0] [git.exe][C:\Users\own\scoop\apps\git\current\cmd\git.exe] started
+05.06.2019 11:56:34.092 [00001d04] $$$ P64[00002358] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\bin\git.exe] started
+05.06.2019 11:56:50.311 [00001d04] $$$ P64[00001110] [git.exe][C:\Users\own\scoop\shims\git.exe] started
+05.06.2019 11:56:50.872 [00001d04] $$$ P64[000026a4] [git.exe][C:\Users\own\scoop\apps\git\current\cmd\git.exe] started
+05.06.2019 11:56:51.420 [00001d04] $$$ P64[00001860] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\bin\git.exe] started
+05.06.2019 11:57:00.247 [00001d04] --- Clipboard DATA changed
+05.06.2019 11:57:09.732 [00001d04] $$$ P64[00002678] [git.exe][C:\Users\own\scoop\shims\git.exe] started
+05.06.2019 11:57:10.248 [00001d04] $$$ P64[000025b8] [git.exe][C:\Users\own\scoop\apps\git\current\cmd\git.exe] started
+05.06.2019 11:57:10.764 [00001d04] $$$ P64[00002994] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\bin\git.exe] started
+05.06.2019 11:57:14.203 [00001d04] --- Clipboard DATA changed
+05.06.2019 11:57:19.107 [00001d04] $$$ P64[000026d0] [git.exe][C:\Users\own\scoop\shims\git.exe] started
+05.06.2019 11:57:19.623 [00001d04] $$$ P64[000026bc] [git.exe][C:\Users\own\scoop\apps\git\current\cmd\git.exe] started
+05.06.2019 11:57:20.124 [00001d04] $$$ P64[00002034] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\bin\git.exe] started
+05.06.2019 11:57:23.608 [00001d04] $$$ P64[00002104] [git.exe][C:\Users\own\scoop\shims\git.exe] started
+05.06.2019 11:57:24.138 [00001d04] $$$ P64[00001090] [git.exe][C:\Users\own\scoop\apps\git\current\cmd\git.exe] started
+05.06.2019 11:57:24.700 [00001d04] $$$ P64[00002454] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\bin\git.exe] started
+05.06.2019 11:57:25.263 [00001d04] $$$ P64[00002838] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+05.06.2019 11:57:27.888 [00001d04] $$$ P64[00002b74] [git.exe][C:\Users\own\scoop\shims\git.exe] started
+05.06.2019 11:57:28.404 [00001d04] $$$ P64[00002b5c] [git.exe][C:\Users\own\scoop\apps\git\current\cmd\git.exe] started
+05.06.2019 11:57:28.904 [00001d04] $$$ P64[0000111c] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\bin\git.exe] started
+05.06.2019 11:57:29.420 [00001d04] $$$ P64[0000251c] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+05.06.2019 11:57:29.919 [00001d04] $$$ P64[0000254c] [git-remote-https.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git-remote-https.exe] started
+05.06.2019 11:57:31.123 [00001d04] $$$ P64[00002638] [sh.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\usr\bin\sh.exe] started
+05.06.2019 11:57:31.655 [00001d04] $$$ P64[00002554] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+05.06.2019 11:57:32.170 [00001d04] $$$ P64[000014b4] [git-credential-manager.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git-credential-manager.exe] started
+05.06.2019 11:57:46.451 [00001d04] $$$ P64[00001d90] [sh.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\usr\bin\sh.exe] started
+05.06.2019 11:57:46.966 [00001d04] $$$ P64[000023b4] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+05.06.2019 11:57:47.482 [00001d04] $$$ P64[00002948] [git-credential-manager.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git-credential-manager.exe] started
+05.06.2019 11:57:58.264 [00001d04] $$$ P64[00002330] [sh.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\usr\bin\sh.exe] started
+05.06.2019 11:57:58.780 [00001d04] $$$ P64[000026e8] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+05.06.2019 11:57:59.295 [00001d04] $$$ P64[00002b04] [git-credential-manager.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git-credential-manager.exe] started
+05.06.2019 11:58:00.075 [00001d04] $$$ P64[00002a9c] [sh.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\usr\bin\sh.exe] started
+05.06.2019 11:58:00.591 [00001d04] $$$ P64[0000285c] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+05.06.2019 11:58:01.108 [00001d04] $$$ P64[00000fd8] [git-credential-manager.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git-credential-manager.exe] started
+05.06.2019 11:58:01.889 [00001d04] $$$ P64[00001410] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+05.06.2019 11:58:02.403 [00001d04] $$$ P64[000029a4] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+05.06.2019 11:58:52.187 [00001d04] --- Clipboard DATA changed
+05.06.2019 11:59:07.854 [00001d04] --- Clipboard DATA changed
+05.06.2019 11:59:07.869 [00001d04] --- Clipboard DATA changed
+05.06.2019 11:59:23.809 [00001d04] $$$ P64[000026d4] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+05.06.2019 11:59:24.060 [00001d04] $$$ P64[00002528] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+05.06.2019 11:59:24.357 [00001d04] $$$ P64[000020a8] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+05.06.2019 11:59:24.410 [00001d04] $$$ P64[000028fc] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+05.06.2019 11:59:39.373 [00001d04] $$$ P64[00001cfc] [chrome.exe][C:\Program Files (x86)\Google\Chrome\Application\chrome.exe] started
+05.06.2019 12:00:02.703 [00001d04] --- Clipboard DATA changed
+05.06.2019 12:00:03.847 [00001d04] --- Clipboard DATA changed
+05.06.2019 12:00:18.951 [00001d04] $$$ P64[00000dd8] [git.exe][C:\Users\own\scoop\shims\git.exe] started
+05.06.2019 12:00:19.482 [00001d04] $$$ P64[00002404] [git.exe][C:\Users\own\scoop\apps\git\current\cmd\git.exe] started
+05.06.2019 12:00:20.013 [00001d04] $$$ P64[00002164] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\bin\git.exe] started
+05.06.2019 12:00:25.357 [00001d04] $$$ P64[00002594] [git.exe][C:\Users\own\scoop\shims\git.exe] started
+05.06.2019 12:00:25.872 [00001d04] $$$ P64[00002974] [git.exe][C:\Users\own\scoop\apps\git\current\cmd\git.exe] started
+05.06.2019 12:00:26.388 [00001d04] $$$ P64[000027f4] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\bin\git.exe] started
+05.06.2019 12:00:30.264 [00001d04] $$$ P64[00002464] [git.exe][C:\Users\own\scoop\shims\git.exe] started
+05.06.2019 12:00:30.795 [00001d04] $$$ P64[00001090] [git.exe][C:\Users\own\scoop\apps\git\current\cmd\git.exe] started
+05.06.2019 12:00:31.309 [00001d04] $$$ P64[000015e4] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\bin\git.exe] started
+05.06.2019 12:00:34.515 [00001d04] $$$ P64[0000143c] [git.exe][C:\Users\own\scoop\shims\git.exe] started
+05.06.2019 12:00:35.029 [00001d04] $$$ P64[00002420] [git.exe][C:\Users\own\scoop\apps\git\current\cmd\git.exe] started
+05.06.2019 12:00:35.545 [00001d04] $$$ P64[00001f88] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\bin\git.exe] started
+05.06.2019 12:00:44.967 [00001d04] $$$ P64[00002438] [git.exe][C:\Users\own\scoop\shims\git.exe] started
+05.06.2019 12:00:45.481 [00001d04] $$$ P64[00002148] [git.exe][C:\Users\own\scoop\apps\git\current\cmd\git.exe] started
+05.06.2019 12:00:46.029 [00001d04] $$$ P64[0000246c] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\bin\git.exe] started
+05.06.2019 12:00:46.577 [00001d04] $$$ P64[00002bac] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+05.06.2019 12:00:48.812 [00001d04] $$$ P64[00002004] [git.exe][C:\Users\own\scoop\shims\git.exe] started
+05.06.2019 12:00:49.327 [00001d04] $$$ P64[000029e8] [git.exe][C:\Users\own\scoop\apps\git\current\cmd\git.exe] started
+05.06.2019 12:00:49.842 [00001d04] $$$ P64[000024b8] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\bin\git.exe] started
+05.06.2019 12:00:50.357 [00001d04] $$$ P64[00002bf4] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+05.06.2019 12:00:50.873 [00001d04] $$$ P64[00000608] [git-remote-https.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git-remote-https.exe] started
+05.06.2019 12:00:52.030 [00001d04] $$$ P64[0000297c] [sh.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\usr\bin\sh.exe] started
+05.06.2019 12:00:52.514 [00001d04] $$$ P64[000029a8] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+05.06.2019 12:00:52.982 [00001d04] $$$ P64[00002814] [git-credential-manager.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git-credential-manager.exe] started
+05.06.2019 12:00:54.998 [00001d04] $$$ P64[00002b60] [sh.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\usr\bin\sh.exe] started
+05.06.2019 12:00:55.482 [00001d04] $$$ P64[000020b4] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+05.06.2019 12:00:55.950 [00001d04] $$$ P64[000022f0] [git-credential-manager.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git-credential-manager.exe] started
+05.06.2019 12:00:56.702 [00001d04] $$$ P64[00002484] [sh.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\usr\bin\sh.exe] started
+05.06.2019 12:00:57.170 [00001d04] $$$ P64[00002384] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+05.06.2019 12:00:57.624 [00001d04] $$$ P64[00001ec0] [git-credential-manager.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git-credential-manager.exe] started
+05.06.2019 12:00:58.356 [00001d04] $$$ P64[00002604] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+05.06.2019 12:00:58.810 [00001d04] $$$ P64[00002948] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\libexec\git-core\git.exe] started
+05.06.2019 12:03:50.632 [00001d04] --- Model:Config file LCC[5]
+05.06.2019 12:03:50.632 [00001d04] --- Model:Config file C:\WARP000\config\20190509.dat saved CC[6]
+05.06.2019 12:04:03.378 [00001d04] --- Model:Config file LCC[7]
+05.06.2019 12:04:03.378 [00001d04] --- Model:Config file C:\Users\own\Desktop\20190605.dat saved CC[8]
+05.06.2019 12:04:14.578 [00001d04] --- Clipboard DATA changed
+05.06.2019 12:04:14.579 [00001d04] --- Clipboard DATA changed
+05.06.2019 12:04:21.005 [00001d04] --- Clipboard DATA changed
+05.06.2019 12:04:28.091 [00001d04] $$$ P64[000022e8] [git.exe][C:\Users\own\scoop\shims\git.exe] started
+05.06.2019 12:04:28.544 [00001d04] $$$ P64[00002454] [git.exe][C:\Users\own\scoop\apps\git\current\cmd\git.exe] started
+05.06.2019 12:04:28.999 [00001d04] $$$ P64[000015e4] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\bin\git.exe] started
+05.06.2019 12:04:32.124 [00001d04] $$$ P64[000020c0] [git.exe][C:\Users\own\scoop\shims\git.exe] started
+05.06.2019 12:04:32.592 [00001d04] $$$ P64[00002bb0] [git.exe][C:\Users\own\scoop\apps\git\current\cmd\git.exe] started
+05.06.2019 12:04:33.060 [00001d04] $$$ P64[00002abc] [git.exe][C:\Users\own\scoop\apps\git\2.21.0.windows.1\mingw64\bin\git.exe] started
+05.06.2019 12:05:34.036 [00001d04] --- Clipboard DATA changed

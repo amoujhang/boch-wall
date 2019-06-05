@@ -1,0 +1,86 @@
+04.06.2019 13:44:41.419 [0000109c] --- App --- Immersive Display PRO v3.0.5 (01.01.2019)
+04.06.2019 13:44:41.419 [0000109c] --- OS 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+04.06.2019 13:44:41.419 [0000109c] --- Process64 C:\WINDOWS\system32\dwm.exe
+04.06.2019 13:44:41.419 [0000109c] --- CmdLine ["dwm.exe"]
+04.06.2019 13:44:41.419 [0000109c] --- Enumerating displays ...
+04.06.2019 13:44:41.419 [0000109c] --- Device N[\\.\DISPLAY1] S[Radeon RX 580 Series] M[Generic PnP Monitor] F[desktop primary ]
+04.06.2019 13:44:41.435 [0000109c] --- Device N[\\.\DISPLAY2] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 13:44:41.435 [0000109c] --- Device N[\\.\DISPLAY3] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 13:44:41.435 [0000109c] --- Device N[\\.\DISPLAY4] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 13:44:41.435 [0000109c] --- Device N[\\.\DISPLAY5] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 13:44:41.435 [0000109c] --- Device N[\\.\DISPLAY6] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 13:44:41.435 [0000109c] --- Device N[\\.\DISPLAY7] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 13:44:41.435 [0000109c] --- Device N[\\.\DISPLAY8] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 13:44:41.435 [0000109c] --- SM_CMONITORS         = 1
+04.06.2019 13:44:41.435 [0000109c] --- SM_SAMEDISPLAYFORMAT = 1
+04.06.2019 13:44:41.435 [0000109c] --- SM_XVIRTUALSCREEN    = 0
+04.06.2019 13:44:41.435 [0000109c] --- SM_YVIRTUALSCREEN    = 0
+04.06.2019 13:44:41.435 [0000109c] --- SM_CXVIRTUALSCREEN   = 3840
+04.06.2019 13:44:41.435 [0000109c] --- SM_CYVIRTUALSCREEN   = 1200
+04.06.2019 13:44:41.435 [0000109c] --- SM_CXCURSOR          = 32
+04.06.2019 13:44:41.435 [0000109c] ??? No displays enumerated. Retry later
+04.06.2019 13:44:41.435 [0000109c] --- hookD3D9
+04.06.2019 13:44:41.435 [0000109c] --- DirectX9 dll=56cb0000
+04.06.2019 13:44:41.482 [0000109c] --- DirectX9 API detected
+04.06.2019 13:44:41.482 [0000109c] --- DirectX9Ex API detected
+04.06.2019 13:44:41.482 [0000109c] --- i1: InterfaceProc1
+04.06.2019 13:44:41.482 [0000109c] --- DXGI dll=7ce30000
+04.06.2019 13:44:41.497 [0000109c] --- DirectX DXGI API CreateDXGIFactory detected 1
+04.06.2019 13:44:41.528 [0000109c] --- DirectX DXGI API CreateDXGIFactory1 detected 1
+04.06.2019 13:44:41.544 [0000109c] --- DirectX DXGI API CreateDXGIFactory2 detected 1
+04.06.2019 13:44:41.544 [0000109c] --- DirectX DXGI API detected
+04.06.2019 13:44:41.575 [0000109c] --- DirectX D3D11 API detected 1
+04.06.2019 13:44:41.575 [0000109c] --- DirectX D3D12 API detected hd3d12=75c40000
+04.06.2019 13:44:41.591 [0000109c] --- DirectX D3D12 API detected 1
+04.06.2019 13:44:41.591 [0000109c] --- hookOpenGL
+04.06.2019 13:44:41.747 [0000109c] --- OpenGL API detected
+04.06.2019 13:44:41.872 [00001c3c] --- D3D11CreateDevice ADAPTER Description=Radeon RX 580 Series
+04.06.2019 13:44:41.872 [00001c3c] --- Device FeatureLevels[0]=0000a100
+04.06.2019 13:44:41.872 [00001fcc] --- D3D11CreateDevice ADAPTER NULL
+04.06.2019 13:44:41.872 [00001c3c] --- D3D11CreateDevice ADAPTER Description=Radeon RX 580 Series
+04.06.2019 13:44:41.872 [00001c3c] --- Device FeatureLevels[0]=0000c100
+04.06.2019 13:44:41.872 [00001c3c] --- Device FeatureLevels[1]=0000c000
+04.06.2019 13:44:41.872 [00001c3c] --- Device FeatureLevels[2]=0000b100
+04.06.2019 13:44:41.872 [00001c3c] --- Device FeatureLevels[3]=0000b000
+04.06.2019 13:44:41.872 [00001c3c] --- Device FeatureLevels[4]=0000a100
+04.06.2019 13:44:41.872 [00001c3c] --- Device FeatureLevels[5]=0000a000
+04.06.2019 13:44:41.872 [00001c3c] --- Device FeatureLevels[6]=00009300
+04.06.2019 13:44:41.872 [00001c3c] --- Device FeatureLevels[7]=00009200
+04.06.2019 13:44:41.872 [00001c3c] --- Device FeatureLevels[8]=00009100
+04.06.2019 13:44:41.888 [00001fcc] --- Device FeatureLevel -> 0000b000
+04.06.2019 13:44:41.888 [00001c3c] --- Device FeatureLevel -> 0000c000
+04.06.2019 13:44:42.075 [00001c3c] --- Win10SC_[01] Created
+04.06.2019 13:44:42.075 [00001c3c] --- [\\.\DISPLAY1] [Radeon RX 580 Series] [MONITOR\ADVEF2D\{4d36e96e-e325-11ce-bfc1-08002be10318}\0013] [Generic PnP Monitor]
+04.06.2019 13:44:42.075 [00001c3c] --- shim Winmm hLib=7bdf0000
+04.06.2019 13:44:42.075 [00001c3c] --- shim Winmm 7bdf6050, 7bdf5f10, 7bdf1060, 7bdf1040
+04.06.2019 13:44:42.089 [00001c3c] --- WarpContext 6e2d4040 Output=63b66620 DeviceName=\\.\DISPLAY1 DesktopCoordinates(0,0 3840x1200) AttachedToDesktop=1 Rotation=1 (0)
+04.06.2019 13:44:42.089 [00001c3c] --- WarpContext 6e2d4040 count 1
+04.06.2019 13:44:42.089 [00001c3c] --- GMOC[6a4aaae8] DONE
+04.06.2019 13:44:42.089 [00001c3c] --- WarpContext[6e2d4040] Monitor=00010001
+04.06.2019 13:44:42.089 [00001c3c] --- D3DXWrapper trying d3dx11_43.dll
+04.06.2019 13:44:42.089 [00001c3c] --- D3DXWrapper d3dx11_43.dll loaded
+04.06.2019 13:44:42.089 [00001c3c] --- WarpContext[6e2d4040] D3DCompiler_47.DLL loaded directly
+04.06.2019 13:44:42.089 [00001c3c] --- SCISSORS 1
+04.06.2019 13:44:42.089 [00001c3c] --- ANISOTROPIC 4
+04.06.2019 13:44:42.374 [00001c3c] --- WarpContext 6e2d4040 T(3840x1200) O(3840x1200) enableRotation=0 rotateDegrees=0
+04.06.2019 13:44:42.405 [00001c3c] --- WarpContext[6e2d4040] CreateAllWarpingResources S=1 R=85 Warping=1
+04.06.2019 13:44:42.405 [00001c3c] --- Cursor warping SSC=7fa748e0
+04.06.2019 13:44:42.405 [00001c3c] ### Cursor clear cache CC[0]
+04.06.2019 13:44:42.405 [00001c3c] ### Present[6e2d4040] S
+04.06.2019 13:44:42.406 [00001c3c] ### Present[6e2d4040] uSOPSAS
+04.06.2019 13:44:42.406 [00001c3c] ### Present[6e2d4040] uSNPSAS
+04.06.2019 13:44:42.406 [00001c3c] ### Present[6e2d4040] CR
+04.06.2019 13:44:42.406 [00001c3c] ### Present[6e2d4040] OMSRT
+04.06.2019 13:44:42.406 [00001c3c] ### Present[6e2d4040] uDC
+04.06.2019 13:44:42.406 [00001c3c] ### Present[6e2d4040] OMSRT
+04.06.2019 13:44:42.411 [00001c3c] ### Present[6e2d4040] uRBT
+04.06.2019 13:44:42.411 [00001c3c] ### Present[6e2d4040] OMSRT
+04.06.2019 13:44:42.411 [00001c3c] ### Present[6e2d4040] uDG
+04.06.2019 13:44:42.411 [00001c3c] ### Present[6e2d4040] uROPSAS
+04.06.2019 13:44:42.411 [00001c3c] ### Present[6e2d4040] E
+04.06.2019 14:52:21.729 [00001c3c] ??? CursorBitmap::setSize unsupported cursor size 0
+04.06.2019 14:52:21.729 [00001c3c] ??? CursorBitmap::updateCursorBitmap  bmMask pCurData->cursorSizeIndex=-1 wxh = 0x0
+04.06.2019 14:55:02.030 [00001c3c] --- DestroyWarp
+04.06.2019 14:55:02.031 [00001c3c] --- WarpContext[6e2d4040] ReleaseAllWarpingResources R=-85
+04.06.2019 14:55:02.031 [00001c3c] --- ~WarpContext 6e2d4040 count 1
+04.06.2019 14:55:03.378 [0000109c] --- PROCESS DETACH

@@ -1,0 +1,30 @@
+04.06.2019 21:14:06.669 [00001ac4] ??? OSM handle == NULL error=2
+04.06.2019 21:14:06.669 [00001ac4] ^^^ SC trying session1
+--- [2]
+04.06.2019 21:14:06.669 [00001ac4] --- App --- Immersive Display PRO v3.0.5 (01.01.2019)
+04.06.2019 21:14:06.669 [00001ac4] --- OS 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+04.06.2019 21:14:06.669 [00001ac4] --- Process32 C:\WINDOWS\syswow64\WOWReg32.exe
+04.06.2019 21:14:06.669 [00001ac4] --- CmdLine ["C:\WINDOWS\syswow64\WOWReg32.exe" /RegionName {d7ab5291-f69e-4011-8a15-81bee2211e33} /SignalReady {cfb47739-dadd-445d-9da6-5529e29b463b} /SignalComplete {0063d8b2-ff48-4fc9-9659-95614ef3e9e1}]
+04.06.2019 21:14:06.670 [00001ac4] --- Enumerating displays ...
+04.06.2019 21:14:06.670 [00001ac4] --- SM_CMONITORS         = 1
+04.06.2019 21:14:06.670 [00001ac4] --- SM_SAMEDISPLAYFORMAT = 1
+04.06.2019 21:14:06.670 [00001ac4] --- SM_XVIRTUALSCREEN    = 0
+04.06.2019 21:14:06.670 [00001ac4] --- SM_YVIRTUALSCREEN    = 0
+04.06.2019 21:14:06.670 [00001ac4] --- SM_CXVIRTUALSCREEN   = 1024
+04.06.2019 21:14:06.670 [00001ac4] --- SM_CYVIRTUALSCREEN   = 768
+04.06.2019 21:14:06.670 [00001ac4] --- SM_CXCURSOR          = 32
+04.06.2019 21:14:06.670 [00001ac4] ??? No displays enumerated. Retry later
+04.06.2019 21:14:06.670 [00001ac4] --- hookD3D9
+04.06.2019 21:14:06.671 [00001ac4] --- DirectX9 dll=71460000
+04.06.2019 21:14:06.703 [00001ac4] --- DirectX9 API detected
+04.06.2019 21:14:06.703 [00001ac4] --- DirectX9Ex API detected
+04.06.2019 21:14:06.703 [00001ac4] --- i1: InterfaceProc1
+04.06.2019 21:14:06.703 [00001ac4] --- DXGI dll=724a0000
+04.06.2019 21:14:06.719 [00001ac4] --- DirectX DXGI API CreateDXGIFactory detected 1
+04.06.2019 21:14:06.735 [00001ac4] --- DirectX DXGI API CreateDXGIFactory1 detected 1
+04.06.2019 21:14:06.751 [00001ac4] --- DirectX DXGI API CreateDXGIFactory2 detected 1
+04.06.2019 21:14:06.751 [00001ac4] --- DirectX DXGI API detected
+04.06.2019 21:14:06.752 [00001ac4] --- DirectX D3D12 API detected hd3d12=72330000
+04.06.2019 21:14:06.768 [00001ac4] --- DirectX D3D12 API detected 1
+04.06.2019 21:14:06.768 [00001ac4] --- hookOpenGL
+04.06.2019 21:14:06.895 [00001ac4] --- OpenGL API detected

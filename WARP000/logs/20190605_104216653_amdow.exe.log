@@ -1,0 +1,35 @@
+05.06.2019 10:42:16.653 [00000cb8] --- App --- Immersive Display PRO v3.0.5 (01.01.2019)
+05.06.2019 10:42:16.653 [00000cb8] --- OS 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+05.06.2019 10:42:16.653 [00000cb8] --- Process64 C:\Program Files\AMD\CNext\CNext\amdow.exe
+05.06.2019 10:42:16.653 [00000cb8] --- CmdLine ["C:\Program Files\AMD\CNext\CNext\amdow.exe" 8100]
+05.06.2019 10:42:16.653 [00000cb8] --- Enumerating displays ...
+05.06.2019 10:42:16.653 [00000cb8] --- Device N[\\.\DISPLAY1] S[Radeon RX 580 Series] M[Generic PnP Monitor] F[desktop primary ]
+05.06.2019 10:42:16.653 [00000cb8] --- Device N[\\.\DISPLAY2] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 10:42:16.653 [00000cb8] --- Device N[\\.\DISPLAY3] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 10:42:16.653 [00000cb8] --- Device N[\\.\DISPLAY4] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 10:42:16.653 [00000cb8] --- Device N[\\.\DISPLAY5] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 10:42:16.669 [00000cb8] --- Device N[\\.\DISPLAY6] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 10:42:16.669 [00000cb8] --- Device N[\\.\DISPLAY7] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 10:42:16.669 [00000cb8] --- Device N[\\.\DISPLAY8] S[Radeon RX 580 Series] M[] F[]
+05.06.2019 10:42:16.669 [00000cb8] --- SM_CMONITORS         = 1
+05.06.2019 10:42:16.669 [00000cb8] --- SM_SAMEDISPLAYFORMAT = 1
+05.06.2019 10:42:16.669 [00000cb8] --- SM_XVIRTUALSCREEN    = 0
+05.06.2019 10:42:16.669 [00000cb8] --- SM_YVIRTUALSCREEN    = 0
+05.06.2019 10:42:16.669 [00000cb8] --- SM_CXVIRTUALSCREEN   = 3840
+05.06.2019 10:42:16.669 [00000cb8] --- SM_CYVIRTUALSCREEN   = 1200
+05.06.2019 10:42:16.669 [00000cb8] --- SM_CXCURSOR          = 32
+05.06.2019 10:42:16.669 [00000cb8] ??? No displays enumerated. Retry later
+05.06.2019 10:42:16.669 [00000cb8] --- hookD3D9
+05.06.2019 10:42:16.669 [00000cb8] --- DirectX9 dll=328d0000
+05.06.2019 10:42:16.716 [00000cb8] --- DirectX9 API detected
+05.06.2019 10:42:16.716 [00000cb8] --- DirectX9Ex API detected
+05.06.2019 10:42:16.716 [00000cb8] --- i1: InterfaceProc1
+05.06.2019 10:42:16.716 [00000cb8] --- DXGI dll=61320000
+05.06.2019 10:42:16.731 [00000cb8] --- DirectX DXGI API CreateDXGIFactory detected 1
+05.06.2019 10:42:16.762 [00000cb8] --- DirectX DXGI API CreateDXGIFactory1 detected 1
+05.06.2019 10:42:16.778 [00000cb8] --- DirectX DXGI API CreateDXGIFactory2 detected 1
+05.06.2019 10:42:16.778 [00000cb8] --- DirectX DXGI API detected
+05.06.2019 10:42:16.778 [00000cb8] --- DirectX D3D12 API detected hd3d12=5a9e0000
+05.06.2019 10:42:16.809 [00000cb8] --- DirectX D3D12 API detected 1
+05.06.2019 10:42:16.809 [00000cb8] --- hookOpenGL
+05.06.2019 10:42:16.981 [00000cb8] --- OpenGL API detected

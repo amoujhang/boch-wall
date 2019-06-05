@@ -1,0 +1,31 @@
+05.06.2019 11:25:28.566 [000021c8] ??? OSM handle == NULL error=2
+05.06.2019 11:25:28.566 [000021c8] ^^^ SC trying session1
+--- [2]
+05.06.2019 11:25:28.566 [000021c8] --- App --- Immersive Display PRO v3.0.5 (01.01.2019)
+05.06.2019 11:25:28.566 [000021c8] --- OS 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+05.06.2019 11:25:28.566 [000021c8] --- Process64 C:\ProgramData\Microsoft\Windows Defender\platform\4.18.1905.4-0\MpCmdRun.exe
+05.06.2019 11:25:28.566 [000021c8] --- CmdLine ["C:\ProgramData\Microsoft\Windows Defender\platform\4.18.1905.4-0\MpCmdRun.exe" SignatureUpdate -ScheduleJob -RestrictPrivileges]
+05.06.2019 11:25:28.566 [000021c8] --- Enumerating displays ...
+05.06.2019 11:25:28.566 [000021c8] --- SM_CMONITORS         = 1
+05.06.2019 11:25:28.566 [000021c8] --- SM_SAMEDISPLAYFORMAT = 1
+05.06.2019 11:25:28.566 [000021c8] --- SM_XVIRTUALSCREEN    = 0
+05.06.2019 11:25:28.566 [000021c8] --- SM_YVIRTUALSCREEN    = 0
+05.06.2019 11:25:28.566 [000021c8] --- SM_CXVIRTUALSCREEN   = 1024
+05.06.2019 11:25:28.566 [000021c8] --- SM_CYVIRTUALSCREEN   = 768
+05.06.2019 11:25:28.566 [000021c8] --- SM_CXCURSOR          = 32
+05.06.2019 11:25:28.566 [000021c8] ??? No displays enumerated. Retry later
+05.06.2019 11:25:28.566 [000021c8] --- hookD3D9
+05.06.2019 11:25:28.567 [000021c8] --- DirectX9 dll=feaf0000
+05.06.2019 11:25:28.603 [000021c8] --- DirectX9 API detected
+05.06.2019 11:25:28.603 [000021c8] --- DirectX9Ex API detected
+05.06.2019 11:25:28.603 [000021c8] --- i1: InterfaceProc1
+05.06.2019 11:25:28.604 [000021c8] --- DXGI dll=2d520000
+05.06.2019 11:25:28.621 [000021c8] --- DirectX DXGI API CreateDXGIFactory detected 1
+05.06.2019 11:25:28.640 [000021c8] --- DirectX DXGI API CreateDXGIFactory1 detected 1
+05.06.2019 11:25:28.658 [000021c8] --- DirectX DXGI API CreateDXGIFactory2 detected 1
+05.06.2019 11:25:28.658 [000021c8] --- DirectX DXGI API detected
+05.06.2019 11:25:28.658 [000021c8] --- DirectX D3D12 API detected hd3d12=26cf0000
+05.06.2019 11:25:28.676 [000021c8] --- DirectX D3D12 API detected 1
+05.06.2019 11:25:28.676 [000021c8] --- hookOpenGL
+05.06.2019 11:25:28.799 [000021c8] --- OpenGL API detected
+05.06.2019 11:25:28.856 [000021c8] --- PROCESS DETACH

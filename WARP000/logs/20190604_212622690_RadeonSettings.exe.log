@@ -1,0 +1,458 @@
+04.06.2019 21:26:22.690 [00002234] --- App --- Immersive Display PRO v3.0.5 (01.01.2019)
+04.06.2019 21:26:22.690 [00002234] --- OS 6:2 Microsoft Windows 8 Professional (build 9200), 64-bit 7(0) 8(1) 8.1(0) 10(0)
+04.06.2019 21:26:22.690 [00002234] --- Process64 C:\Program Files\AMD\CNext\CNext\RadeonSettings.exe
+04.06.2019 21:26:22.690 [00002234] --- CmdLine [C:\Program Files\AMD\CNext\CNext\RadeonSettings.exe atlogon]
+04.06.2019 21:26:22.690 [00002234] --- Enumerating displays ...
+04.06.2019 21:26:22.690 [00002234] --- Device N[\\.\DISPLAY1] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:26:22.690 [00002234] --- Device N[\\.\DISPLAY2] S[Radeon RX 580 Series] M[Generic PnP Monitor] F[desktop primary ]
+04.06.2019 21:26:22.690 [00002234] --- Device N[\\.\DISPLAY3] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:26:22.690 [00002234] --- Device N[\\.\DISPLAY4] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:26:22.690 [00002234] --- Device N[\\.\DISPLAY5] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:26:22.705 [00002234] --- Device N[\\.\DISPLAY6] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:26:22.705 [00002234] --- Device N[\\.\DISPLAY7] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:26:22.705 [00002234] --- Device N[\\.\DISPLAY8] S[Radeon RX 580 Series] M[] F[]
+04.06.2019 21:26:22.705 [00002234] --- SM_CMONITORS         = 1
+04.06.2019 21:26:22.705 [00002234] --- SM_SAMEDISPLAYFORMAT = 1
+04.06.2019 21:26:22.705 [00002234] --- SM_XVIRTUALSCREEN    = 0
+04.06.2019 21:26:22.705 [00002234] --- SM_YVIRTUALSCREEN    = 0
+04.06.2019 21:26:22.705 [00002234] --- SM_CXVIRTUALSCREEN   = 3840
+04.06.2019 21:26:22.705 [00002234] --- SM_CYVIRTUALSCREEN   = 1200
+04.06.2019 21:26:22.705 [00002234] --- SM_CXCURSOR          = 32
+04.06.2019 21:26:22.705 [00002234] --- [\\.\DISPLAY2] [Radeon RX 580 Series] [MONITOR\ADVEF2D\{4d36e96e-e325-11ce-bfc1-08002be10318}\0017] [Generic PnP Monitor]
+04.06.2019 21:26:22.705 [00002234] --- Enumerated 1 displays
+04.06.2019 21:26:22.705 [00002234] --- Displays initialized
+04.06.2019 21:26:22.705 [00002234] --- Displays[0] M[005c0511] HDC[5a010c86] GDC[84010e14] L=0 T=0 R=3840 B=1200 RECT[0,0 3840x1200] N[\\.\DISPLAY2] M[Generic PnP Monitor] F[1] PROJ[0x0] MAPS[0]
+04.06.2019 21:26:22.705 [00002234] ---    Grouping G[0] N[0] GD[]
+04.06.2019 21:26:22.705 [00002234] --- ---
+04.06.2019 21:26:22.705 [00002234] --- hookD3D9
+04.06.2019 21:26:22.705 [00002234] --- DirectX9 dll=68590000
+04.06.2019 21:26:22.752 [00002234] --- DirectX9 API detected
+04.06.2019 21:26:22.752 [00002234] --- DirectX9Ex API detected
+04.06.2019 21:26:22.752 [00002234] --- i1: InterfaceProc1
+04.06.2019 21:26:22.752 [00002234] --- DXGI dll=7a520000
+04.06.2019 21:26:22.784 [00002234] --- DirectX DXGI API CreateDXGIFactory detected 1
+04.06.2019 21:26:22.815 [00002234] --- DirectX DXGI API CreateDXGIFactory1 detected 1
+04.06.2019 21:26:22.830 [00002234] --- DirectX DXGI API CreateDXGIFactory2 detected 1
+04.06.2019 21:26:22.830 [00002234] --- DirectX DXGI API detected
+04.06.2019 21:26:22.830 [00002234] --- DirectX D3D12 API detected hd3d12=73c90000
+04.06.2019 21:26:22.862 [00002234] --- DirectX D3D12 API detected 1
+04.06.2019 21:26:22.862 [00002234] --- hookOpenGL
+04.06.2019 21:26:23.049 [00002234] --- OpenGL API detected
+04.06.2019 21:26:23.674 [00002234] --- wglCreateLayerContext hdc=9a010c61 iLayerPlane=0 hglrc=00010000
+04.06.2019 21:26:23.674 [00002234] ### MonitorFromWindow hwnd 00000000 !isWindow() -> 005c0511
+04.06.2019 21:26:23.674 [00002234] --- WWW H[00000000] C[] W[] T[00000000] M[005c0511] R[0,0 0x0] CR[0,0 0x0]
+04.06.2019 21:26:23.674 [00002234] --- OpenGLWarpContext[26148040] HDC=9a010c61 GLRC=00010000 HWND=00000000 isFullscreen=0
+04.06.2019 21:26:23.674 [00002234] --- wglCreateLayerContext hdc=86010e55 iLayerPlane=0 hglrc=00010001
+04.06.2019 21:26:23.674 [00002234] ### MonitorFromWindow hwnd 00000000 !isWindow() -> 005c0511
+04.06.2019 21:26:23.674 [00002234] --- WWW H[00000000] C[] W[] T[00000000] M[005c0511] R[4176,0 -4043x0] CR[383808496,385 0x0]
+04.06.2019 21:26:23.674 [00002234] --- OpenGLWarpContext[26513040] HDC=86010e55 GLRC=00010001 HWND=00000000 isFullscreen=0
+04.06.2019 21:26:23.690 [00002234] --- wglDeleteContext 00010001
+04.06.2019 21:26:23.690 [00002234] --- ~BaseWarpContext[26513040]
+04.06.2019 21:26:24.080 [00001ccc] --- Direct3DCreate9 00000020 -> 2ac00040
+04.06.2019 21:26:24.172 [00001ccc] --- Direct3DCreate9 00000020 -> 2ae0e440
+04.06.2019 21:26:24.172 [00001ccc] --- CreateSwapChainForHwnd pIDXGIFactory [25743cc0]
+04.06.2019 21:26:24.172 [00001ccc] --- IDXGIFactory2 CreateSwapChainForHwnd [25712410] D3D11Device disabled=0
+04.06.2019 21:26:24.172 [00001ccc] --- MyIDXGI11SwapChain1::MyIDXGI11SwapChain1[2ad36eb0]
+04.06.2019 21:26:24.172 [00001ccc] --- WWW H[000304ea] C[Qt5QWindowOwnDCIcon] W[RadeonSettings] T[00001ccc] M[005c0511] R[0,0 136x40] CR[0,0 120x1]
+04.06.2019 21:26:24.172 [00001ccc] --- DX11WarpContext 2c180040
+04.06.2019 21:26:24.172 [00001ccc] ------ IN=00000000
+04.06.2019 21:26:24.172 [00001ccc] ------ OUT=00000000
+04.06.2019 21:26:24.172 [00001ccc] ------ desc.BufferCount=1
+04.06.2019 21:26:24.172 [00001ccc] ------ desc.BufferDesc.Width=120
+04.06.2019 21:26:24.172 [00001ccc] ------ desc.BufferDesc.Height=1
+04.06.2019 21:26:24.172 [00001ccc] ------ desc.BufferDesc.Format=87
+04.06.2019 21:26:24.172 [00001ccc] ------ desc.BufferDesc.Scaling=0
+04.06.2019 21:26:24.172 [00001ccc] ------ desc.BufferDesc.ScanlineOrdering=0
+04.06.2019 21:26:24.172 [00001ccc] ------ desc.BufferDesc.RefreshRate.Denominator=1
+04.06.2019 21:26:24.172 [00001ccc] ------ desc.BufferDesc.RefreshRate.Numerator=0
+04.06.2019 21:26:24.172 [00001ccc] ------ desc.BufferUsage=112
+04.06.2019 21:26:24.172 [00001ccc] ------ desc.OutputWindow=000304ea
+04.06.2019 21:26:24.172 [00001ccc] ------ desc.SampleDesc.Count=1
+04.06.2019 21:26:24.172 [00001ccc] ------ desc.SampleDesc.Quality=0
+04.06.2019 21:26:24.172 [00001ccc] ------ desc.Windowed=1
+04.06.2019 21:26:24.172 [00001ccc] ------ desc.SwapEffect=1[DXGI_SWAP_EFFECT_SEQUENTIAL]
+04.06.2019 21:26:24.172 [00001ccc] ------ desc.Flags=0
+04.06.2019 21:26:24.172 [00001ccc] ------ desc1.Stereo=0
+04.06.2019 21:26:24.172 [00001ccc] ------ desc1.AlphaMode=0
+04.06.2019 21:26:24.172 [00001ccc] --- preserveBB=1
+04.06.2019 21:26:24.735 [00001ccc] --- CreateSwapChainForHwnd pIDXGIFactory [25743cc0]
+04.06.2019 21:26:24.735 [00001ccc] --- IDXGIFactory2 CreateSwapChainForHwnd [25712410] D3D11Device disabled=0
+04.06.2019 21:26:24.735 [00001ccc] --- MyIDXGI11SwapChain1::MyIDXGI11SwapChain1[2d80d8f0]
+04.06.2019 21:26:24.735 [00001ccc] --- WWW H[000f0454] C[Qt5QWindowOwnDCIcon] W[RADEON ??] T[00001ccc] M[005c0511] R[1459,329 1016x519] CR[0,0 1016x519]
+04.06.2019 21:26:24.735 [00001ccc] --- DX11WarpContext 27c6e040
+04.06.2019 21:26:24.735 [00001ccc] ------ IN=00000000
+04.06.2019 21:26:24.735 [00001ccc] ------ OUT=00000000
+04.06.2019 21:26:24.735 [00001ccc] ------ desc.BufferCount=1
+04.06.2019 21:26:24.735 [00001ccc] ------ desc.BufferDesc.Width=1016
+04.06.2019 21:26:24.735 [00001ccc] ------ desc.BufferDesc.Height=519
+04.06.2019 21:26:24.735 [00001ccc] ------ desc.BufferDesc.Format=87
+04.06.2019 21:26:24.735 [00001ccc] ------ desc.BufferDesc.Scaling=0
+04.06.2019 21:26:24.735 [00001ccc] ------ desc.BufferDesc.ScanlineOrdering=0
+04.06.2019 21:26:24.735 [00001ccc] ------ desc.BufferDesc.RefreshRate.Denominator=1
+04.06.2019 21:26:24.735 [00001ccc] ------ desc.BufferDesc.RefreshRate.Numerator=0
+04.06.2019 21:26:24.735 [00001ccc] ------ desc.BufferUsage=112
+04.06.2019 21:26:24.735 [00001ccc] ------ desc.OutputWindow=000f0454
+04.06.2019 21:26:24.735 [00001ccc] ------ desc.SampleDesc.Count=1
+04.06.2019 21:26:24.735 [00001ccc] ------ desc.SampleDesc.Quality=0
+04.06.2019 21:26:24.735 [00001ccc] ------ desc.Windowed=1
+04.06.2019 21:26:24.735 [00001ccc] ------ desc.SwapEffect=1[DXGI_SWAP_EFFECT_SEQUENTIAL]
+04.06.2019 21:26:24.735 [00001ccc] ------ desc.Flags=0
+04.06.2019 21:26:24.735 [00001ccc] ------ desc1.Stereo=0
+04.06.2019 21:26:24.735 [00001ccc] ------ desc1.AlphaMode=0
+04.06.2019 21:26:24.735 [00001ccc] --- preserveBB=1
+04.06.2019 21:26:37.227 [00001ccc] --- Direct3DCreate9 00000020 -> 37febd00
+04.06.2019 21:26:37.240 [00001ccc] --- CreateSwapChainForHwnd pIDXGIFactory [25743cc0]
+04.06.2019 21:26:37.240 [00001ccc] --- IDXGIFactory2 CreateSwapChainForHwnd [25712410] D3D11Device disabled=0
+04.06.2019 21:26:37.240 [00001ccc] --- MyIDXGI11SwapChain1::MyIDXGI11SwapChain1[37f5f160]
+04.06.2019 21:26:37.240 [00001ccc] --- WWW H[00040472] C[Qt5QWindowPopupDropShadowSaveBitsOwnDC] W[RadeonSettings] T[00001ccc] M[005c0511] R[1170,612 21x24] CR[0,0 21x24]
+04.06.2019 21:26:37.240 [00001ccc] --- DX11WarpContext 3ab0a040
+04.06.2019 21:26:37.240 [00001ccc] ------ IN=00000000
+04.06.2019 21:26:37.240 [00001ccc] ------ OUT=00000000
+04.06.2019 21:26:37.240 [00001ccc] ------ desc.BufferCount=1
+04.06.2019 21:26:37.240 [00001ccc] ------ desc.BufferDesc.Width=21
+04.06.2019 21:26:37.240 [00001ccc] ------ desc.BufferDesc.Height=24
+04.06.2019 21:26:37.240 [00001ccc] ------ desc.BufferDesc.Format=87
+04.06.2019 21:26:37.240 [00001ccc] ------ desc.BufferDesc.Scaling=0
+04.06.2019 21:26:37.240 [00001ccc] ------ desc.BufferDesc.ScanlineOrdering=0
+04.06.2019 21:26:37.240 [00001ccc] ------ desc.BufferDesc.RefreshRate.Denominator=1
+04.06.2019 21:26:37.240 [00001ccc] ------ desc.BufferDesc.RefreshRate.Numerator=0
+04.06.2019 21:26:37.240 [00001ccc] ------ desc.BufferUsage=112
+04.06.2019 21:26:37.240 [00001ccc] ------ desc.OutputWindow=00040472
+04.06.2019 21:26:37.240 [00001ccc] ------ desc.SampleDesc.Count=1
+04.06.2019 21:26:37.240 [00001ccc] ------ desc.SampleDesc.Quality=0
+04.06.2019 21:26:37.240 [00001ccc] ------ desc.Windowed=1
+04.06.2019 21:26:37.240 [00001ccc] ------ desc.SwapEffect=1[DXGI_SWAP_EFFECT_SEQUENTIAL]
+04.06.2019 21:26:37.240 [00001ccc] ------ desc.Flags=0
+04.06.2019 21:26:37.240 [00001ccc] ------ desc1.Stereo=0
+04.06.2019 21:26:37.240 [00001ccc] ------ desc1.AlphaMode=0
+04.06.2019 21:26:37.240 [00001ccc] --- preserveBB=1
+04.06.2019 21:26:48.774 [00001ccc] --- Direct3DCreate9 00000020 -> 3805a720
+04.06.2019 21:26:48.872 [00001ccc] --- CreateSwapChainForHwnd pIDXGIFactory [25743cc0]
+04.06.2019 21:26:48.872 [00001ccc] --- IDXGIFactory2 CreateSwapChainForHwnd [25712410] D3D11Device disabled=0
+04.06.2019 21:26:48.872 [00001ccc] --- MyIDXGI11SwapChain1::MyIDXGI11SwapChain1[3805ecf0]
+04.06.2019 21:26:48.872 [00001ccc] --- WWW H[000301e0] C[Qt5QWindowOwnDCIcon] W[RadeonSettings] T[00001ccc] M[002a057b] R[0,0 3840x1200] CR[0,0 3840x1200]
+04.06.2019 21:26:48.872 [00001ccc] --- DX11WarpContext 2e327040
+04.06.2019 21:26:48.872 [00001ccc] ------ IN=00000000
+04.06.2019 21:26:48.872 [00001ccc] ------ OUT=00000000
+04.06.2019 21:26:48.872 [00001ccc] ------ desc.BufferCount=1
+04.06.2019 21:26:48.872 [00001ccc] ------ desc.BufferDesc.Width=3840
+04.06.2019 21:26:48.872 [00001ccc] ------ desc.BufferDesc.Height=1200
+04.06.2019 21:26:48.872 [00001ccc] ------ desc.BufferDesc.Format=87
+04.06.2019 21:26:48.872 [00001ccc] ------ desc.BufferDesc.Scaling=0
+04.06.2019 21:26:48.872 [00001ccc] ------ desc.BufferDesc.ScanlineOrdering=0
+04.06.2019 21:26:48.872 [00001ccc] ------ desc.BufferDesc.RefreshRate.Denominator=1
+04.06.2019 21:26:48.872 [00001ccc] ------ desc.BufferDesc.RefreshRate.Numerator=0
+04.06.2019 21:26:48.872 [00001ccc] ------ desc.BufferUsage=112
+04.06.2019 21:26:48.872 [00001ccc] ------ desc.OutputWindow=000301e0
+04.06.2019 21:26:48.872 [00001ccc] ------ desc.SampleDesc.Count=1
+04.06.2019 21:26:48.872 [00001ccc] ------ desc.SampleDesc.Quality=0
+04.06.2019 21:26:48.872 [00001ccc] ------ desc.Windowed=1
+04.06.2019 21:26:48.872 [00001ccc] ------ desc.SwapEffect=1[DXGI_SWAP_EFFECT_SEQUENTIAL]
+04.06.2019 21:26:48.872 [00001ccc] ------ desc.Flags=0
+04.06.2019 21:26:48.872 [00001ccc] ------ desc1.Stereo=0
+04.06.2019 21:26:48.872 [00001ccc] ------ desc1.AlphaMode=0
+04.06.2019 21:26:48.872 [00001ccc] --- preserveBB=1
+04.06.2019 21:26:50.347 [00001ccc] --- Direct3DCreate9 00000020 -> 3809dd00
+04.06.2019 21:26:50.350 [00001ccc] --- CreateSwapChainForHwnd pIDXGIFactory [25743cc0]
+04.06.2019 21:26:50.350 [00001ccc] --- IDXGIFactory2 CreateSwapChainForHwnd [25712410] D3D11Device disabled=0
+04.06.2019 21:26:50.350 [00001ccc] --- MyIDXGI11SwapChain1::MyIDXGI11SwapChain1[380a6a10]
+04.06.2019 21:26:50.350 [00001ccc] --- WWW H[00050518] C[Qt5QWindowOwnDCIcon] W[RadeonSettings] T[00001ccc] M[002a057b] R[0,0 136x40] CR[0,0 120x1]
+04.06.2019 21:26:50.350 [00001ccc] --- DX11WarpContext 2da41040
+04.06.2019 21:26:50.350 [00001ccc] ------ IN=00000000
+04.06.2019 21:26:50.350 [00001ccc] ------ OUT=00000000
+04.06.2019 21:26:50.350 [00001ccc] ------ desc.BufferCount=1
+04.06.2019 21:26:50.350 [00001ccc] ------ desc.BufferDesc.Width=120
+04.06.2019 21:26:50.350 [00001ccc] ------ desc.BufferDesc.Height=1
+04.06.2019 21:26:50.350 [00001ccc] ------ desc.BufferDesc.Format=87
+04.06.2019 21:26:50.350 [00001ccc] ------ desc.BufferDesc.Scaling=0
+04.06.2019 21:26:50.350 [00001ccc] ------ desc.BufferDesc.ScanlineOrdering=0
+04.06.2019 21:26:50.350 [00001ccc] ------ desc.BufferDesc.RefreshRate.Denominator=1
+04.06.2019 21:26:50.350 [00001ccc] ------ desc.BufferDesc.RefreshRate.Numerator=0
+04.06.2019 21:26:50.350 [00001ccc] ------ desc.BufferUsage=112
+04.06.2019 21:26:50.350 [00001ccc] ------ desc.OutputWindow=00050518
+04.06.2019 21:26:50.350 [00001ccc] ------ desc.SampleDesc.Count=1
+04.06.2019 21:26:50.350 [00001ccc] ------ desc.SampleDesc.Quality=0
+04.06.2019 21:26:50.350 [00001ccc] ------ desc.Windowed=1
+04.06.2019 21:26:50.350 [00001ccc] ------ desc.SwapEffect=1[DXGI_SWAP_EFFECT_SEQUENTIAL]
+04.06.2019 21:26:50.350 [00001ccc] ------ desc.Flags=0
+04.06.2019 21:26:50.350 [00001ccc] ------ desc1.Stereo=0
+04.06.2019 21:26:50.350 [00001ccc] ------ desc1.AlphaMode=0
+04.06.2019 21:26:50.350 [00001ccc] --- preserveBB=1
+04.06.2019 21:27:46.682 [00001ccc] --- Direct3DCreate9 00000020 -> 25626640
+04.06.2019 21:27:46.686 [00001ccc] --- CreateSwapChainForHwnd pIDXGIFactory [25743cc0]
+04.06.2019 21:27:46.686 [00001ccc] --- IDXGIFactory2 CreateSwapChainForHwnd [25712410] D3D11Device disabled=0
+04.06.2019 21:27:46.686 [00001ccc] --- MyIDXGI11SwapChain1::MyIDXGI11SwapChain1[25630170]
+04.06.2019 21:27:46.686 [00001ccc] --- WWW H[00510472] C[Qt5QWindowPopupDropShadowSaveBitsOwnDC] W[RadeonSettings] T[00001ccc] M[002a057b] R[1407,368 33x24] CR[0,0 33x24]
+04.06.2019 21:27:46.686 [00001ccc] --- DX11WarpContext 28847040
+04.06.2019 21:27:46.686 [00001ccc] ------ IN=00000000
+04.06.2019 21:27:46.686 [00001ccc] ------ OUT=00000000
+04.06.2019 21:27:46.686 [00001ccc] ------ desc.BufferCount=1
+04.06.2019 21:27:46.686 [00001ccc] ------ desc.BufferDesc.Width=33
+04.06.2019 21:27:46.686 [00001ccc] ------ desc.BufferDesc.Height=24
+04.06.2019 21:27:46.686 [00001ccc] ------ desc.BufferDesc.Format=87
+04.06.2019 21:27:46.686 [00001ccc] ------ desc.BufferDesc.Scaling=0
+04.06.2019 21:27:46.686 [00001ccc] ------ desc.BufferDesc.ScanlineOrdering=0
+04.06.2019 21:27:46.686 [00001ccc] ------ desc.BufferDesc.RefreshRate.Denominator=1
+04.06.2019 21:27:46.686 [00001ccc] ------ desc.BufferDesc.RefreshRate.Numerator=0
+04.06.2019 21:27:46.686 [00001ccc] ------ desc.BufferUsage=112
+04.06.2019 21:27:46.686 [00001ccc] ------ desc.OutputWindow=00510472
+04.06.2019 21:27:46.686 [00001ccc] ------ desc.SampleDesc.Count=1
+04.06.2019 21:27:46.686 [00001ccc] ------ desc.SampleDesc.Quality=0
+04.06.2019 21:27:46.686 [00001ccc] ------ desc.Windowed=1
+04.06.2019 21:27:46.686 [00001ccc] ------ desc.SwapEffect=1[DXGI_SWAP_EFFECT_SEQUENTIAL]
+04.06.2019 21:27:46.686 [00001ccc] ------ desc.Flags=0
+04.06.2019 21:27:46.686 [00001ccc] ------ desc1.Stereo=0
+04.06.2019 21:27:46.686 [00001ccc] ------ desc1.AlphaMode=0
+04.06.2019 21:27:46.686 [00001ccc] --- preserveBB=1
+04.06.2019 21:27:47.512 [00001ccc] --- Direct3DCreate9 00000020 -> 25626640
+04.06.2019 21:27:47.517 [00001ccc] --- CreateSwapChainForHwnd pIDXGIFactory [25743cc0]
+04.06.2019 21:27:47.517 [00001ccc] --- IDXGIFactory2 CreateSwapChainForHwnd [25712410] D3D11Device disabled=0
+04.06.2019 21:27:47.517 [00001ccc] --- MyIDXGI11SwapChain1::MyIDXGI11SwapChain1[2562d580]
+04.06.2019 21:27:47.517 [00001ccc] --- WWW H[00520472] C[Qt5QWindowPopupDropShadowSaveBitsOwnDC] W[RadeonSettings] T[00001ccc] M[002a057b] R[1440,371 45x24] CR[0,0 45x24]
+04.06.2019 21:27:47.517 [00001ccc] --- DX11WarpContext 2dce7040
+04.06.2019 21:27:47.517 [00001ccc] ------ IN=00000000
+04.06.2019 21:27:47.517 [00001ccc] ------ OUT=00000000
+04.06.2019 21:27:47.517 [00001ccc] ------ desc.BufferCount=1
+04.06.2019 21:27:47.517 [00001ccc] ------ desc.BufferDesc.Width=45
+04.06.2019 21:27:47.517 [00001ccc] ------ desc.BufferDesc.Height=24
+04.06.2019 21:27:47.517 [00001ccc] ------ desc.BufferDesc.Format=87
+04.06.2019 21:27:47.517 [00001ccc] ------ desc.BufferDesc.Scaling=0
+04.06.2019 21:27:47.517 [00001ccc] ------ desc.BufferDesc.ScanlineOrdering=0
+04.06.2019 21:27:47.517 [00001ccc] ------ desc.BufferDesc.RefreshRate.Denominator=1
+04.06.2019 21:27:47.517 [00001ccc] ------ desc.BufferDesc.RefreshRate.Numerator=0
+04.06.2019 21:27:47.517 [00001ccc] ------ desc.BufferUsage=112
+04.06.2019 21:27:47.517 [00001ccc] ------ desc.OutputWindow=00520472
+04.06.2019 21:27:47.517 [00001ccc] ------ desc.SampleDesc.Count=1
+04.06.2019 21:27:47.517 [00001ccc] ------ desc.SampleDesc.Quality=0
+04.06.2019 21:27:47.517 [00001ccc] ------ desc.Windowed=1
+04.06.2019 21:27:47.517 [00001ccc] ------ desc.SwapEffect=1[DXGI_SWAP_EFFECT_SEQUENTIAL]
+04.06.2019 21:27:47.517 [00001ccc] ------ desc.Flags=0
+04.06.2019 21:27:47.517 [00001ccc] ------ desc1.Stereo=0
+04.06.2019 21:27:47.517 [00001ccc] ------ desc1.AlphaMode=0
+04.06.2019 21:27:47.517 [00001ccc] --- preserveBB=1
+04.06.2019 21:28:37.695 [00001ccc] --- CreateSwapChainForHwnd pIDXGIFactory [25743cc0]
+04.06.2019 21:28:37.695 [00001ccc] --- IDXGIFactory2 CreateSwapChainForHwnd [25712410] D3D11Device disabled=0
+04.06.2019 21:28:37.695 [00001ccc] --- MyIDXGI11SwapChain1::MyIDXGI11SwapChain1[2562dcc0]
+04.06.2019 21:28:37.695 [00001ccc] --- WWW H[000204f8] C[Qt5QWindowOwnDCIcon] W[RadeonSettings] T[00001ccc] M[002a057b] R[0,0 136x40] CR[0,0 120x1]
+04.06.2019 21:28:37.695 [00001ccc] --- DX11WarpContext 2df7a040
+04.06.2019 21:28:37.695 [00001ccc] ------ IN=00000000
+04.06.2019 21:28:37.695 [00001ccc] ------ OUT=00000000
+04.06.2019 21:28:37.695 [00001ccc] ------ desc.BufferCount=1
+04.06.2019 21:28:37.695 [00001ccc] ------ desc.BufferDesc.Width=120
+04.06.2019 21:28:37.695 [00001ccc] ------ desc.BufferDesc.Height=1
+04.06.2019 21:28:37.695 [00001ccc] ------ desc.BufferDesc.Format=87
+04.06.2019 21:28:37.695 [00001ccc] ------ desc.BufferDesc.Scaling=0
+04.06.2019 21:28:37.695 [00001ccc] ------ desc.BufferDesc.ScanlineOrdering=0
+04.06.2019 21:28:37.695 [00001ccc] ------ desc.BufferDesc.RefreshRate.Denominator=1
+04.06.2019 21:28:37.695 [00001ccc] ------ desc.BufferDesc.RefreshRate.Numerator=0
+04.06.2019 21:28:37.695 [00001ccc] ------ desc.BufferUsage=112
+04.06.2019 21:28:37.695 [00001ccc] ------ desc.OutputWindow=000204f8
+04.06.2019 21:28:37.695 [00001ccc] ------ desc.SampleDesc.Count=1
+04.06.2019 21:28:37.695 [00001ccc] ------ desc.SampleDesc.Quality=0
+04.06.2019 21:28:37.695 [00001ccc] ------ desc.Windowed=1
+04.06.2019 21:28:37.695 [00001ccc] ------ desc.SwapEffect=1[DXGI_SWAP_EFFECT_SEQUENTIAL]
+04.06.2019 21:28:37.695 [00001ccc] ------ desc.Flags=0
+04.06.2019 21:28:37.695 [00001ccc] ------ desc1.Stereo=0
+04.06.2019 21:28:37.695 [00001ccc] ------ desc1.AlphaMode=0
+04.06.2019 21:28:37.695 [00001ccc] --- preserveBB=1
+04.06.2019 21:28:37.758 [00001ccc] --- CreateSwapChainForHwnd pIDXGIFactory [25743cc0]
+04.06.2019 21:28:37.758 [00001ccc] --- IDXGIFactory2 CreateSwapChainForHwnd [25712410] D3D11Device disabled=0
+04.06.2019 21:28:37.758 [00001ccc] --- MyIDXGI11SwapChain1::MyIDXGI11SwapChain1[380a6ff0]
+04.06.2019 21:28:37.758 [00001ccc] --- WWW H[0002037a] C[Qt5QWindowOwnDCIcon] W[RadeonSettings] T[00001ccc] M[002a057b] R[0,0 136x40] CR[0,0 120x1]
+04.06.2019 21:28:37.758 [00001ccc] --- DX11WarpContext 30615040
+04.06.2019 21:28:37.758 [00001ccc] ------ IN=00000000
+04.06.2019 21:28:37.758 [00001ccc] ------ OUT=00000000
+04.06.2019 21:28:37.758 [00001ccc] ------ desc.BufferCount=1
+04.06.2019 21:28:37.758 [00001ccc] ------ desc.BufferDesc.Width=120
+04.06.2019 21:28:37.758 [00001ccc] ------ desc.BufferDesc.Height=1
+04.06.2019 21:28:37.758 [00001ccc] ------ desc.BufferDesc.Format=87
+04.06.2019 21:28:37.758 [00001ccc] ------ desc.BufferDesc.Scaling=0
+04.06.2019 21:28:37.758 [00001ccc] ------ desc.BufferDesc.ScanlineOrdering=0
+04.06.2019 21:28:37.758 [00001ccc] ------ desc.BufferDesc.RefreshRate.Denominator=1
+04.06.2019 21:28:37.758 [00001ccc] ------ desc.BufferDesc.RefreshRate.Numerator=0
+04.06.2019 21:28:37.758 [00001ccc] ------ desc.BufferUsage=112
+04.06.2019 21:28:37.758 [00001ccc] ------ desc.OutputWindow=0002037a
+04.06.2019 21:28:37.758 [00001ccc] ------ desc.SampleDesc.Count=1
+04.06.2019 21:28:37.758 [00001ccc] ------ desc.SampleDesc.Quality=0
+04.06.2019 21:28:37.758 [00001ccc] ------ desc.Windowed=1
+04.06.2019 21:28:37.758 [00001ccc] ------ desc.SwapEffect=1[DXGI_SWAP_EFFECT_SEQUENTIAL]
+04.06.2019 21:28:37.758 [00001ccc] ------ desc.Flags=0
+04.06.2019 21:28:37.758 [00001ccc] ------ desc1.Stereo=0
+04.06.2019 21:28:37.758 [00001ccc] ------ desc1.AlphaMode=0
+04.06.2019 21:28:37.758 [00001ccc] --- preserveBB=1
+04.06.2019 21:28:37.836 [00001170] --- wglDeleteContext 00010002
+04.06.2019 21:28:37.836 [00001ccc] --- CreateSwapChainForHwnd pIDXGIFactory [25743cc0]
+04.06.2019 21:28:37.836 [00001ccc] --- IDXGIFactory2 CreateSwapChainForHwnd [25712410] D3D11Device disabled=0
+04.06.2019 21:28:37.836 [00001ccc] --- MyIDXGI11SwapChain1::MyIDXGI11SwapChain1[1a788760]
+04.06.2019 21:28:37.836 [00001ccc] --- WWW H[0003037a] C[Qt5QWindowOwnDCIcon] W[RadeonSettings] T[00001ccc] M[002a057b] R[0,0 136x40] CR[0,0 120x1]
+04.06.2019 21:28:37.836 [00001ccc] --- DX11WarpContext 308a7040
+04.06.2019 21:28:37.836 [00001ccc] ------ IN=00000000
+04.06.2019 21:28:37.836 [00001ccc] ------ OUT=00000000
+04.06.2019 21:28:37.836 [00001ccc] ------ desc.BufferCount=1
+04.06.2019 21:28:37.836 [00001ccc] ------ desc.BufferDesc.Width=120
+04.06.2019 21:28:37.836 [00001ccc] ------ desc.BufferDesc.Height=1
+04.06.2019 21:28:37.836 [00001ccc] ------ desc.BufferDesc.Format=87
+04.06.2019 21:28:37.836 [00001ccc] ------ desc.BufferDesc.Scaling=0
+04.06.2019 21:28:37.836 [00001ccc] ------ desc.BufferDesc.ScanlineOrdering=0
+04.06.2019 21:28:37.836 [00001ccc] ------ desc.BufferDesc.RefreshRate.Denominator=1
+04.06.2019 21:28:37.836 [00001ccc] ------ desc.BufferDesc.RefreshRate.Numerator=0
+04.06.2019 21:28:37.836 [00001ccc] ------ desc.BufferUsage=112
+04.06.2019 21:28:37.836 [00001ccc] ------ desc.OutputWindow=0003037a
+04.06.2019 21:28:37.836 [00001ccc] ------ desc.SampleDesc.Count=1
+04.06.2019 21:28:37.836 [00001ccc] ------ desc.SampleDesc.Quality=0
+04.06.2019 21:28:37.836 [00001ccc] ------ desc.Windowed=1
+04.06.2019 21:28:37.836 [00001ccc] ------ desc.SwapEffect=1[DXGI_SWAP_EFFECT_SEQUENTIAL]
+04.06.2019 21:28:37.836 [00001ccc] ------ desc.Flags=0
+04.06.2019 21:28:37.836 [00001ccc] ------ desc1.Stereo=0
+04.06.2019 21:28:37.836 [00001ccc] ------ desc1.AlphaMode=0
+04.06.2019 21:28:37.836 [00001ccc] --- preserveBB=1
+04.06.2019 21:28:37.883 [00001ccc] --- CreateSwapChainForHwnd pIDXGIFactory [25743cc0]
+04.06.2019 21:28:37.883 [00001ccc] --- IDXGIFactory2 CreateSwapChainForHwnd [25712410] D3D11Device disabled=0
+04.06.2019 21:28:37.883 [00001ccc] --- MyIDXGI11SwapChain1::MyIDXGI11SwapChain1[292fb8d0]
+04.06.2019 21:28:37.883 [00001ccc] --- WWW H[00030374] C[Qt5QWindowOwnDCIcon] W[RadeonSettings] T[00001ccc] M[002a057b] R[0,0 136x40] CR[0,0 120x1]
+04.06.2019 21:28:37.883 [00001ccc] --- DX11WarpContext 3218c040
+04.06.2019 21:28:37.883 [00001ccc] ------ IN=00000000
+04.06.2019 21:28:37.883 [00001ccc] ------ OUT=00000000
+04.06.2019 21:28:37.883 [00001ccc] ------ desc.BufferCount=1
+04.06.2019 21:28:37.883 [00001ccc] ------ desc.BufferDesc.Width=120
+04.06.2019 21:28:37.883 [00001ccc] ------ desc.BufferDesc.Height=1
+04.06.2019 21:28:37.883 [00001ccc] ------ desc.BufferDesc.Format=87
+04.06.2019 21:28:37.883 [00001ccc] ------ desc.BufferDesc.Scaling=0
+04.06.2019 21:28:37.883 [00001ccc] ------ desc.BufferDesc.ScanlineOrdering=0
+04.06.2019 21:28:37.883 [00001ccc] ------ desc.BufferDesc.RefreshRate.Denominator=1
+04.06.2019 21:28:37.883 [00001ccc] ------ desc.BufferDesc.RefreshRate.Numerator=0
+04.06.2019 21:28:37.883 [00001ccc] ------ desc.BufferUsage=112
+04.06.2019 21:28:37.883 [00001ccc] ------ desc.OutputWindow=00030374
+04.06.2019 21:28:37.883 [00001ccc] ------ desc.SampleDesc.Count=1
+04.06.2019 21:28:37.883 [00001ccc] ------ desc.SampleDesc.Quality=0
+04.06.2019 21:28:37.883 [00001ccc] ------ desc.Windowed=1
+04.06.2019 21:28:37.883 [00001ccc] ------ desc.SwapEffect=1[DXGI_SWAP_EFFECT_SEQUENTIAL]
+04.06.2019 21:28:37.883 [00001ccc] ------ desc.Flags=0
+04.06.2019 21:28:37.883 [00001ccc] ------ desc1.Stereo=0
+04.06.2019 21:28:37.883 [00001ccc] ------ desc1.AlphaMode=0
+04.06.2019 21:28:37.883 [00001ccc] --- preserveBB=1
+04.06.2019 21:28:37.930 [00001ccc] --- CreateSwapChainForHwnd pIDXGIFactory [25743cc0]
+04.06.2019 21:28:37.930 [00001ccc] --- IDXGIFactory2 CreateSwapChainForHwnd [25712410] D3D11Device disabled=0
+04.06.2019 21:28:37.930 [00001ccc] --- MyIDXGI11SwapChain1::MyIDXGI11SwapChain1[292fb650]
+04.06.2019 21:28:37.930 [00001ccc] --- WWW H[00040374] C[Qt5QWindowOwnDCIcon] W[RadeonSettings] T[00001ccc] M[002a057b] R[0,0 136x40] CR[0,0 120x1]
+04.06.2019 21:28:37.930 [00001ccc] --- DX11WarpContext 3241c040
+04.06.2019 21:28:37.930 [00001ccc] ------ IN=00000000
+04.06.2019 21:28:37.930 [00001ccc] ------ OUT=00000000
+04.06.2019 21:28:37.930 [00001ccc] ------ desc.BufferCount=1
+04.06.2019 21:28:37.930 [00001ccc] ------ desc.BufferDesc.Width=120
+04.06.2019 21:28:37.930 [00001ccc] ------ desc.BufferDesc.Height=1
+04.06.2019 21:28:37.930 [00001ccc] ------ desc.BufferDesc.Format=87
+04.06.2019 21:28:37.930 [00001ccc] ------ desc.BufferDesc.Scaling=0
+04.06.2019 21:28:37.930 [00001ccc] ------ desc.BufferDesc.ScanlineOrdering=0
+04.06.2019 21:28:37.930 [00001ccc] ------ desc.BufferDesc.RefreshRate.Denominator=1
+04.06.2019 21:28:37.930 [00001ccc] ------ desc.BufferDesc.RefreshRate.Numerator=0
+04.06.2019 21:28:37.930 [00001ccc] ------ desc.BufferUsage=112
+04.06.2019 21:28:37.930 [00001ccc] ------ desc.OutputWindow=00040374
+04.06.2019 21:28:37.930 [00001ccc] ------ desc.SampleDesc.Count=1
+04.06.2019 21:28:37.930 [00001ccc] ------ desc.SampleDesc.Quality=0
+04.06.2019 21:28:37.930 [00001ccc] ------ desc.Windowed=1
+04.06.2019 21:28:37.930 [00001ccc] ------ desc.SwapEffect=1[DXGI_SWAP_EFFECT_SEQUENTIAL]
+04.06.2019 21:28:37.930 [00001ccc] ------ desc.Flags=0
+04.06.2019 21:28:37.930 [00001ccc] ------ desc1.Stereo=0
+04.06.2019 21:28:37.930 [00001ccc] ------ desc1.AlphaMode=0
+04.06.2019 21:28:37.930 [00001ccc] --- preserveBB=1
+04.06.2019 21:28:37.977 [00001ccc] --- CreateSwapChainForHwnd pIDXGIFactory [25743cc0]
+04.06.2019 21:28:37.977 [00001ccc] --- IDXGIFactory2 CreateSwapChainForHwnd [25712410] D3D11Device disabled=0
+04.06.2019 21:28:37.977 [00001ccc] --- MyIDXGI11SwapChain1::MyIDXGI11SwapChain1[292fbed0]
+04.06.2019 21:28:37.977 [00001ccc] --- WWW H[00050374] C[Qt5QWindowOwnDCIcon] W[RadeonSettings] T[00001ccc] M[002a057b] R[0,0 136x40] CR[0,0 120x1]
+04.06.2019 21:28:37.977 [00001ccc] --- DX11WarpContext 35dca040
+04.06.2019 21:28:37.977 [00001ccc] ------ IN=00000000
+04.06.2019 21:28:37.977 [00001ccc] ------ OUT=00000000
+04.06.2019 21:28:37.977 [00001ccc] ------ desc.BufferCount=1
+04.06.2019 21:28:37.977 [00001ccc] ------ desc.BufferDesc.Width=120
+04.06.2019 21:28:37.977 [00001ccc] ------ desc.BufferDesc.Height=1
+04.06.2019 21:28:37.977 [00001ccc] ------ desc.BufferDesc.Format=87
+04.06.2019 21:28:37.977 [00001ccc] ------ desc.BufferDesc.Scaling=0
+04.06.2019 21:28:37.977 [00001ccc] ------ desc.BufferDesc.ScanlineOrdering=0
+04.06.2019 21:28:37.977 [00001ccc] ------ desc.BufferDesc.RefreshRate.Denominator=1
+04.06.2019 21:28:37.977 [00001ccc] ------ desc.BufferDesc.RefreshRate.Numerator=0
+04.06.2019 21:28:37.977 [00001ccc] ------ desc.BufferUsage=112
+04.06.2019 21:28:37.977 [00001ccc] ------ desc.OutputWindow=00050374
+04.06.2019 21:28:37.977 [00001ccc] ------ desc.SampleDesc.Count=1
+04.06.2019 21:28:37.977 [00001ccc] ------ desc.SampleDesc.Quality=0
+04.06.2019 21:28:37.977 [00001ccc] ------ desc.Windowed=1
+04.06.2019 21:28:37.977 [00001ccc] ------ desc.SwapEffect=1[DXGI_SWAP_EFFECT_SEQUENTIAL]
+04.06.2019 21:28:37.977 [00001ccc] ------ desc.Flags=0
+04.06.2019 21:28:37.977 [00001ccc] ------ desc1.Stereo=0
+04.06.2019 21:28:37.977 [00001ccc] ------ desc1.AlphaMode=0
+04.06.2019 21:28:37.977 [00001ccc] --- preserveBB=1
+04.06.2019 21:28:38.023 [00001ccc] --- CreateSwapChainForHwnd pIDXGIFactory [25743cc0]
+04.06.2019 21:28:38.023 [00001ccc] --- IDXGIFactory2 CreateSwapChainForHwnd [25712410] D3D11Device disabled=0
+04.06.2019 21:28:38.023 [00001ccc] --- MyIDXGI11SwapChain1::MyIDXGI11SwapChain1[292fd4f0]
+04.06.2019 21:28:38.023 [00001ccc] --- WWW H[00060374] C[Qt5QWindowOwnDCIcon] W[RadeonSettings] T[00001ccc] M[002a057b] R[0,0 136x40] CR[0,0 120x1]
+04.06.2019 21:28:38.023 [00001ccc] --- DX11WarpContext 36052040
+04.06.2019 21:28:38.023 [00001ccc] ------ IN=00000000
+04.06.2019 21:28:38.023 [00001ccc] ------ OUT=00000000
+04.06.2019 21:28:38.023 [00001ccc] ------ desc.BufferCount=1
+04.06.2019 21:28:38.023 [00001ccc] ------ desc.BufferDesc.Width=120
+04.06.2019 21:28:38.023 [00001ccc] ------ desc.BufferDesc.Height=1
+04.06.2019 21:28:38.023 [00001ccc] ------ desc.BufferDesc.Format=87
+04.06.2019 21:28:38.023 [00001ccc] ------ desc.BufferDesc.Scaling=0
+04.06.2019 21:28:38.023 [00001ccc] ------ desc.BufferDesc.ScanlineOrdering=0
+04.06.2019 21:28:38.023 [00001ccc] ------ desc.BufferDesc.RefreshRate.Denominator=1
+04.06.2019 21:28:38.023 [00001ccc] ------ desc.BufferDesc.RefreshRate.Numerator=0
+04.06.2019 21:28:38.023 [00001ccc] ------ desc.BufferUsage=112
+04.06.2019 21:28:38.023 [00001ccc] ------ desc.OutputWindow=00060374
+04.06.2019 21:28:38.023 [00001ccc] ------ desc.SampleDesc.Count=1
+04.06.2019 21:28:38.023 [00001ccc] ------ desc.SampleDesc.Quality=0
+04.06.2019 21:28:38.023 [00001ccc] ------ desc.Windowed=1
+04.06.2019 21:28:38.023 [00001ccc] ------ desc.SwapEffect=1[DXGI_SWAP_EFFECT_SEQUENTIAL]
+04.06.2019 21:28:38.023 [00001ccc] ------ desc.Flags=0
+04.06.2019 21:28:38.023 [00001ccc] ------ desc1.Stereo=0
+04.06.2019 21:28:38.023 [00001ccc] ------ desc1.AlphaMode=0
+04.06.2019 21:28:38.023 [00001ccc] --- preserveBB=1
+04.06.2019 21:28:38.086 [00001ccc] --- CreateSwapChainForHwnd pIDXGIFactory [25743cc0]
+04.06.2019 21:28:38.086 [00001ccc] --- IDXGIFactory2 CreateSwapChainForHwnd [25712410] D3D11Device disabled=0
+04.06.2019 21:28:38.086 [00001ccc] --- MyIDXGI11SwapChain1::MyIDXGI11SwapChain1[292fe2d0]
+04.06.2019 21:28:38.086 [00001ccc] --- WWW H[00070374] C[Qt5QWindowOwnDCIcon] W[RadeonSettings] T[00001ccc] M[002a057b] R[0,0 136x40] CR[0,0 120x1]
+04.06.2019 21:28:38.086 [00001ccc] --- DX11WarpContext 362ea040
+04.06.2019 21:28:38.086 [00001ccc] ------ IN=00000000
+04.06.2019 21:28:38.086 [00001ccc] ------ OUT=00000000
+04.06.2019 21:28:38.086 [00001ccc] ------ desc.BufferCount=1
+04.06.2019 21:28:38.086 [00001ccc] ------ desc.BufferDesc.Width=120
+04.06.2019 21:28:38.086 [00001ccc] ------ desc.BufferDesc.Height=1
+04.06.2019 21:28:38.086 [00001ccc] ------ desc.BufferDesc.Format=87
+04.06.2019 21:28:38.086 [00001ccc] ------ desc.BufferDesc.Scaling=0
+04.06.2019 21:28:38.086 [00001ccc] ------ desc.BufferDesc.ScanlineOrdering=0
+04.06.2019 21:28:38.086 [00001ccc] ------ desc.BufferDesc.RefreshRate.Denominator=1
+04.06.2019 21:28:38.086 [00001ccc] ------ desc.BufferDesc.RefreshRate.Numerator=0
+04.06.2019 21:28:38.086 [00001ccc] ------ desc.BufferUsage=112
+04.06.2019 21:28:38.086 [00001ccc] ------ desc.OutputWindow=00070374
+04.06.2019 21:28:38.086 [00001ccc] ------ desc.SampleDesc.Count=1
+04.06.2019 21:28:38.086 [00001ccc] ------ desc.SampleDesc.Quality=0
+04.06.2019 21:28:38.086 [00001ccc] ------ desc.Windowed=1
+04.06.2019 21:28:38.086 [00001ccc] ------ desc.SwapEffect=1[DXGI_SWAP_EFFECT_SEQUENTIAL]
+04.06.2019 21:28:38.086 [00001ccc] ------ desc.Flags=0
+04.06.2019 21:28:38.086 [00001ccc] ------ desc1.Stereo=0
+04.06.2019 21:28:38.086 [00001ccc] ------ desc1.AlphaMode=0
+04.06.2019 21:28:38.086 [00001ccc] --- preserveBB=1
+04.06.2019 21:28:38.102 [00001ccc] --- CreateSwapChainForHwnd pIDXGIFactory [25743cc0]
+04.06.2019 21:28:38.102 [00001ccc] --- IDXGIFactory2 CreateSwapChainForHwnd [25712410] D3D11Device disabled=0
+04.06.2019 21:28:38.102 [00001ccc] --- MyIDXGI11SwapChain1::MyIDXGI11SwapChain1[292ff990]
+04.06.2019 21:28:38.102 [00001ccc] --- WWW H[00080374] C[Qt5QWindowOwnDCIcon] W[RadeonSettings] T[00001ccc] M[002a057b] R[0,0 136x40] CR[0,0 120x1]
+04.06.2019 21:28:38.102 [00001ccc] --- DX11WarpContext 3657c040
+04.06.2019 21:28:38.102 [00001ccc] ------ IN=00000000
+04.06.2019 21:28:38.102 [00001ccc] ------ OUT=00000000
+04.06.2019 21:28:38.102 [00001ccc] ------ desc.BufferCount=1
+04.06.2019 21:28:38.102 [00001ccc] ------ desc.BufferDesc.Width=120
+04.06.2019 21:28:38.102 [00001ccc] ------ desc.BufferDesc.Height=1
+04.06.2019 21:28:38.102 [00001ccc] ------ desc.BufferDesc.Format=87
+04.06.2019 21:28:38.102 [00001ccc] ------ desc.BufferDesc.Scaling=0
+04.06.2019 21:28:38.102 [00001ccc] ------ desc.BufferDesc.ScanlineOrdering=0
+04.06.2019 21:28:38.102 [00001ccc] ------ desc.BufferDesc.RefreshRate.Denominator=1
+04.06.2019 21:28:38.102 [00001ccc] ------ desc.BufferDesc.RefreshRate.Numerator=0
+04.06.2019 21:28:38.102 [00001ccc] ------ desc.BufferUsage=112
+04.06.2019 21:28:38.102 [00001ccc] ------ desc.OutputWindow=00080374
+04.06.2019 21:28:38.102 [00001ccc] ------ desc.SampleDesc.Count=1
+04.06.2019 21:28:38.102 [00001ccc] ------ desc.SampleDesc.Quality=0
+04.06.2019 21:28:38.102 [00001ccc] ------ desc.Windowed=1
+04.06.2019 21:28:38.102 [00001ccc] ------ desc.SwapEffect=1[DXGI_SWAP_EFFECT_SEQUENTIAL]
+04.06.2019 21:28:38.102 [00001ccc] ------ desc.Flags=0
+04.06.2019 21:28:38.102 [00001ccc] ------ desc1.Stereo=0
+04.06.2019 21:28:38.102 [00001ccc] ------ desc1.AlphaMode=0
+04.06.2019 21:28:38.102 [00001ccc] --- preserveBB=1
