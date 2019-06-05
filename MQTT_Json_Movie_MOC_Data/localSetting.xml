@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalSetting xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WindowRectangle>
+    <X>0</X>
+    <Y>80</Y>
+    <Width>3840</Width>
+    <Height>1080</Height>
+  </WindowRectangle>
+  <MainButtonSize>
+    <x>265</x>
+    <y>85.7</y>
+  </MainButtonSize>
+  <MainButtonSize_One>
+    <x>370</x>
+    <y>115</y>
+  </MainButtonSize_One>
+</LocalSetting>
